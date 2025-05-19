@@ -1,0 +1,101 @@
+product_id,created_at,description,name,price,stock
+prod_1,2023-05-01,Descrição do Produto 1,Produto1,120.0,
+prod_10,2023-10-09,Descrição do Produto 10,Produto 10,186.0,
+prod_100,2023-08-19,Descrição do Produto 100,Produto 100,496.0,
+prod_11,2023-01-29,Descrição do Produto 11,Produto11,463.0,87
+prod_12,2023-07-05,Descrição do Produto 12,Produto 12,480.0,11
+prod_13,2023-08-09,Descrição do Produto 13,Produto13,238.0,
+prod_14,2023-02-26,Descrição do Produto 14,Produto 14,319.0,10
+prod_15,2023-07-10,Descrição do Produto 15,Produto15,430.0,24
+prod_16,2023-01-30,Descrição do Produto 16,Produto 16,364.0,
+prod_17,2023-08-20,Descrição do Produto 17,Produto17,392.0,44
+prod_18,2023-04-13,Descrição do Produto 18,Produto 18,225.0,42
+prod_19,2023-03-08,Descrição do Produto 19,Produto19,480.0,
+prod_2,2023-11-23,Descrição do Produto 2,Produto 2,433.0,55
+prod_20,2023-11-11,Descrição do Produto 20,Produto 20,237.0,36
+prod_21,2023-04-23,Descrição do Produto 21,Produto21,356.0,93
+prod_22,2023-12-31,Descrição do Produto 22,Produto 22,489.0,
+prod_23,2023-10-02,Descrição do Produto 23,Produto23,308.0,72
+prod_24,2023-03-30,Descrição do Produto 24,Produto 24,291.0,47
+prod_25,2023-06-29,Descrição do Produto 25,Produto25,335.0,
+prod_26,2023-04-12,Descrição do Produto 26,Produto 26,497.0,84
+prod_27,2023-07-26,Descrição do Produto 27,Produto27,460.0,10
+prod_28,2023-07-05,Descrição do Produto 28,Produto 28,363.0,
+prod_29,2023-11-06,Descrição do Produto 29,Produto29,292.0,22
+prod_3,2023-12-15,Descrição do Produto 3,Produto3,150.0,21
+prod_30,2023-04-09,Descrição do Produto 30,Produto 30,280.0,87
+prod_31,2023-01-26,Descrição do Produto 31,Produto31,422.0,
+prod_32,2023-06-18,Descrição do Produto 32,Produto 32,257.0,52
+prod_33,2023-08-14,Descrição do Produto 33,Produto33,276.0,24
+prod_34,2023-10-03,Descrição do Produto 34,Produto 34,106.0,
+prod_35,2023-05-18,Descrição do Produto 35,Produto35,393.0,69
+prod_36,2023-12-06,Descrição do Produto 36,Produto 36,452.0,42
+prod_37,2023-02-17,Descrição do Produto 37,Produto37,116.0,
+prod_38,2023-11-10,Descrição do Produto 38,Produto 38,86.0,94
+prod_39,2023-11-11,Descrição do Produto 39,Produto39,469.0,82
+prod_4,2023-12-07,Descrição do Produto 4,Produto 4,259.0,
+prod_40,2023-07-26,Descrição do Produto 40,Produto 40,303.0,
+prod_41,2023-07-07,Descrição do Produto 41,Produto41,211.0,30
+prod_42,2023-12-28,Descrição do Produto 42,Produto 42,306.0,58
+prod_43,2023-05-11,Descrição do Produto 43,Produto43,492.0,
+prod_44,2023-05-08,Descrição do Produto 44,Produto 44,378.0,91
+prod_45,2023-12-25,Descrição do Produto 45,Produto45,493.0,37
+prod_46,2023-01-12,Descrição do Produto 46,Produto 46,269.0,
+prod_47,2023-12-18,Descrição do Produto 47,Produto47,200.0,74
+prod_48,2023-05-28,Descrição do Produto 48,Produto 48,269.0,17
+prod_49,2023-11-23,Descrição do Produto 49,Produto49,364.0,
+prod_5,2023-03-28,Descrição do Produto 5,Produto5,411.0,27
+prod_50,2023-09-13,Descrição do Produto 50,Produto 50,234.0,24
+prod_51,2023-03-24,Descrição do Produto 51,Produto51,448.0,54
+prod_52,2023-07-08,Descrição do Produto 52,Produto 52,66.0,
+prod_53,2023-08-12,Descrição do Produto 53,Produto53,288.0,58
+prod_54,2023-06-11,Descrição do Produto 54,Produto 54,483.0,81
+prod_55,2023-06-30,Descrição do Produto 55,Produto55,497.0,
+prod_56,2023-07-27,Descrição do Produto 56,Produto 56,182.0,63
+prod_57,2023-03-04,Descrição do Produto 57,Produto57,103.0,15
+prod_58,2023-12-05,Descrição do Produto 58,Produto 58,442.0,
+prod_59,2023-05-19,Descrição do Produto 59,Produto59,495.0,82
+prod_6,2023-07-24,Descrição do Produto 6,Produto 6,351.0,78
+prod_60,2023-03-18,Descrição do Produto 60,Produto 60,500.0,86
+prod_61,2023-02-05,Descrição do Produto 61,Produto61,385.0,
+prod_62,2023-11-28,Descrição do Produto 62,Produto 62,137.0,92
+prod_63,2023-06-02,Descrição do Produto 63,Produto63,134.0,97
+prod_64,2023-09-07,Descrição do Produto 64,Produto 64,246.0,
+prod_65,2023-05-08,Descrição do Produto 65,Produto65,139.0,65
+prod_66,2023-10-17,Descrição do Produto 66,Produto 66,479.0,69
+prod_67,2023-08-05,Descrição do Produto 67,Produto67,114.0,
+prod_68,2023-09-16,Descrição do Produto 68,Produto 68,268.0,62
+prod_69,2023-11-26,Descrição do Produto 69,Produto69,451.0,96
+prod_7,2023-06-21,Descrição do Produto 7,Produto7,247.0,
+prod_70,2023-06-11,Descrição do Produto 70,Produto 70,225.0,
+prod_71,2023-09-18,Descrição do Produto 71,Produto71,190.0,38
+prod_72,2023-04-15,Descrição do Produto 72,Produto 72,378.0,16
+prod_73,2023-04-07,Descrição do Produto 73,Produto73,420.0,
+prod_74,2023-06-10,Descrição do Produto 74,Produto 74,393.0,69
+prod_75,2023-01-12,Descrição do Produto 75,Produto75,318.0,22
+prod_76,2023-05-23,Descrição do Produto 76,Produto 76,298.0,
+prod_77,2023-03-26,Descrição do Produto 77,Produto77,466.0,39
+prod_78,2023-06-30,Descrição do Produto 78,Produto 78,208.0,98
+prod_79,2023-05-07,Descrição do Produto 79,Produto79,455.0,
+prod_8,2023-05-20,Descrição do Produto 8,Produto 8,315.0,90
+prod_80,2023-05-27,Descrição do Produto 80,Produto 80,341.0,43
+prod_81,2023-12-06,Descrição do Produto 81,Produto81,62.0,52
+prod_82,2023-05-01,Descrição do Produto 82,Produto 82,321.0,
+prod_83,2023-03-15,Descrição do Produto 83,Produto83,271.0,40
+prod_84,2023-07-12,Descrição do Produto 84,Produto 84,298.0,58
+prod_85,2023-02-13,Descrição do Produto 85,Produto85,485.0,
+prod_86,2023-06-02,Descrição do Produto 86,Produto 86,55.0,90
+prod_87,2023-05-07,Descrição do Produto 87,Produto87,456.0,50
+prod_88,2023-11-03,Descrição do Produto 88,Produto 88,265.0,
+prod_89,2023-04-29,Descrição do Produto 89,Produto89,202.0,61
+prod_9,2023-11-29,Descrição do Produto 9,Produto9,284.0,61
+prod_90,2023-02-18,Descrição do Produto 90,Produto 90,498.0,76
+prod_91,2023-08-28,Descrição do Produto 91,Produto91,466.0,
+prod_92,2023-11-21,Descrição do Produto 92,Produto 92,102.0,61
+prod_93,2023-09-07,Descrição do Produto 93,Produto93,160.0,42
+prod_94,2023-12-01,Descrição do Produto 94,Produto 94,425.0,
+prod_95,2023-03-15,Descrição do Produto 95,Produto95,296.0,93
+prod_96,2023-09-29,Descrição do Produto 96,Produto 96,438.0,23
+prod_97,2023-02-07,Descrição do Produto 97,Produto97,295.0,
+prod_98,2023-10-28,Descrição do Produto 98,Produto 98,383.0,28
+prod_99,2023-11-04,Descrição do Produto 99,Produto99,354.0,82
