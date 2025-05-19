@@ -1,0 +1,2701 @@
+order_id,var_name,var_value
+order_1,user_id,user_270
+order_1,created_at,2023-09-09
+order_1,items,"[{'product_id': 'prod_77', 'quantity': 3}, {'product_id': 'prod_39', 'quantity': 1}, {'product_id': 'prod_58', 'quantity': 2}, {'product_id': 'prod_26', 'quantity': 1}]"
+order_1,total,"R$ 2,393,37"
+order_1,payment_status,pago
+order_1,payment_method,boleto
+order_1,payment_date,2023-01-11
+order_1,shipping_status,enviado
+order_1,shipping_status_date,2023/05/27
+order_2,user_id,user_786
+order_2,created_at,2023-04-13
+order_2,items,"[{'product_id': 'prod_24', 'quantity': 2}, {'product_id': 'prod_40', 'quantity': 3}, {'product_id': 'prod_3', 'quantity': 1}]"
+order_2,total,"R$ 1,782,68"
+order_2,payment_status,não pago
+order_2,payment_method,
+order_2,payment_date,
+order_2,shipping_status,enviado
+order_2,shipping_status_date,2023-09-07
+order_3,user_id,user_378
+order_3,created_at,2023-11-25
+order_3,items,"[{'product_id': 'prod_30', 'quantity': 3}, {'product_id': 'prod_28', 'quantity': 2}, {'product_id': 'prod_51', 'quantity': 2}]"
+order_3,total,"R$ 2,235,51"
+order_3,payment_status,pago
+order_3,payment_method,débito
+order_3,payment_date,2023-06-01
+order_3,shipping_status,preparando envio
+order_3,shipping_status_date,08-11-2023
+order_4,user_id,user_720
+order_4,created_at,2023/10/29
+order_4,items,"[{'product_id': 'prod_78', 'quantity': 2}, {'product_id': 'prod_79', 'quantity': 2}, {'product_id': 'prod_74', 'quantity': 3}]"
+order_4,total,"R$ 2,003,02"
+order_4,payment_status,pendente
+order_4,payment_method,
+order_4,payment_date,
+order_4,shipping_status,enviado
+order_4,shipping_status_date,2023/11/24
+order_5,user_id,user_457
+order_5,created_at,2023-09-17
+order_5,items,"[{'product_id': 'prod_16', 'quantity': 3}, {'product_id': 'prod_31', 'quantity': 3}, {'product_id': 'prod_13', 'quantity': 1}, {'product_id': 'prod_98', 'quantity': 1}]"
+order_5,total,"R$ 306,11"
+order_5,payment_status,não pago
+order_5,payment_method,
+order_5,payment_date,
+order_5,shipping_status,entregue
+order_5,shipping_status_date,09-08-2023
+order_6,user_id,user_396
+order_6,created_at,2023-08-02
+order_6,items,"[{'product_id': 'prod_68', 'quantity': 3}]"
+order_6,total,"R$ 592,21"
+order_6,payment_status,pendente
+order_6,payment_method,
+order_6,payment_date,
+order_6,shipping_status,aguardando pagamento
+order_6,shipping_status_date,2023/11/17
+order_7,user_id,user_923
+order_7,created_at,17-03-2023
+order_7,items,"[{'product_id': 'prod_9', 'quantity': 3}, {'product_id': 'prod_58', 'quantity': 3}]"
+order_7,total,"R$ 2,725,04"
+order_7,payment_status,pendente
+order_7,payment_method,
+order_7,payment_date,
+order_7,shipping_status,entregue
+order_7,shipping_status_date,28-01-2023
+order_8,user_id,user_794
+order_8,created_at,2023/02/15
+order_8,items,"[{'product_id': 'prod_32', 'quantity': 2}, {'product_id': 'prod_7', 'quantity': 2}, {'product_id': 'prod_70', 'quantity': 1}]"
+order_8,total,"R$ 1,222,29"
+order_8,payment_status,pendente
+order_8,payment_method,
+order_8,payment_date,
+order_8,shipping_status,entregue
+order_8,shipping_status_date,2023/04/26
+order_9,user_id,user_375
+order_9,created_at,20-03-2023
+order_9,items,"[{'product_id': 'prod_52', 'quantity': 3}]"
+order_9,total,"R$ 1,405,97"
+order_9,payment_status,pendente
+order_9,payment_method,
+order_9,payment_date,
+order_9,shipping_status,enviado
+order_9,shipping_status_date,2023-06-10
+order_10,user_id,user_746
+order_10,created_at,2023/06/26
+order_10,items,"[{'product_id': 'prod_93', 'quantity': 2}, {'product_id': 'prod_80', 'quantity': 1}, {'product_id': 'prod_91', 'quantity': 2}]"
+order_10,total,"R$ 2,470,36"
+order_10,payment_status,pendente
+order_10,payment_method,
+order_10,payment_date,
+order_10,shipping_status,enviado
+order_10,shipping_status_date,2023/05/24
+order_11,user_id,user_671
+order_11,created_at,15-01-2023
+order_11,items,"[{'product_id': 'prod_16', 'quantity': 1}, {'product_id': 'prod_61', 'quantity': 3}]"
+order_11,total,"R$ 340,53"
+order_11,payment_status,pendente
+order_11,payment_method,
+order_11,payment_date,
+order_11,shipping_status,enviado
+order_11,shipping_status_date,2023/05/11
+order_12,user_id,user_177
+order_12,created_at,27-01-2023
+order_12,items,"[{'product_id': 'prod_41', 'quantity': 1}, {'product_id': 'prod_4', 'quantity': 3}]"
+order_12,total,"R$ 2,820,57"
+order_12,payment_status,pago
+order_12,payment_method,dinheiro
+order_12,payment_date,02-04-2023
+order_12,shipping_status,preparando envio
+order_12,shipping_status_date,2023/06/28
+order_13,user_id,user_580
+order_13,created_at,14-12-2023
+order_13,items,"[{'product_id': 'prod_67', 'quantity': 1}]"
+order_13,total,"R$ 1,032,39"
+order_13,payment_status,não pago
+order_13,payment_method,
+order_13,payment_date,
+order_13,shipping_status,preparando envio
+order_13,shipping_status_date,2023/05/26
+order_14,user_id,user_754
+order_14,created_at,16-08-2023
+order_14,items,"[{'product_id': 'prod_72', 'quantity': 3}, {'product_id': 'prod_44', 'quantity': 3}]"
+order_14,total,"R$ 1,171,36"
+order_14,payment_status,não pago
+order_14,payment_method,
+order_14,payment_date,
+order_14,shipping_status,preparando envio
+order_14,shipping_status_date,2023/08/02
+order_15,user_id,user_289
+order_15,created_at,27-08-2023
+order_15,items,"[{'product_id': 'prod_81', 'quantity': 1}, {'product_id': 'prod_76', 'quantity': 1}]"
+order_15,total,"R$ 893,90"
+order_15,payment_status,não pago
+order_15,payment_method,
+order_15,payment_date,
+order_15,shipping_status,enviado
+order_15,shipping_status_date,2023-08-03
+order_16,user_id,user_562
+order_16,created_at,2023-06-10
+order_16,items,"[{'product_id': 'prod_94', 'quantity': 2}]"
+order_16,total,"R$ 239,41"
+order_16,payment_status,pendente
+order_16,payment_method,
+order_16,payment_date,
+order_16,shipping_status,aguardando pagamento
+order_16,shipping_status_date,2023-04-21
+order_17,user_id,user_463
+order_17,created_at,13-06-2023
+order_17,items,"[{'product_id': 'prod_35', 'quantity': 2}, {'product_id': 'prod_2', 'quantity': 2}, {'product_id': 'prod_68', 'quantity': 3}, {'product_id': 'prod_80', 'quantity': 3}]"
+order_17,total,"R$ 2,736,40"
+order_17,payment_status,pago
+order_17,payment_method,pix
+order_17,payment_date,2023-08-15
+order_17,shipping_status,aguardando pagamento
+order_17,shipping_status_date,2023-12-14
+order_18,user_id,user_295
+order_18,created_at,24-11-2023
+order_18,items,"[{'product_id': 'prod_57', 'quantity': 3}, {'product_id': 'prod_74', 'quantity': 3}, {'product_id': 'prod_92', 'quantity': 1}, {'product_id': 'prod_21', 'quantity': 2}]"
+order_18,total,"R$ 240,46"
+order_18,payment_status,pendente
+order_18,payment_method,
+order_18,payment_date,
+order_18,shipping_status,enviado
+order_18,shipping_status_date,2023/04/27
+order_19,user_id,user_187
+order_19,created_at,2023-08-30
+order_19,items,"[{'product_id': 'prod_67', 'quantity': 2}, {'product_id': 'prod_41', 'quantity': 1}, {'product_id': 'prod_8', 'quantity': 1}]"
+order_19,total,"R$ 942,27"
+order_19,payment_status,não pago
+order_19,payment_method,
+order_19,payment_date,
+order_19,shipping_status,preparando envio
+order_19,shipping_status_date,2023-09-26
+order_20,user_id,user_984
+order_20,created_at,2023/05/26
+order_20,items,"[{'product_id': 'prod_3', 'quantity': 3}, {'product_id': 'prod_100', 'quantity': 3}, {'product_id': 'prod_54', 'quantity': 1}, {'product_id': 'prod_37', 'quantity': 3}]"
+order_20,total,"R$ 1,810,70"
+order_20,payment_status,pago
+order_20,payment_method,pix
+order_20,payment_date,04-06-2023
+order_20,shipping_status,entregue
+order_20,shipping_status_date,2023-07-07
+order_21,user_id,user_80
+order_21,created_at,30-06-2023
+order_21,items,"[{'product_id': 'prod_5', 'quantity': 3}]"
+order_21,total,"R$ 2,950,62"
+order_21,payment_status,pendente
+order_21,payment_method,
+order_21,payment_date,
+order_21,shipping_status,enviado
+order_21,shipping_status_date,2023/08/06
+order_22,user_id,user_828
+order_22,created_at,20-10-2023
+order_22,items,"[{'product_id': 'prod_82', 'quantity': 2}]"
+order_22,total,"R$ 950,32"
+order_22,payment_status,pendente
+order_22,payment_method,
+order_22,payment_date,
+order_22,shipping_status,entregue
+order_22,shipping_status_date,2023/11/07
+order_23,user_id,user_34
+order_23,created_at,14-06-2023
+order_23,items,"[{'product_id': 'prod_29', 'quantity': 3}]"
+order_23,total,"R$ 1,889,25"
+order_23,payment_status,não pago
+order_23,payment_method,
+order_23,payment_date,
+order_23,shipping_status,entregue
+order_23,shipping_status_date,2023/07/31
+order_24,user_id,user_390
+order_24,created_at,24-06-2023
+order_24,items,"[{'product_id': 'prod_13', 'quantity': 2}]"
+order_24,total,"R$ 2,164,79"
+order_24,payment_status,pendente
+order_24,payment_method,
+order_24,payment_date,
+order_24,shipping_status,aguardando pagamento
+order_24,shipping_status_date,2023-12-25
+order_25,user_id,user_373
+order_25,created_at,2023/06/29
+order_25,items,"[{'product_id': 'prod_75', 'quantity': 2}, {'product_id': 'prod_97', 'quantity': 2}, {'product_id': 'prod_46', 'quantity': 2}, {'product_id': 'prod_25', 'quantity': 3}]"
+order_25,total,"R$ 410,84"
+order_25,payment_status,pago
+order_25,payment_method,pix
+order_25,payment_date,2023-10-18
+order_25,shipping_status,preparando envio
+order_25,shipping_status_date,2023/01/01
+order_26,user_id,user_894
+order_26,created_at,2023-09-03
+order_26,items,"[{'product_id': 'prod_42', 'quantity': 3}, {'product_id': 'prod_60', 'quantity': 2}, {'product_id': 'prod_17', 'quantity': 3}, {'product_id': 'prod_12', 'quantity': 3}]"
+order_26,total,"R$ 1,576,14"
+order_26,payment_status,pago
+order_26,payment_method,boleto
+order_26,payment_date,2023/04/28
+order_26,shipping_status,entregue
+order_26,shipping_status_date,2023-01-08
+order_27,user_id,user_967
+order_27,created_at,16-05-2023
+order_27,items,"[{'product_id': 'prod_53', 'quantity': 1}, {'product_id': 'prod_49', 'quantity': 3}, {'product_id': 'prod_92', 'quantity': 2}, {'product_id': 'prod_35', 'quantity': 1}]"
+order_27,total,"R$ 1,039,62"
+order_27,payment_status,pendente
+order_27,payment_method,
+order_27,payment_date,
+order_27,shipping_status,enviado
+order_27,shipping_status_date,2023/11/11
+order_28,user_id,user_839
+order_28,created_at,2023/08/10
+order_28,items,"[{'product_id': 'prod_50', 'quantity': 2}, {'product_id': 'prod_79', 'quantity': 1}, {'product_id': 'prod_65', 'quantity': 1}]"
+order_28,total,"R$ 1,933,57"
+order_28,payment_status,pendente
+order_28,payment_method,
+order_28,payment_date,
+order_28,shipping_status,aguardando pagamento
+order_28,shipping_status_date,06-04-2023
+order_29,user_id,user_832
+order_29,created_at,21-05-2023
+order_29,items,"[{'product_id': 'prod_3', 'quantity': 3}, {'product_id': 'prod_65', 'quantity': 2}, {'product_id': 'prod_73', 'quantity': 1}]"
+order_29,total,"R$ 562,65"
+order_29,payment_status,pendente
+order_29,payment_method,
+order_29,payment_date,
+order_29,shipping_status,preparando envio
+order_29,shipping_status_date,2023-09-25
+order_30,user_id,user_661
+order_30,created_at,2023-12-19
+order_30,items,"[{'product_id': 'prod_98', 'quantity': 2}, {'product_id': 'prod_22', 'quantity': 2}, {'product_id': 'prod_82', 'quantity': 2}]"
+order_30,total,"R$ 870,87"
+order_30,payment_status,pendente
+order_30,payment_method,
+order_30,payment_date,
+order_30,shipping_status,preparando envio
+order_30,shipping_status_date,2023-10-16
+order_31,user_id,user_748
+order_31,created_at,08-05-2023
+order_31,items,"[{'product_id': 'prod_28', 'quantity': 1}, {'product_id': 'prod_4', 'quantity': 3}, {'product_id': 'prod_16', 'quantity': 3}, {'product_id': 'prod_58', 'quantity': 1}]"
+order_31,total,"R$ 2,007,41"
+order_31,payment_status,pago
+order_31,payment_method,dinheiro
+order_31,payment_date,2023/04/21
+order_31,shipping_status,aguardando pagamento
+order_31,shipping_status_date,2023/04/10
+order_32,user_id,user_317
+order_32,created_at,2023/11/26
+order_32,items,"[{'product_id': 'prod_7', 'quantity': 1}]"
+order_32,total,"R$ 1,608,04"
+order_32,payment_status,não pago
+order_32,payment_method,
+order_32,payment_date,
+order_32,shipping_status,preparando envio
+order_32,shipping_status_date,2023-12-29
+order_33,user_id,user_264
+order_33,created_at,16-01-2023
+order_33,items,"[{'product_id': 'prod_8', 'quantity': 3}, {'product_id': 'prod_62', 'quantity': 3}, {'product_id': 'prod_100', 'quantity': 3}]"
+order_33,total,"R$ 2,003,25"
+order_33,payment_status,não pago
+order_33,payment_method,
+order_33,payment_date,
+order_33,shipping_status,preparando envio
+order_33,shipping_status_date,2023/04/20
+order_34,user_id,user_565
+order_34,created_at,2023/08/04
+order_34,items,"[{'product_id': 'prod_20', 'quantity': 2}, {'product_id': 'prod_29', 'quantity': 2}, {'product_id': 'prod_84', 'quantity': 1}]"
+order_34,total,"R$ 2,198,21"
+order_34,payment_status,não pago
+order_34,payment_method,
+order_34,payment_date,
+order_34,shipping_status,aguardando pagamento
+order_34,shipping_status_date,2023-01-16
+order_35,user_id,user_283
+order_35,created_at,2023/11/15
+order_35,items,"[{'product_id': 'prod_89', 'quantity': 3}]"
+order_35,total,"R$ 125,05"
+order_35,payment_status,pago
+order_35,payment_method,pix
+order_35,payment_date,2023-01-29
+order_35,shipping_status,enviado
+order_35,shipping_status_date,2023-01-11
+order_36,user_id,user_523
+order_36,created_at,11-10-2023
+order_36,items,"[{'product_id': 'prod_67', 'quantity': 2}]"
+order_36,total,"R$ 2,219,78"
+order_36,payment_status,pendente
+order_36,payment_method,
+order_36,payment_date,
+order_36,shipping_status,enviado
+order_36,shipping_status_date,2023/07/28
+order_37,user_id,user_387
+order_37,created_at,2023/11/10
+order_37,items,"[{'product_id': 'prod_42', 'quantity': 3}, {'product_id': 'prod_53', 'quantity': 1}, {'product_id': 'prod_95', 'quantity': 1}, {'product_id': 'prod_63', 'quantity': 2}]"
+order_37,total,"R$ 931,41"
+order_37,payment_status,pendente
+order_37,payment_method,
+order_37,payment_date,
+order_37,shipping_status,enviado
+order_37,shipping_status_date,2023/06/14
+order_38,user_id,user_357
+order_38,created_at,2023/05/06
+order_38,items,"[{'product_id': 'prod_28', 'quantity': 2}]"
+order_38,total,"R$ 2,435,18"
+order_38,payment_status,não pago
+order_38,payment_method,
+order_38,payment_date,
+order_38,shipping_status,entregue
+order_38,shipping_status_date,19-02-2023
+order_39,user_id,user_124
+order_39,created_at,25-01-2023
+order_39,items,"[{'product_id': 'prod_52', 'quantity': 1}]"
+order_39,total,"R$ 2,140,86"
+order_39,payment_status,pendente
+order_39,payment_method,
+order_39,payment_date,
+order_39,shipping_status,preparando envio
+order_39,shipping_status_date,2023/12/13
+order_40,user_id,user_399
+order_40,created_at,2023/02/25
+order_40,items,"[{'product_id': 'prod_69', 'quantity': 3}]"
+order_40,total,"R$ 2,825,22"
+order_40,payment_status,pendente
+order_40,payment_method,
+order_40,payment_date,
+order_40,shipping_status,aguardando pagamento
+order_40,shipping_status_date,2023/07/27
+order_41,user_id,user_770
+order_41,created_at,21-01-2023
+order_41,items,"[{'product_id': 'prod_18', 'quantity': 3}, {'product_id': 'prod_100', 'quantity': 3}, {'product_id': 'prod_52', 'quantity': 3}, {'product_id': 'prod_98', 'quantity': 3}]"
+order_41,total,"R$ 2,690,35"
+order_41,payment_status,não pago
+order_41,payment_method,
+order_41,payment_date,
+order_41,shipping_status,aguardando pagamento
+order_41,shipping_status_date,09-05-2023
+order_42,user_id,user_430
+order_42,created_at,2023/07/31
+order_42,items,"[{'product_id': 'prod_66', 'quantity': 1}, {'product_id': 'prod_12', 'quantity': 2}]"
+order_42,total,"R$ 1,170,22"
+order_42,payment_status,pago
+order_42,payment_method,débito
+order_42,payment_date,2023/03/13
+order_42,shipping_status,enviado
+order_42,shipping_status_date,17-07-2023
+order_43,user_id,user_261
+order_43,created_at,2023-11-22
+order_43,items,"[{'product_id': 'prod_71', 'quantity': 3}, {'product_id': 'prod_23', 'quantity': 1}]"
+order_43,total,"R$ 2,639,79"
+order_43,payment_status,pendente
+order_43,payment_method,
+order_43,payment_date,
+order_43,shipping_status,entregue
+order_43,shipping_status_date,21-03-2023
+order_44,user_id,user_147
+order_44,created_at,06-08-2023
+order_44,items,"[{'product_id': 'prod_23', 'quantity': 2}, {'product_id': 'prod_74', 'quantity': 3}]"
+order_44,total,"R$ 511,05"
+order_44,payment_status,pago
+order_44,payment_method,boleto
+order_44,payment_date,23-05-2023
+order_44,shipping_status,preparando envio
+order_44,shipping_status_date,05-07-2023
+order_45,user_id,user_928
+order_45,created_at,2023/12/23
+order_45,items,"[{'product_id': 'prod_18', 'quantity': 2}, {'product_id': 'prod_43', 'quantity': 3}, {'product_id': 'prod_50', 'quantity': 2}, {'product_id': 'prod_25', 'quantity': 1}]"
+order_45,total,"R$ 1,898,61"
+order_45,payment_status,pago
+order_45,payment_method,pix
+order_45,payment_date,2023/08/21
+order_45,shipping_status,preparando envio
+order_45,shipping_status_date,2023-01-16
+order_46,user_id,user_290
+order_46,created_at,2023-02-25
+order_46,items,"[{'product_id': 'prod_98', 'quantity': 1}]"
+order_46,total,"R$ 2,364,42"
+order_46,payment_status,pendente
+order_46,payment_method,
+order_46,payment_date,
+order_46,shipping_status,preparando envio
+order_46,shipping_status_date,12-01-2023
+order_47,user_id,user_216
+order_47,created_at,2023-01-20
+order_47,items,"[{'product_id': 'prod_52', 'quantity': 2}]"
+order_47,total,"R$ 2,966,70"
+order_47,payment_status,não pago
+order_47,payment_method,
+order_47,payment_date,
+order_47,shipping_status,enviado
+order_47,shipping_status_date,2023/04/13
+order_48,user_id,user_536
+order_48,created_at,2023/07/19
+order_48,items,"[{'product_id': 'prod_70', 'quantity': 1}, {'product_id': 'prod_7', 'quantity': 1}]"
+order_48,total,"R$ 2,752,48"
+order_48,payment_status,não pago
+order_48,payment_method,
+order_48,payment_date,
+order_48,shipping_status,preparando envio
+order_48,shipping_status_date,2023-07-12
+order_49,user_id,user_687
+order_49,created_at,2023/03/28
+order_49,items,"[{'product_id': 'prod_99', 'quantity': 1}, {'product_id': 'prod_24', 'quantity': 1}]"
+order_49,total,"R$ 2,246,73"
+order_49,payment_status,pago
+order_49,payment_method,débito
+order_49,payment_date,2023/06/27
+order_49,shipping_status,preparando envio
+order_49,shipping_status_date,2023/09/03
+order_50,user_id,user_531
+order_50,created_at,2023/11/24
+order_50,items,"[{'product_id': 'prod_79', 'quantity': 2}, {'product_id': 'prod_78', 'quantity': 1}]"
+order_50,total,"R$ 712,95"
+order_50,payment_status,pago
+order_50,payment_method,dinheiro
+order_50,payment_date,2023-06-07
+order_50,shipping_status,entregue
+order_50,shipping_status_date,2023/07/01
+order_51,user_id,user_755
+order_51,created_at,2023/12/06
+order_51,items,"[{'product_id': 'prod_94', 'quantity': 3}, {'product_id': 'prod_22', 'quantity': 1}]"
+order_51,total,"R$ 2,257,12"
+order_51,payment_status,pago
+order_51,payment_method,crédito
+order_51,payment_date,2023-01-24
+order_51,shipping_status,enviado
+order_51,shipping_status_date,2023/05/28
+order_52,user_id,user_439
+order_52,created_at,09-12-2023
+order_52,items,"[{'product_id': 'prod_10', 'quantity': 1}, {'product_id': 'prod_35', 'quantity': 2}, {'product_id': 'prod_100', 'quantity': 2}, {'product_id': 'prod_70', 'quantity': 1}]"
+order_52,total,"R$ 572,50"
+order_52,payment_status,pago
+order_52,payment_method,dinheiro
+order_52,payment_date,2023-10-30
+order_52,shipping_status,aguardando pagamento
+order_52,shipping_status_date,2023/08/12
+order_53,user_id,user_696
+order_53,created_at,03-01-2023
+order_53,items,"[{'product_id': 'prod_52', 'quantity': 3}, {'product_id': 'prod_83', 'quantity': 3}]"
+order_53,total,"R$ 2,814,86"
+order_53,payment_status,pendente
+order_53,payment_method,
+order_53,payment_date,
+order_53,shipping_status,entregue
+order_53,shipping_status_date,27-07-2023
+order_54,user_id,user_616
+order_54,created_at,09-02-2023
+order_54,items,"[{'product_id': 'prod_27', 'quantity': 2}, {'product_id': 'prod_26', 'quantity': 2}, {'product_id': 'prod_94', 'quantity': 3}, {'product_id': 'prod_58', 'quantity': 1}]"
+order_54,total,"R$ 1,765,51"
+order_54,payment_status,pendente
+order_54,payment_method,
+order_54,payment_date,
+order_54,shipping_status,preparando envio
+order_54,shipping_status_date,21-04-2023
+order_55,user_id,user_260
+order_55,created_at,2023/05/23
+order_55,items,"[{'product_id': 'prod_62', 'quantity': 2}]"
+order_55,total,"R$ 2,610,84"
+order_55,payment_status,não pago
+order_55,payment_method,
+order_55,payment_date,
+order_55,shipping_status,enviado
+order_55,shipping_status_date,29-08-2023
+order_56,user_id,user_483
+order_56,created_at,20-03-2023
+order_56,items,"[{'product_id': 'prod_86', 'quantity': 2}, {'product_id': 'prod_73', 'quantity': 3}, {'product_id': 'prod_31', 'quantity': 3}, {'product_id': 'prod_95', 'quantity': 1}]"
+order_56,total,"R$ 1,510,25"
+order_56,payment_status,não pago
+order_56,payment_method,
+order_56,payment_date,
+order_56,shipping_status,aguardando pagamento
+order_56,shipping_status_date,2023-08-20
+order_57,user_id,user_43
+order_57,created_at,2023/04/22
+order_57,items,"[{'product_id': 'prod_58', 'quantity': 1}]"
+order_57,total,"R$ 1,419,37"
+order_57,payment_status,não pago
+order_57,payment_method,
+order_57,payment_date,
+order_57,shipping_status,preparando envio
+order_57,shipping_status_date,2023-07-07
+order_58,user_id,user_619
+order_58,created_at,2023-12-04
+order_58,items,"[{'product_id': 'prod_44', 'quantity': 3}, {'product_id': 'prod_40', 'quantity': 3}, {'product_id': 'prod_62', 'quantity': 3}]"
+order_58,total,"R$ 2,066,93"
+order_58,payment_status,não pago
+order_58,payment_method,
+order_58,payment_date,
+order_58,shipping_status,aguardando pagamento
+order_58,shipping_status_date,2023/09/29
+order_59,user_id,user_860
+order_59,created_at,2023-11-11
+order_59,items,"[{'product_id': 'prod_69', 'quantity': 1}, {'product_id': 'prod_51', 'quantity': 3}]"
+order_59,total,"R$ 1,743,92"
+order_59,payment_status,pendente
+order_59,payment_method,
+order_59,payment_date,
+order_59,shipping_status,aguardando pagamento
+order_59,shipping_status_date,05-10-2023
+order_60,user_id,user_253
+order_60,created_at,2023-02-18
+order_60,items,"[{'product_id': 'prod_23', 'quantity': 2}, {'product_id': 'prod_92', 'quantity': 2}]"
+order_60,total,"R$ 2,950,73"
+order_60,payment_status,pago
+order_60,payment_method,pix
+order_60,payment_date,07-06-2023
+order_60,shipping_status,preparando envio
+order_60,shipping_status_date,2023-04-20
+order_61,user_id,user_613
+order_61,created_at,2023-06-28
+order_61,items,"[{'product_id': 'prod_87', 'quantity': 1}, {'product_id': 'prod_40', 'quantity': 2}]"
+order_61,total,"R$ 642,71"
+order_61,payment_status,pago
+order_61,payment_method,crédito
+order_61,payment_date,2023/06/08
+order_61,shipping_status,entregue
+order_61,shipping_status_date,2023-06-17
+order_62,user_id,user_102
+order_62,created_at,2023-02-23
+order_62,items,"[{'product_id': 'prod_23', 'quantity': 1}, {'product_id': 'prod_35', 'quantity': 1}, {'product_id': 'prod_53', 'quantity': 1}, {'product_id': 'prod_41', 'quantity': 2}]"
+order_62,total,"R$ 2,097,97"
+order_62,payment_status,pago
+order_62,payment_method,pix
+order_62,payment_date,24-04-2023
+order_62,shipping_status,enviado
+order_62,shipping_status_date,2023-05-25
+order_63,user_id,user_307
+order_63,created_at,2023-12-10
+order_63,items,"[{'product_id': 'prod_10', 'quantity': 2}, {'product_id': 'prod_64', 'quantity': 2}, {'product_id': 'prod_3', 'quantity': 1}, {'product_id': 'prod_5', 'quantity': 3}]"
+order_63,total,"R$ 1,269,58"
+order_63,payment_status,pago
+order_63,payment_method,dinheiro
+order_63,payment_date,22-08-2023
+order_63,shipping_status,enviado
+order_63,shipping_status_date,19-05-2023
+order_64,user_id,user_675
+order_64,created_at,03-04-2023
+order_64,items,"[{'product_id': 'prod_92', 'quantity': 1}]"
+order_64,total,"R$ 891,17"
+order_64,payment_status,pendente
+order_64,payment_method,
+order_64,payment_date,
+order_64,shipping_status,enviado
+order_64,shipping_status_date,05-07-2023
+order_65,user_id,user_390
+order_65,created_at,07-04-2023
+order_65,items,"[{'product_id': 'prod_77', 'quantity': 3}, {'product_id': 'prod_96', 'quantity': 1}, {'product_id': 'prod_70', 'quantity': 2}]"
+order_65,total,"R$ 2,231,23"
+order_65,payment_status,pendente
+order_65,payment_method,
+order_65,payment_date,
+order_65,shipping_status,entregue
+order_65,shipping_status_date,03-04-2023
+order_66,user_id,user_715
+order_66,created_at,2023/04/29
+order_66,items,"[{'product_id': 'prod_12', 'quantity': 1}, {'product_id': 'prod_4', 'quantity': 1}, {'product_id': 'prod_46', 'quantity': 1}, {'product_id': 'prod_34', 'quantity': 3}]"
+order_66,total,"R$ 1,596,44"
+order_66,payment_status,não pago
+order_66,payment_method,
+order_66,payment_date,
+order_66,shipping_status,preparando envio
+order_66,shipping_status_date,2023/11/12
+order_67,user_id,user_220
+order_67,created_at,2023-11-26
+order_67,items,"[{'product_id': 'prod_42', 'quantity': 3}, {'product_id': 'prod_8', 'quantity': 3}, {'product_id': 'prod_77', 'quantity': 3}, {'product_id': 'prod_35', 'quantity': 3}]"
+order_67,total,"R$ 2,221,32"
+order_67,payment_status,pago
+order_67,payment_method,dinheiro
+order_67,payment_date,2023/11/13
+order_67,shipping_status,entregue
+order_67,shipping_status_date,2023-04-12
+order_68,user_id,user_930
+order_68,created_at,05-06-2023
+order_68,items,"[{'product_id': 'prod_67', 'quantity': 1}, {'product_id': 'prod_78', 'quantity': 3}, {'product_id': 'prod_15', 'quantity': 3}]"
+order_68,total,"R$ 2,449,94"
+order_68,payment_status,pendente
+order_68,payment_method,
+order_68,payment_date,
+order_68,shipping_status,preparando envio
+order_68,shipping_status_date,2023/11/30
+order_69,user_id,user_767
+order_69,created_at,13-06-2023
+order_69,items,"[{'product_id': 'prod_58', 'quantity': 3}, {'product_id': 'prod_16', 'quantity': 2}, {'product_id': 'prod_36', 'quantity': 3}, {'product_id': 'prod_30', 'quantity': 1}]"
+order_69,total,"R$ 2,811,61"
+order_69,payment_status,não pago
+order_69,payment_method,
+order_69,payment_date,
+order_69,shipping_status,enviado
+order_69,shipping_status_date,08-08-2023
+order_70,user_id,user_605
+order_70,created_at,2023/01/02
+order_70,items,"[{'product_id': 'prod_81', 'quantity': 2}]"
+order_70,total,"R$ 897,03"
+order_70,payment_status,pendente
+order_70,payment_method,
+order_70,payment_date,
+order_70,shipping_status,entregue
+order_70,shipping_status_date,2023-06-30
+order_71,user_id,user_330
+order_71,created_at,07-04-2023
+order_71,items,"[{'product_id': 'prod_71', 'quantity': 2}]"
+order_71,total,"R$ 2,395,85"
+order_71,payment_status,não pago
+order_71,payment_method,
+order_71,payment_date,
+order_71,shipping_status,aguardando pagamento
+order_71,shipping_status_date,2023/11/15
+order_72,user_id,user_352
+order_72,created_at,18-05-2023
+order_72,items,"[{'product_id': 'prod_46', 'quantity': 1}, {'product_id': 'prod_60', 'quantity': 1}, {'product_id': 'prod_19', 'quantity': 2}]"
+order_72,total,"R$ 1,374,61"
+order_72,payment_status,pendente
+order_72,payment_method,
+order_72,payment_date,
+order_72,shipping_status,entregue
+order_72,shipping_status_date,2023/11/24
+order_73,user_id,user_131
+order_73,created_at,2023/05/15
+order_73,items,"[{'product_id': 'prod_68', 'quantity': 1}, {'product_id': 'prod_91', 'quantity': 3}]"
+order_73,total,"R$ 1,861,26"
+order_73,payment_status,pago
+order_73,payment_method,dinheiro
+order_73,payment_date,05-04-2023
+order_73,shipping_status,aguardando pagamento
+order_73,shipping_status_date,2023-07-20
+order_74,user_id,user_974
+order_74,created_at,2023/08/12
+order_74,items,"[{'product_id': 'prod_31', 'quantity': 2}, {'product_id': 'prod_46', 'quantity': 2}, {'product_id': 'prod_44', 'quantity': 3}]"
+order_74,total,"R$ 2,131,53"
+order_74,payment_status,não pago
+order_74,payment_method,
+order_74,payment_date,
+order_74,shipping_status,aguardando pagamento
+order_74,shipping_status_date,2023-07-12
+order_75,user_id,user_803
+order_75,created_at,23-07-2023
+order_75,items,"[{'product_id': 'prod_17', 'quantity': 3}, {'product_id': 'prod_60', 'quantity': 2}, {'product_id': 'prod_64', 'quantity': 3}]"
+order_75,total,"R$ 1,614,00"
+order_75,payment_status,pago
+order_75,payment_method,dinheiro
+order_75,payment_date,2023/01/03
+order_75,shipping_status,aguardando pagamento
+order_75,shipping_status_date,2023/02/26
+order_76,user_id,user_665
+order_76,created_at,04-12-2023
+order_76,items,"[{'product_id': 'prod_97', 'quantity': 3}]"
+order_76,total,"R$ 1,544,71"
+order_76,payment_status,pago
+order_76,payment_method,pix
+order_76,payment_date,2023/08/07
+order_76,shipping_status,aguardando pagamento
+order_76,shipping_status_date,2023/05/11
+order_77,user_id,user_264
+order_77,created_at,2023-07-06
+order_77,items,"[{'product_id': 'prod_22', 'quantity': 2}, {'product_id': 'prod_46', 'quantity': 2}]"
+order_77,total,"R$ 1,624,13"
+order_77,payment_status,pendente
+order_77,payment_method,
+order_77,payment_date,
+order_77,shipping_status,aguardando pagamento
+order_77,shipping_status_date,2023/02/15
+order_78,user_id,user_107
+order_78,created_at,2023-12-04
+order_78,items,"[{'product_id': 'prod_3', 'quantity': 2}, {'product_id': 'prod_11', 'quantity': 1}]"
+order_78,total,"R$ 1,550,75"
+order_78,payment_status,pendente
+order_78,payment_method,
+order_78,payment_date,
+order_78,shipping_status,entregue
+order_78,shipping_status_date,22-12-2023
+order_79,user_id,user_18
+order_79,created_at,2023/04/09
+order_79,items,"[{'product_id': 'prod_81', 'quantity': 2}, {'product_id': 'prod_17', 'quantity': 1}, {'product_id': 'prod_86', 'quantity': 2}, {'product_id': 'prod_25', 'quantity': 2}]"
+order_79,total,"R$ 2,569,02"
+order_79,payment_status,não pago
+order_79,payment_method,
+order_79,payment_date,
+order_79,shipping_status,entregue
+order_79,shipping_status_date,31-07-2023
+order_80,user_id,user_872
+order_80,created_at,2023/04/28
+order_80,items,"[{'product_id': 'prod_24', 'quantity': 3}, {'product_id': 'prod_46', 'quantity': 3}, {'product_id': 'prod_33', 'quantity': 2}, {'product_id': 'prod_26', 'quantity': 2}]"
+order_80,total,"R$ 2,474,69"
+order_80,payment_status,não pago
+order_80,payment_method,
+order_80,payment_date,
+order_80,shipping_status,enviado
+order_80,shipping_status_date,20-01-2023
+order_81,user_id,user_5
+order_81,created_at,2023-05-01
+order_81,items,"[{'product_id': 'prod_26', 'quantity': 2}, {'product_id': 'prod_48', 'quantity': 2}, {'product_id': 'prod_34', 'quantity': 1}]"
+order_81,total,"R$ 1,622,48"
+order_81,payment_status,não pago
+order_81,payment_method,
+order_81,payment_date,
+order_81,shipping_status,enviado
+order_81,shipping_status_date,2023/04/16
+order_82,user_id,user_277
+order_82,created_at,2023-10-27
+order_82,items,"[{'product_id': 'prod_82', 'quantity': 2}, {'product_id': 'prod_93', 'quantity': 2}]"
+order_82,total,"R$ 1,610,44"
+order_82,payment_status,pago
+order_82,payment_method,pix
+order_82,payment_date,2023/02/16
+order_82,shipping_status,preparando envio
+order_82,shipping_status_date,2023/04/29
+order_83,user_id,user_168
+order_83,created_at,2023/12/14
+order_83,items,"[{'product_id': 'prod_87', 'quantity': 3}, {'product_id': 'prod_44', 'quantity': 1}, {'product_id': 'prod_6', 'quantity': 3}]"
+order_83,total,"R$ 1,387,94"
+order_83,payment_status,pago
+order_83,payment_method,pix
+order_83,payment_date,04-04-2023
+order_83,shipping_status,enviado
+order_83,shipping_status_date,2023-11-28
+order_84,user_id,user_325
+order_84,created_at,2023/01/13
+order_84,items,"[{'product_id': 'prod_15', 'quantity': 2}]"
+order_84,total,"R$ 2,831,94"
+order_84,payment_status,não pago
+order_84,payment_method,
+order_84,payment_date,
+order_84,shipping_status,aguardando pagamento
+order_84,shipping_status_date,2023/09/17
+order_85,user_id,user_967
+order_85,created_at,2023/12/04
+order_85,items,"[{'product_id': 'prod_3', 'quantity': 3}, {'product_id': 'prod_42', 'quantity': 2}]"
+order_85,total,"R$ 2,641,82"
+order_85,payment_status,pago
+order_85,payment_method,crédito
+order_85,payment_date,2023/02/12
+order_85,shipping_status,entregue
+order_85,shipping_status_date,17-01-2023
+order_86,user_id,user_264
+order_86,created_at,2023/07/19
+order_86,items,"[{'product_id': 'prod_100', 'quantity': 2}, {'product_id': 'prod_63', 'quantity': 2}, {'product_id': 'prod_46', 'quantity': 1}]"
+order_86,total,"R$ 651,16"
+order_86,payment_status,não pago
+order_86,payment_method,
+order_86,payment_date,
+order_86,shipping_status,aguardando pagamento
+order_86,shipping_status_date,21-09-2023
+order_87,user_id,user_14
+order_87,created_at,01-12-2023
+order_87,items,"[{'product_id': 'prod_82', 'quantity': 3}]"
+order_87,total,"R$ 935,34"
+order_87,payment_status,pendente
+order_87,payment_method,
+order_87,payment_date,
+order_87,shipping_status,preparando envio
+order_87,shipping_status_date,2023-11-19
+order_88,user_id,user_871
+order_88,created_at,17-11-2023
+order_88,items,"[{'product_id': 'prod_11', 'quantity': 2}, {'product_id': 'prod_42', 'quantity': 3}]"
+order_88,total,"R$ 658,34"
+order_88,payment_status,não pago
+order_88,payment_method,
+order_88,payment_date,
+order_88,shipping_status,entregue
+order_88,shipping_status_date,2023-11-16
+order_89,user_id,user_482
+order_89,created_at,28-09-2023
+order_89,items,"[{'product_id': 'prod_63', 'quantity': 2}, {'product_id': 'prod_83', 'quantity': 3}, {'product_id': 'prod_56', 'quantity': 2}]"
+order_89,total,"R$ 2,796,61"
+order_89,payment_status,pendente
+order_89,payment_method,
+order_89,payment_date,
+order_89,shipping_status,enviado
+order_89,shipping_status_date,10-11-2023
+order_90,user_id,user_662
+order_90,created_at,2023/11/13
+order_90,items,"[{'product_id': 'prod_29', 'quantity': 3}]"
+order_90,total,"R$ 249,14"
+order_90,payment_status,pendente
+order_90,payment_method,
+order_90,payment_date,
+order_90,shipping_status,enviado
+order_90,shipping_status_date,2023-06-17
+order_91,user_id,user_361
+order_91,created_at,2023-03-09
+order_91,items,"[{'product_id': 'prod_77', 'quantity': 2}]"
+order_91,total,"R$ 1,779,95"
+order_91,payment_status,não pago
+order_91,payment_method,
+order_91,payment_date,
+order_91,shipping_status,entregue
+order_91,shipping_status_date,24-06-2023
+order_92,user_id,user_492
+order_92,created_at,2023/07/22
+order_92,items,"[{'product_id': 'prod_44', 'quantity': 2}, {'product_id': 'prod_78', 'quantity': 1}]"
+order_92,total,"R$ 238,34"
+order_92,payment_status,pendente
+order_92,payment_method,
+order_92,payment_date,
+order_92,shipping_status,preparando envio
+order_92,shipping_status_date,2023/03/05
+order_93,user_id,user_836
+order_93,created_at,16-03-2023
+order_93,items,"[{'product_id': 'prod_99', 'quantity': 2}, {'product_id': 'prod_8', 'quantity': 2}, {'product_id': 'prod_49', 'quantity': 1}, {'product_id': 'prod_96', 'quantity': 1}]"
+order_93,total,"R$ 1,647,25"
+order_93,payment_status,pendente
+order_93,payment_method,
+order_93,payment_date,
+order_93,shipping_status,enviado
+order_93,shipping_status_date,2023/12/25
+order_94,user_id,user_744
+order_94,created_at,30-12-2023
+order_94,items,"[{'product_id': 'prod_63', 'quantity': 3}, {'product_id': 'prod_45', 'quantity': 1}]"
+order_94,total,"R$ 185,92"
+order_94,payment_status,não pago
+order_94,payment_method,
+order_94,payment_date,
+order_94,shipping_status,entregue
+order_94,shipping_status_date,03-05-2023
+order_95,user_id,user_393
+order_95,created_at,03-02-2023
+order_95,items,"[{'product_id': 'prod_2', 'quantity': 3}, {'product_id': 'prod_32', 'quantity': 3}, {'product_id': 'prod_72', 'quantity': 1}, {'product_id': 'prod_52', 'quantity': 1}]"
+order_95,total,"R$ 832,68"
+order_95,payment_status,pago
+order_95,payment_method,dinheiro
+order_95,payment_date,2023/05/06
+order_95,shipping_status,preparando envio
+order_95,shipping_status_date,18-01-2023
+order_96,user_id,user_301
+order_96,created_at,2023-06-12
+order_96,items,"[{'product_id': 'prod_46', 'quantity': 3}, {'product_id': 'prod_79', 'quantity': 1}]"
+order_96,total,"R$ 2,884,18"
+order_96,payment_status,pendente
+order_96,payment_method,
+order_96,payment_date,
+order_96,shipping_status,entregue
+order_96,shipping_status_date,2023/03/28
+order_97,user_id,user_883
+order_97,created_at,17-07-2023
+order_97,items,"[{'product_id': 'prod_12', 'quantity': 1}]"
+order_97,total,"R$ 2,607,58"
+order_97,payment_status,não pago
+order_97,payment_method,
+order_97,payment_date,
+order_97,shipping_status,preparando envio
+order_97,shipping_status_date,01-03-2023
+order_98,user_id,user_897
+order_98,created_at,2023-08-10
+order_98,items,"[{'product_id': 'prod_21', 'quantity': 3}, {'product_id': 'prod_32', 'quantity': 3}]"
+order_98,total,"R$ 2,581,18"
+order_98,payment_status,pago
+order_98,payment_method,pix
+order_98,payment_date,31-07-2023
+order_98,shipping_status,entregue
+order_98,shipping_status_date,2023/09/26
+order_99,user_id,user_363
+order_99,created_at,2023-12-01
+order_99,items,"[{'product_id': 'prod_77', 'quantity': 2}]"
+order_99,total,"R$ 2,228,80"
+order_99,payment_status,não pago
+order_99,payment_method,
+order_99,payment_date,
+order_99,shipping_status,entregue
+order_99,shipping_status_date,16-10-2023
+order_100,user_id,user_946
+order_100,created_at,2023/06/11
+order_100,items,"[{'product_id': 'prod_58', 'quantity': 2}]"
+order_100,total,"R$ 426,56"
+order_100,payment_status,pago
+order_100,payment_method,débito
+order_100,payment_date,27-07-2023
+order_100,shipping_status,enviado
+order_100,shipping_status_date,2023-08-31
+order_101,user_id,user_117
+order_101,created_at,09-06-2023
+order_101,items,"[{'product_id': 'prod_20', 'quantity': 1}]"
+order_101,total,"R$ 2,332,15"
+order_101,payment_status,não pago
+order_101,payment_method,
+order_101,payment_date,
+order_101,shipping_status,enviado
+order_101,shipping_status_date,2023/09/07
+order_102,user_id,user_109
+order_102,created_at,02-07-2023
+order_102,items,"[{'product_id': 'prod_80', 'quantity': 3}]"
+order_102,total,"R$ 1,299,01"
+order_102,payment_status,não pago
+order_102,payment_method,
+order_102,payment_date,
+order_102,shipping_status,preparando envio
+order_102,shipping_status_date,2023-12-23
+order_103,user_id,user_455
+order_103,created_at,2023/06/13
+order_103,items,"[{'product_id': 'prod_78', 'quantity': 2}]"
+order_103,total,"R$ 869,16"
+order_103,payment_status,pendente
+order_103,payment_method,
+order_103,payment_date,
+order_103,shipping_status,aguardando pagamento
+order_103,shipping_status_date,2023-04-08
+order_104,user_id,user_153
+order_104,created_at,2023-02-22
+order_104,items,"[{'product_id': 'prod_69', 'quantity': 3}, {'product_id': 'prod_86', 'quantity': 3}, {'product_id': 'prod_96', 'quantity': 3}]"
+order_104,total,"R$ 477,74"
+order_104,payment_status,pago
+order_104,payment_method,débito
+order_104,payment_date,12-04-2023
+order_104,shipping_status,entregue
+order_104,shipping_status_date,24-07-2023
+order_105,user_id,user_87
+order_105,created_at,2023/05/21
+order_105,items,"[{'product_id': 'prod_90', 'quantity': 3}, {'product_id': 'prod_14', 'quantity': 2}]"
+order_105,total,"R$ 1,647,05"
+order_105,payment_status,pago
+order_105,payment_method,pix
+order_105,payment_date,2023-03-14
+order_105,shipping_status,preparando envio
+order_105,shipping_status_date,2023/10/01
+order_106,user_id,user_872
+order_106,created_at,2023-12-03
+order_106,items,"[{'product_id': 'prod_26', 'quantity': 1}, {'product_id': 'prod_74', 'quantity': 2}, {'product_id': 'prod_67', 'quantity': 3}]"
+order_106,total,"R$ 1,217,29"
+order_106,payment_status,não pago
+order_106,payment_method,
+order_106,payment_date,
+order_106,shipping_status,preparando envio
+order_106,shipping_status_date,2023-05-16
+order_107,user_id,user_623
+order_107,created_at,2023/03/11
+order_107,items,"[{'product_id': 'prod_86', 'quantity': 3}]"
+order_107,total,"R$ 906,39"
+order_107,payment_status,pendente
+order_107,payment_method,
+order_107,payment_date,
+order_107,shipping_status,entregue
+order_107,shipping_status_date,2023-06-24
+order_108,user_id,user_413
+order_108,created_at,2023-04-19
+order_108,items,"[{'product_id': 'prod_70', 'quantity': 1}, {'product_id': 'prod_10', 'quantity': 1}]"
+order_108,total,"R$ 436,74"
+order_108,payment_status,pendente
+order_108,payment_method,
+order_108,payment_date,
+order_108,shipping_status,enviado
+order_108,shipping_status_date,21-04-2023
+order_109,user_id,user_796
+order_109,created_at,07-11-2023
+order_109,items,"[{'product_id': 'prod_83', 'quantity': 2}, {'product_id': 'prod_73', 'quantity': 2}, {'product_id': 'prod_86', 'quantity': 2}, {'product_id': 'prod_2', 'quantity': 1}]"
+order_109,total,"R$ 719,68"
+order_109,payment_status,pago
+order_109,payment_method,dinheiro
+order_109,payment_date,2023-11-14
+order_109,shipping_status,enviado
+order_109,shipping_status_date,2023-08-19
+order_110,user_id,user_11
+order_110,created_at,2023/03/15
+order_110,items,"[{'product_id': 'prod_68', 'quantity': 2}, {'product_id': 'prod_17', 'quantity': 2}]"
+order_110,total,"R$ 1,674,63"
+order_110,payment_status,pago
+order_110,payment_method,crédito
+order_110,payment_date,05-08-2023
+order_110,shipping_status,entregue
+order_110,shipping_status_date,2023-09-13
+order_111,user_id,user_108
+order_111,created_at,2023/02/24
+order_111,items,"[{'product_id': 'prod_26', 'quantity': 2}]"
+order_111,total,"R$ 973,43"
+order_111,payment_status,pago
+order_111,payment_method,boleto
+order_111,payment_date,06-12-2023
+order_111,shipping_status,entregue
+order_111,shipping_status_date,19-06-2023
+order_112,user_id,user_957
+order_112,created_at,2023-11-20
+order_112,items,"[{'product_id': 'prod_78', 'quantity': 2}, {'product_id': 'prod_16', 'quantity': 3}, {'product_id': 'prod_100', 'quantity': 1}]"
+order_112,total,"R$ 1,436,95"
+order_112,payment_status,pago
+order_112,payment_method,dinheiro
+order_112,payment_date,12-09-2023
+order_112,shipping_status,entregue
+order_112,shipping_status_date,2023-10-17
+order_113,user_id,user_606
+order_113,created_at,2023-10-14
+order_113,items,"[{'product_id': 'prod_26', 'quantity': 2}, {'product_id': 'prod_93', 'quantity': 2}, {'product_id': 'prod_74', 'quantity': 3}, {'product_id': 'prod_62', 'quantity': 2}]"
+order_113,total,"R$ 2,108,16"
+order_113,payment_status,pendente
+order_113,payment_method,
+order_113,payment_date,
+order_113,shipping_status,preparando envio
+order_113,shipping_status_date,2023-05-24
+order_114,user_id,user_655
+order_114,created_at,28-05-2023
+order_114,items,"[{'product_id': 'prod_63', 'quantity': 1}, {'product_id': 'prod_95', 'quantity': 1}, {'product_id': 'prod_32', 'quantity': 2}]"
+order_114,total,"R$ 1,805,23"
+order_114,payment_status,não pago
+order_114,payment_method,
+order_114,payment_date,
+order_114,shipping_status,aguardando pagamento
+order_114,shipping_status_date,2023/04/09
+order_115,user_id,user_964
+order_115,created_at,05-10-2023
+order_115,items,"[{'product_id': 'prod_89', 'quantity': 3}, {'product_id': 'prod_12', 'quantity': 3}, {'product_id': 'prod_17', 'quantity': 2}]"
+order_115,total,"R$ 385,97"
+order_115,payment_status,pago
+order_115,payment_method,débito
+order_115,payment_date,2023-09-04
+order_115,shipping_status,aguardando pagamento
+order_115,shipping_status_date,24-09-2023
+order_116,user_id,user_954
+order_116,created_at,2023/10/31
+order_116,items,"[{'product_id': 'prod_62', 'quantity': 2}, {'product_id': 'prod_76', 'quantity': 1}]"
+order_116,total,"R$ 2,301,56"
+order_116,payment_status,pendente
+order_116,payment_method,
+order_116,payment_date,
+order_116,shipping_status,preparando envio
+order_116,shipping_status_date,2023/01/13
+order_117,user_id,user_908
+order_117,created_at,2023-05-28
+order_117,items,"[{'product_id': 'prod_96', 'quantity': 3}, {'product_id': 'prod_51', 'quantity': 2}, {'product_id': 'prod_50', 'quantity': 3}, {'product_id': 'prod_82', 'quantity': 2}]"
+order_117,total,"R$ 521,78"
+order_117,payment_status,pago
+order_117,payment_method,crédito
+order_117,payment_date,14-01-2023
+order_117,shipping_status,aguardando pagamento
+order_117,shipping_status_date,2023-01-29
+order_118,user_id,user_190
+order_118,created_at,24-01-2023
+order_118,items,"[{'product_id': 'prod_26', 'quantity': 3}, {'product_id': 'prod_2', 'quantity': 2}, {'product_id': 'prod_65', 'quantity': 3}]"
+order_118,total,"R$ 2,398,71"
+order_118,payment_status,não pago
+order_118,payment_method,
+order_118,payment_date,
+order_118,shipping_status,entregue
+order_118,shipping_status_date,01-01-2023
+order_119,user_id,user_987
+order_119,created_at,2023/04/15
+order_119,items,"[{'product_id': 'prod_80', 'quantity': 2}, {'product_id': 'prod_40', 'quantity': 3}, {'product_id': 'prod_60', 'quantity': 3}]"
+order_119,total,"R$ 850,22"
+order_119,payment_status,não pago
+order_119,payment_method,
+order_119,payment_date,
+order_119,shipping_status,enviado
+order_119,shipping_status_date,2023-08-10
+order_120,user_id,user_986
+order_120,created_at,30-08-2023
+order_120,items,"[{'product_id': 'prod_64', 'quantity': 3}, {'product_id': 'prod_48', 'quantity': 2}, {'product_id': 'prod_91', 'quantity': 2}]"
+order_120,total,"R$ 2,773,24"
+order_120,payment_status,pendente
+order_120,payment_method,
+order_120,payment_date,
+order_120,shipping_status,preparando envio
+order_120,shipping_status_date,27-11-2023
+order_121,user_id,user_105
+order_121,created_at,2023/09/13
+order_121,items,"[{'product_id': 'prod_9', 'quantity': 3}, {'product_id': 'prod_10', 'quantity': 2}, {'product_id': 'prod_32', 'quantity': 3}, {'product_id': 'prod_33', 'quantity': 3}]"
+order_121,total,"R$ 2,019,06"
+order_121,payment_status,não pago
+order_121,payment_method,
+order_121,payment_date,
+order_121,shipping_status,preparando envio
+order_121,shipping_status_date,24-11-2023
+order_122,user_id,user_230
+order_122,created_at,03-01-2023
+order_122,items,"[{'product_id': 'prod_28', 'quantity': 3}, {'product_id': 'prod_22', 'quantity': 3}]"
+order_122,total,"R$ 945,00"
+order_122,payment_status,não pago
+order_122,payment_method,
+order_122,payment_date,
+order_122,shipping_status,entregue
+order_122,shipping_status_date,2023/10/03
+order_123,user_id,user_860
+order_123,created_at,2023-04-26
+order_123,items,"[{'product_id': 'prod_95', 'quantity': 2}, {'product_id': 'prod_27', 'quantity': 1}, {'product_id': 'prod_38', 'quantity': 2}, {'product_id': 'prod_40', 'quantity': 2}]"
+order_123,total,"R$ 1,471,03"
+order_123,payment_status,pendente
+order_123,payment_method,
+order_123,payment_date,
+order_123,shipping_status,aguardando pagamento
+order_123,shipping_status_date,19-12-2023
+order_124,user_id,user_78
+order_124,created_at,2023/02/02
+order_124,items,"[{'product_id': 'prod_44', 'quantity': 1}, {'product_id': 'prod_90', 'quantity': 1}, {'product_id': 'prod_58', 'quantity': 3}, {'product_id': 'prod_61', 'quantity': 1}]"
+order_124,total,"R$ 136,16"
+order_124,payment_status,pendente
+order_124,payment_method,
+order_124,payment_date,
+order_124,shipping_status,preparando envio
+order_124,shipping_status_date,2023-08-23
+order_125,user_id,user_737
+order_125,created_at,2023-06-21
+order_125,items,"[{'product_id': 'prod_97', 'quantity': 1}, {'product_id': 'prod_66', 'quantity': 1}, {'product_id': 'prod_80', 'quantity': 2}]"
+order_125,total,"R$ 2,123,32"
+order_125,payment_status,pago
+order_125,payment_method,débito
+order_125,payment_date,05-06-2023
+order_125,shipping_status,entregue
+order_125,shipping_status_date,28-03-2023
+order_126,user_id,user_117
+order_126,created_at,2023-07-22
+order_126,items,"[{'product_id': 'prod_100', 'quantity': 1}, {'product_id': 'prod_62', 'quantity': 2}]"
+order_126,total,"R$ 443,75"
+order_126,payment_status,pago
+order_126,payment_method,crédito
+order_126,payment_date,14-03-2023
+order_126,shipping_status,entregue
+order_126,shipping_status_date,2023-04-08
+order_127,user_id,user_535
+order_127,created_at,2023/10/02
+order_127,items,"[{'product_id': 'prod_63', 'quantity': 2}, {'product_id': 'prod_68', 'quantity': 2}, {'product_id': 'prod_80', 'quantity': 3}]"
+order_127,total,"R$ 2,848,57"
+order_127,payment_status,pago
+order_127,payment_method,crédito
+order_127,payment_date,19-04-2023
+order_127,shipping_status,enviado
+order_127,shipping_status_date,2023-05-05
+order_128,user_id,user_28
+order_128,created_at,2023-07-17
+order_128,items,"[{'product_id': 'prod_55', 'quantity': 2}, {'product_id': 'prod_65', 'quantity': 1}, {'product_id': 'prod_44', 'quantity': 1}, {'product_id': 'prod_72', 'quantity': 2}]"
+order_128,total,"R$ 2,370,73"
+order_128,payment_status,não pago
+order_128,payment_method,
+order_128,payment_date,
+order_128,shipping_status,enviado
+order_128,shipping_status_date,2023/03/19
+order_129,user_id,user_423
+order_129,created_at,2023-11-13
+order_129,items,"[{'product_id': 'prod_48', 'quantity': 2}, {'product_id': 'prod_86', 'quantity': 2}, {'product_id': 'prod_31', 'quantity': 1}]"
+order_129,total,"R$ 861,15"
+order_129,payment_status,pendente
+order_129,payment_method,
+order_129,payment_date,
+order_129,shipping_status,aguardando pagamento
+order_129,shipping_status_date,2023-10-23
+order_130,user_id,user_992
+order_130,created_at,15-03-2023
+order_130,items,"[{'product_id': 'prod_28', 'quantity': 3}]"
+order_130,total,"R$ 2,648,13"
+order_130,payment_status,pago
+order_130,payment_method,débito
+order_130,payment_date,2023/09/20
+order_130,shipping_status,preparando envio
+order_130,shipping_status_date,2023/12/10
+order_131,user_id,user_24
+order_131,created_at,2023/09/22
+order_131,items,"[{'product_id': 'prod_55', 'quantity': 3}, {'product_id': 'prod_46', 'quantity': 1}]"
+order_131,total,"R$ 658,75"
+order_131,payment_status,pago
+order_131,payment_method,pix
+order_131,payment_date,2023-11-13
+order_131,shipping_status,enviado
+order_131,shipping_status_date,19-04-2023
+order_132,user_id,user_989
+order_132,created_at,2023-05-12
+order_132,items,"[{'product_id': 'prod_48', 'quantity': 1}, {'product_id': 'prod_50', 'quantity': 3}, {'product_id': 'prod_82', 'quantity': 2}, {'product_id': 'prod_85', 'quantity': 2}]"
+order_132,total,"R$ 2,285,71"
+order_132,payment_status,não pago
+order_132,payment_method,
+order_132,payment_date,
+order_132,shipping_status,entregue
+order_132,shipping_status_date,2023-10-30
+order_133,user_id,user_799
+order_133,created_at,2023-02-11
+order_133,items,"[{'product_id': 'prod_37', 'quantity': 2}]"
+order_133,total,"R$ 2,414,81"
+order_133,payment_status,pago
+order_133,payment_method,débito
+order_133,payment_date,2023-12-04
+order_133,shipping_status,preparando envio
+order_133,shipping_status_date,2023/07/15
+order_134,user_id,user_87
+order_134,created_at,02-10-2023
+order_134,items,"[{'product_id': 'prod_7', 'quantity': 1}, {'product_id': 'prod_70', 'quantity': 2}, {'product_id': 'prod_49', 'quantity': 3}]"
+order_134,total,"R$ 1,981,41"
+order_134,payment_status,pago
+order_134,payment_method,boleto
+order_134,payment_date,27-05-2023
+order_134,shipping_status,enviado
+order_134,shipping_status_date,2023-01-28
+order_135,user_id,user_4
+order_135,created_at,2023/02/07
+order_135,items,"[{'product_id': 'prod_44', 'quantity': 2}, {'product_id': 'prod_59', 'quantity': 2}, {'product_id': 'prod_73', 'quantity': 2}, {'product_id': 'prod_1', 'quantity': 2}]"
+order_135,total,"R$ 2,697,66"
+order_135,payment_status,pago
+order_135,payment_method,boleto
+order_135,payment_date,2023/06/17
+order_135,shipping_status,entregue
+order_135,shipping_status_date,01-09-2023
+order_136,user_id,user_219
+order_136,created_at,18-03-2023
+order_136,items,"[{'product_id': 'prod_88', 'quantity': 2}, {'product_id': 'prod_79', 'quantity': 1}]"
+order_136,total,"R$ 1,584,21"
+order_136,payment_status,pago
+order_136,payment_method,dinheiro
+order_136,payment_date,2023/12/13
+order_136,shipping_status,aguardando pagamento
+order_136,shipping_status_date,2023/10/02
+order_137,user_id,user_524
+order_137,created_at,2023/04/16
+order_137,items,"[{'product_id': 'prod_10', 'quantity': 2}, {'product_id': 'prod_86', 'quantity': 2}, {'product_id': 'prod_15', 'quantity': 3}, {'product_id': 'prod_53', 'quantity': 3}]"
+order_137,total,"R$ 1,387,74"
+order_137,payment_status,pago
+order_137,payment_method,boleto
+order_137,payment_date,2023-10-27
+order_137,shipping_status,entregue
+order_137,shipping_status_date,2023/12/14
+order_138,user_id,user_602
+order_138,created_at,2023/07/31
+order_138,items,"[{'product_id': 'prod_80', 'quantity': 2}, {'product_id': 'prod_31', 'quantity': 1}, {'product_id': 'prod_39', 'quantity': 2}]"
+order_138,total,"R$ 2,799,50"
+order_138,payment_status,não pago
+order_138,payment_method,
+order_138,payment_date,
+order_138,shipping_status,aguardando pagamento
+order_138,shipping_status_date,13-02-2023
+order_139,user_id,user_519
+order_139,created_at,01-04-2023
+order_139,items,"[{'product_id': 'prod_55', 'quantity': 3}]"
+order_139,total,"R$ 1,600,61"
+order_139,payment_status,não pago
+order_139,payment_method,
+order_139,payment_date,
+order_139,shipping_status,enviado
+order_139,shipping_status_date,20-08-2023
+order_140,user_id,user_282
+order_140,created_at,2023-10-09
+order_140,items,"[{'product_id': 'prod_8', 'quantity': 2}, {'product_id': 'prod_71', 'quantity': 1}, {'product_id': 'prod_39', 'quantity': 3}, {'product_id': 'prod_60', 'quantity': 1}]"
+order_140,total,"R$ 1,564,89"
+order_140,payment_status,não pago
+order_140,payment_method,
+order_140,payment_date,
+order_140,shipping_status,enviado
+order_140,shipping_status_date,2023/12/01
+order_141,user_id,user_402
+order_141,created_at,2023-03-15
+order_141,items,"[{'product_id': 'prod_98', 'quantity': 3}, {'product_id': 'prod_97', 'quantity': 2}, {'product_id': 'prod_5', 'quantity': 2}]"
+order_141,total,"R$ 528,30"
+order_141,payment_status,pendente
+order_141,payment_method,
+order_141,payment_date,
+order_141,shipping_status,entregue
+order_141,shipping_status_date,2023/02/20
+order_142,user_id,user_459
+order_142,created_at,24-08-2023
+order_142,items,"[{'product_id': 'prod_91', 'quantity': 2}, {'product_id': 'prod_62', 'quantity': 1}, {'product_id': 'prod_93', 'quantity': 3}, {'product_id': 'prod_19', 'quantity': 2}]"
+order_142,total,"R$ 2,023,64"
+order_142,payment_status,não pago
+order_142,payment_method,
+order_142,payment_date,
+order_142,shipping_status,entregue
+order_142,shipping_status_date,2023/01/20
+order_143,user_id,user_519
+order_143,created_at,2023/03/02
+order_143,items,"[{'product_id': 'prod_98', 'quantity': 2}, {'product_id': 'prod_94', 'quantity': 2}, {'product_id': 'prod_88', 'quantity': 3}]"
+order_143,total,"R$ 2,986,76"
+order_143,payment_status,pago
+order_143,payment_method,boleto
+order_143,payment_date,03-12-2023
+order_143,shipping_status,aguardando pagamento
+order_143,shipping_status_date,2023/03/31
+order_144,user_id,user_967
+order_144,created_at,2023-10-24
+order_144,items,"[{'product_id': 'prod_71', 'quantity': 2}]"
+order_144,total,"R$ 807,21"
+order_144,payment_status,pendente
+order_144,payment_method,
+order_144,payment_date,
+order_144,shipping_status,entregue
+order_144,shipping_status_date,19-05-2023
+order_145,user_id,user_306
+order_145,created_at,2023-01-22
+order_145,items,"[{'product_id': 'prod_46', 'quantity': 2}]"
+order_145,total,"R$ 797,84"
+order_145,payment_status,pago
+order_145,payment_method,débito
+order_145,payment_date,2023/10/27
+order_145,shipping_status,enviado
+order_145,shipping_status_date,2023/12/11
+order_146,user_id,user_286
+order_146,created_at,31-05-2023
+order_146,items,"[{'product_id': 'prod_88', 'quantity': 1}, {'product_id': 'prod_86', 'quantity': 3}]"
+order_146,total,"R$ 2,898,60"
+order_146,payment_status,não pago
+order_146,payment_method,
+order_146,payment_date,
+order_146,shipping_status,enviado
+order_146,shipping_status_date,03-07-2023
+order_147,user_id,user_328
+order_147,created_at,05-01-2023
+order_147,items,"[{'product_id': 'prod_60', 'quantity': 2}, {'product_id': 'prod_71', 'quantity': 1}]"
+order_147,total,"R$ 2,449,96"
+order_147,payment_status,pendente
+order_147,payment_method,
+order_147,payment_date,
+order_147,shipping_status,preparando envio
+order_147,shipping_status_date,2023-02-03
+order_148,user_id,user_215
+order_148,created_at,2023-12-23
+order_148,items,"[{'product_id': 'prod_42', 'quantity': 1}, {'product_id': 'prod_1', 'quantity': 2}, {'product_id': 'prod_87', 'quantity': 3}]"
+order_148,total,"R$ 2,860,97"
+order_148,payment_status,não pago
+order_148,payment_method,
+order_148,payment_date,
+order_148,shipping_status,entregue
+order_148,shipping_status_date,2023-04-24
+order_149,user_id,user_311
+order_149,created_at,05-06-2023
+order_149,items,"[{'product_id': 'prod_56', 'quantity': 3}, {'product_id': 'prod_25', 'quantity': 1}]"
+order_149,total,"R$ 121,63"
+order_149,payment_status,pago
+order_149,payment_method,boleto
+order_149,payment_date,2023/07/04
+order_149,shipping_status,aguardando pagamento
+order_149,shipping_status_date,2023/10/17
+order_150,user_id,user_712
+order_150,created_at,2023-08-24
+order_150,items,"[{'product_id': 'prod_95', 'quantity': 3}]"
+order_150,total,"R$ 1,444,01"
+order_150,payment_status,pendente
+order_150,payment_method,
+order_150,payment_date,
+order_150,shipping_status,entregue
+order_150,shipping_status_date,28-03-2023
+order_151,user_id,user_911
+order_151,created_at,2023/07/19
+order_151,items,"[{'product_id': 'prod_44', 'quantity': 3}, {'product_id': 'prod_69', 'quantity': 2}, {'product_id': 'prod_19', 'quantity': 1}, {'product_id': 'prod_5', 'quantity': 3}]"
+order_151,total,"R$ 1,562,95"
+order_151,payment_status,pendente
+order_151,payment_method,
+order_151,payment_date,
+order_151,shipping_status,aguardando pagamento
+order_151,shipping_status_date,23-07-2023
+order_152,user_id,user_916
+order_152,created_at,08-06-2023
+order_152,items,"[{'product_id': 'prod_61', 'quantity': 2}, {'product_id': 'prod_10', 'quantity': 2}, {'product_id': 'prod_63', 'quantity': 3}, {'product_id': 'prod_5', 'quantity': 1}]"
+order_152,total,"R$ 976,46"
+order_152,payment_status,não pago
+order_152,payment_method,
+order_152,payment_date,
+order_152,shipping_status,aguardando pagamento
+order_152,shipping_status_date,2023/02/12
+order_153,user_id,user_65
+order_153,created_at,17-07-2023
+order_153,items,"[{'product_id': 'prod_32', 'quantity': 1}, {'product_id': 'prod_98', 'quantity': 1}, {'product_id': 'prod_66', 'quantity': 1}, {'product_id': 'prod_9', 'quantity': 2}]"
+order_153,total,"R$ 1,460,41"
+order_153,payment_status,pago
+order_153,payment_method,crédito
+order_153,payment_date,2023/03/06
+order_153,shipping_status,enviado
+order_153,shipping_status_date,2023/05/16
+order_154,user_id,user_40
+order_154,created_at,2023/02/25
+order_154,items,"[{'product_id': 'prod_71', 'quantity': 3}]"
+order_154,total,"R$ 1,742,13"
+order_154,payment_status,pendente
+order_154,payment_method,
+order_154,payment_date,
+order_154,shipping_status,enviado
+order_154,shipping_status_date,2023/03/13
+order_155,user_id,user_56
+order_155,created_at,2023/07/25
+order_155,items,"[{'product_id': 'prod_91', 'quantity': 2}]"
+order_155,total,"R$ 2,431,86"
+order_155,payment_status,pago
+order_155,payment_method,débito
+order_155,payment_date,16-12-2023
+order_155,shipping_status,entregue
+order_155,shipping_status_date,08-03-2023
+order_156,user_id,user_885
+order_156,created_at,27-04-2023
+order_156,items,"[{'product_id': 'prod_23', 'quantity': 3}, {'product_id': 'prod_93', 'quantity': 3}]"
+order_156,total,"R$ 1,883,32"
+order_156,payment_status,pendente
+order_156,payment_method,
+order_156,payment_date,
+order_156,shipping_status,preparando envio
+order_156,shipping_status_date,2023-09-19
+order_157,user_id,user_967
+order_157,created_at,2023/06/07
+order_157,items,"[{'product_id': 'prod_60', 'quantity': 2}, {'product_id': 'prod_52', 'quantity': 3}, {'product_id': 'prod_63', 'quantity': 1}]"
+order_157,total,"R$ 2,401,32"
+order_157,payment_status,pago
+order_157,payment_method,dinheiro
+order_157,payment_date,2023-11-24
+order_157,shipping_status,enviado
+order_157,shipping_status_date,03-02-2023
+order_158,user_id,user_2
+order_158,created_at,09-08-2023
+order_158,items,"[{'product_id': 'prod_72', 'quantity': 2}, {'product_id': 'prod_51', 'quantity': 1}, {'product_id': 'prod_80', 'quantity': 1}]"
+order_158,total,"R$ 573,50"
+order_158,payment_status,pendente
+order_158,payment_method,
+order_158,payment_date,
+order_158,shipping_status,enviado
+order_158,shipping_status_date,07-08-2023
+order_159,user_id,user_95
+order_159,created_at,2023-08-29
+order_159,items,"[{'product_id': 'prod_42', 'quantity': 1}]"
+order_159,total,"R$ 627,82"
+order_159,payment_status,pendente
+order_159,payment_method,
+order_159,payment_date,
+order_159,shipping_status,aguardando pagamento
+order_159,shipping_status_date,2023-10-14
+order_160,user_id,user_530
+order_160,created_at,2023-02-15
+order_160,items,"[{'product_id': 'prod_66', 'quantity': 3}, {'product_id': 'prod_38', 'quantity': 1}, {'product_id': 'prod_80', 'quantity': 1}]"
+order_160,total,"R$ 1,011,75"
+order_160,payment_status,pendente
+order_160,payment_method,
+order_160,payment_date,
+order_160,shipping_status,enviado
+order_160,shipping_status_date,2023-06-23
+order_161,user_id,user_857
+order_161,created_at,15-03-2023
+order_161,items,"[{'product_id': 'prod_21', 'quantity': 3}]"
+order_161,total,"R$ 987,03"
+order_161,payment_status,pendente
+order_161,payment_method,
+order_161,payment_date,
+order_161,shipping_status,preparando envio
+order_161,shipping_status_date,28-04-2023
+order_162,user_id,user_280
+order_162,created_at,2023/08/15
+order_162,items,"[{'product_id': 'prod_92', 'quantity': 2}, {'product_id': 'prod_26', 'quantity': 3}, {'product_id': 'prod_3', 'quantity': 3}]"
+order_162,total,"R$ 2,318,33"
+order_162,payment_status,pendente
+order_162,payment_method,
+order_162,payment_date,
+order_162,shipping_status,entregue
+order_162,shipping_status_date,2023/05/24
+order_163,user_id,user_243
+order_163,created_at,04-08-2023
+order_163,items,"[{'product_id': 'prod_28', 'quantity': 3}]"
+order_163,total,"R$ 1,933,62"
+order_163,payment_status,não pago
+order_163,payment_method,
+order_163,payment_date,
+order_163,shipping_status,aguardando pagamento
+order_163,shipping_status_date,2023/05/26
+order_164,user_id,user_204
+order_164,created_at,2023-03-25
+order_164,items,"[{'product_id': 'prod_66', 'quantity': 3}, {'product_id': 'prod_79', 'quantity': 1}, {'product_id': 'prod_22', 'quantity': 2}]"
+order_164,total,"R$ 2,686,13"
+order_164,payment_status,pago
+order_164,payment_method,débito
+order_164,payment_date,2023-09-18
+order_164,shipping_status,entregue
+order_164,shipping_status_date,11-01-2023
+order_165,user_id,user_308
+order_165,created_at,24-04-2023
+order_165,items,"[{'product_id': 'prod_2', 'quantity': 3}, {'product_id': 'prod_29', 'quantity': 1}, {'product_id': 'prod_40', 'quantity': 3}, {'product_id': 'prod_68', 'quantity': 1}]"
+order_165,total,"R$ 1,730,71"
+order_165,payment_status,pendente
+order_165,payment_method,
+order_165,payment_date,
+order_165,shipping_status,entregue
+order_165,shipping_status_date,29-06-2023
+order_166,user_id,user_801
+order_166,created_at,11-05-2023
+order_166,items,"[{'product_id': 'prod_37', 'quantity': 1}, {'product_id': 'prod_6', 'quantity': 3}]"
+order_166,total,"R$ 2,718,33"
+order_166,payment_status,pago
+order_166,payment_method,boleto
+order_166,payment_date,01-01-2023
+order_166,shipping_status,aguardando pagamento
+order_166,shipping_status_date,2023-09-13
+order_167,user_id,user_92
+order_167,created_at,18-11-2023
+order_167,items,"[{'product_id': 'prod_54', 'quantity': 3}, {'product_id': 'prod_21', 'quantity': 2}, {'product_id': 'prod_23', 'quantity': 2}]"
+order_167,total,"R$ 1,017,01"
+order_167,payment_status,pago
+order_167,payment_method,dinheiro
+order_167,payment_date,2023/07/24
+order_167,shipping_status,aguardando pagamento
+order_167,shipping_status_date,2023-03-07
+order_168,user_id,user_951
+order_168,created_at,2023/06/12
+order_168,items,"[{'product_id': 'prod_62', 'quantity': 3}, {'product_id': 'prod_91', 'quantity': 1}, {'product_id': 'prod_21', 'quantity': 3}, {'product_id': 'prod_71', 'quantity': 1}]"
+order_168,total,"R$ 1,549,72"
+order_168,payment_status,pendente
+order_168,payment_method,
+order_168,payment_date,
+order_168,shipping_status,aguardando pagamento
+order_168,shipping_status_date,2023/01/16
+order_169,user_id,user_558
+order_169,created_at,2023/05/25
+order_169,items,"[{'product_id': 'prod_49', 'quantity': 1}, {'product_id': 'prod_87', 'quantity': 2}, {'product_id': 'prod_8', 'quantity': 2}]"
+order_169,total,"R$ 2,175,99"
+order_169,payment_status,pago
+order_169,payment_method,crédito
+order_169,payment_date,2023/09/04
+order_169,shipping_status,aguardando pagamento
+order_169,shipping_status_date,2023-01-23
+order_170,user_id,user_551
+order_170,created_at,2023/06/11
+order_170,items,"[{'product_id': 'prod_16', 'quantity': 1}, {'product_id': 'prod_69', 'quantity': 2}, {'product_id': 'prod_42', 'quantity': 1}, {'product_id': 'prod_25', 'quantity': 2}]"
+order_170,total,"R$ 1,190,69"
+order_170,payment_status,não pago
+order_170,payment_method,
+order_170,payment_date,
+order_170,shipping_status,preparando envio
+order_170,shipping_status_date,2023-07-06
+order_171,user_id,user_716
+order_171,created_at,2023/12/07
+order_171,items,"[{'product_id': 'prod_46', 'quantity': 3}, {'product_id': 'prod_58', 'quantity': 1}]"
+order_171,total,"R$ 1,059,22"
+order_171,payment_status,não pago
+order_171,payment_method,
+order_171,payment_date,
+order_171,shipping_status,enviado
+order_171,shipping_status_date,24-01-2023
+order_172,user_id,user_30
+order_172,created_at,28-05-2023
+order_172,items,"[{'product_id': 'prod_31', 'quantity': 1}]"
+order_172,total,"R$ 1,979,36"
+order_172,payment_status,pendente
+order_172,payment_method,
+order_172,payment_date,
+order_172,shipping_status,aguardando pagamento
+order_172,shipping_status_date,2023-11-15
+order_173,user_id,user_892
+order_173,created_at,2023/12/06
+order_173,items,"[{'product_id': 'prod_38', 'quantity': 2}, {'product_id': 'prod_56', 'quantity': 1}, {'product_id': 'prod_7', 'quantity': 3}]"
+order_173,total,"R$ 827,14"
+order_173,payment_status,não pago
+order_173,payment_method,
+order_173,payment_date,
+order_173,shipping_status,aguardando pagamento
+order_173,shipping_status_date,11-11-2023
+order_174,user_id,user_59
+order_174,created_at,2023/06/28
+order_174,items,"[{'product_id': 'prod_28', 'quantity': 1}, {'product_id': 'prod_78', 'quantity': 2}, {'product_id': 'prod_69', 'quantity': 2}]"
+order_174,total,"R$ 346,00"
+order_174,payment_status,pago
+order_174,payment_method,crédito
+order_174,payment_date,12-10-2023
+order_174,shipping_status,aguardando pagamento
+order_174,shipping_status_date,2023-10-01
+order_175,user_id,user_245
+order_175,created_at,2023-08-20
+order_175,items,"[{'product_id': 'prod_96', 'quantity': 3}]"
+order_175,total,"R$ 1,233,82"
+order_175,payment_status,não pago
+order_175,payment_method,
+order_175,payment_date,
+order_175,shipping_status,entregue
+order_175,shipping_status_date,2023-06-11
+order_176,user_id,user_621
+order_176,created_at,2023-08-17
+order_176,items,"[{'product_id': 'prod_51', 'quantity': 2}, {'product_id': 'prod_95', 'quantity': 3}]"
+order_176,total,"R$ 1,282,83"
+order_176,payment_status,pendente
+order_176,payment_method,
+order_176,payment_date,
+order_176,shipping_status,preparando envio
+order_176,shipping_status_date,2023/12/13
+order_177,user_id,user_28
+order_177,created_at,23-12-2023
+order_177,items,"[{'product_id': 'prod_40', 'quantity': 2}]"
+order_177,total,"R$ 2,966,61"
+order_177,payment_status,pendente
+order_177,payment_method,
+order_177,payment_date,
+order_177,shipping_status,enviado
+order_177,shipping_status_date,30-08-2023
+order_178,user_id,user_316
+order_178,created_at,2023-07-20
+order_178,items,"[{'product_id': 'prod_57', 'quantity': 2}, {'product_id': 'prod_37', 'quantity': 1}, {'product_id': 'prod_13', 'quantity': 2}]"
+order_178,total,"R$ 1,245,38"
+order_178,payment_status,pago
+order_178,payment_method,crédito
+order_178,payment_date,12-09-2023
+order_178,shipping_status,aguardando pagamento
+order_178,shipping_status_date,2023/08/23
+order_179,user_id,user_665
+order_179,created_at,03-09-2023
+order_179,items,"[{'product_id': 'prod_38', 'quantity': 2}, {'product_id': 'prod_8', 'quantity': 1}]"
+order_179,total,"R$ 697,37"
+order_179,payment_status,pago
+order_179,payment_method,boleto
+order_179,payment_date,2023-08-11
+order_179,shipping_status,aguardando pagamento
+order_179,shipping_status_date,2023/04/11
+order_180,user_id,user_252
+order_180,created_at,2023-08-16
+order_180,items,"[{'product_id': 'prod_13', 'quantity': 1}, {'product_id': 'prod_65', 'quantity': 1}, {'product_id': 'prod_99', 'quantity': 2}]"
+order_180,total,"R$ 2,862,94"
+order_180,payment_status,não pago
+order_180,payment_method,
+order_180,payment_date,
+order_180,shipping_status,aguardando pagamento
+order_180,shipping_status_date,2023-10-04
+order_181,user_id,user_758
+order_181,created_at,22-05-2023
+order_181,items,"[{'product_id': 'prod_63', 'quantity': 2}]"
+order_181,total,"R$ 2,928,85"
+order_181,payment_status,pendente
+order_181,payment_method,
+order_181,payment_date,
+order_181,shipping_status,enviado
+order_181,shipping_status_date,17-03-2023
+order_182,user_id,user_745
+order_182,created_at,14-06-2023
+order_182,items,"[{'product_id': 'prod_70', 'quantity': 2}, {'product_id': 'prod_37', 'quantity': 1}]"
+order_182,total,"R$ 2,986,45"
+order_182,payment_status,pendente
+order_182,payment_method,
+order_182,payment_date,
+order_182,shipping_status,aguardando pagamento
+order_182,shipping_status_date,2023/05/19
+order_183,user_id,user_135
+order_183,created_at,15-07-2023
+order_183,items,"[{'product_id': 'prod_82', 'quantity': 3}, {'product_id': 'prod_47', 'quantity': 2}, {'product_id': 'prod_71', 'quantity': 2}]"
+order_183,total,"R$ 105,32"
+order_183,payment_status,pago
+order_183,payment_method,boleto
+order_183,payment_date,2023-09-10
+order_183,shipping_status,aguardando pagamento
+order_183,shipping_status_date,2023-02-17
+order_184,user_id,user_583
+order_184,created_at,30-07-2023
+order_184,items,"[{'product_id': 'prod_61', 'quantity': 2}, {'product_id': 'prod_40', 'quantity': 1}, {'product_id': 'prod_39', 'quantity': 2}, {'product_id': 'prod_84', 'quantity': 2}]"
+order_184,total,"R$ 462,33"
+order_184,payment_status,pago
+order_184,payment_method,crédito
+order_184,payment_date,2023/01/28
+order_184,shipping_status,entregue
+order_184,shipping_status_date,2023-08-10
+order_185,user_id,user_281
+order_185,created_at,2023/08/02
+order_185,items,"[{'product_id': 'prod_74', 'quantity': 3}, {'product_id': 'prod_29', 'quantity': 3}, {'product_id': 'prod_75', 'quantity': 1}]"
+order_185,total,"R$ 1,800,57"
+order_185,payment_status,não pago
+order_185,payment_method,
+order_185,payment_date,
+order_185,shipping_status,aguardando pagamento
+order_185,shipping_status_date,2023/01/08
+order_186,user_id,user_450
+order_186,created_at,2023/12/05
+order_186,items,"[{'product_id': 'prod_1', 'quantity': 3}, {'product_id': 'prod_42', 'quantity': 3}, {'product_id': 'prod_4', 'quantity': 2}]"
+order_186,total,"R$ 2,040,93"
+order_186,payment_status,pago
+order_186,payment_method,dinheiro
+order_186,payment_date,04-02-2023
+order_186,shipping_status,aguardando pagamento
+order_186,shipping_status_date,21-05-2023
+order_187,user_id,user_408
+order_187,created_at,2023/01/03
+order_187,items,"[{'product_id': 'prod_31', 'quantity': 2}, {'product_id': 'prod_66', 'quantity': 3}, {'product_id': 'prod_61', 'quantity': 3}, {'product_id': 'prod_72', 'quantity': 3}]"
+order_187,total,"R$ 715,08"
+order_187,payment_status,não pago
+order_187,payment_method,
+order_187,payment_date,
+order_187,shipping_status,aguardando pagamento
+order_187,shipping_status_date,2023/06/06
+order_188,user_id,user_711
+order_188,created_at,2023/11/18
+order_188,items,"[{'product_id': 'prod_64', 'quantity': 3}, {'product_id': 'prod_5', 'quantity': 3}, {'product_id': 'prod_66', 'quantity': 2}, {'product_id': 'prod_98', 'quantity': 2}]"
+order_188,total,"R$ 254,02"
+order_188,payment_status,pago
+order_188,payment_method,boleto
+order_188,payment_date,03-04-2023
+order_188,shipping_status,preparando envio
+order_188,shipping_status_date,2023/02/25
+order_189,user_id,user_358
+order_189,created_at,26-01-2023
+order_189,items,"[{'product_id': 'prod_98', 'quantity': 1}, {'product_id': 'prod_57', 'quantity': 1}, {'product_id': 'prod_78', 'quantity': 1}]"
+order_189,total,"R$ 331,94"
+order_189,payment_status,não pago
+order_189,payment_method,
+order_189,payment_date,
+order_189,shipping_status,enviado
+order_189,shipping_status_date,2023-04-23
+order_190,user_id,user_423
+order_190,created_at,2023-03-22
+order_190,items,"[{'product_id': 'prod_83', 'quantity': 1}, {'product_id': 'prod_44', 'quantity': 2}, {'product_id': 'prod_21', 'quantity': 3}]"
+order_190,total,"R$ 2,948,32"
+order_190,payment_status,pago
+order_190,payment_method,dinheiro
+order_190,payment_date,07-09-2023
+order_190,shipping_status,aguardando pagamento
+order_190,shipping_status_date,2023-04-20
+order_191,user_id,user_870
+order_191,created_at,2023/07/04
+order_191,items,"[{'product_id': 'prod_17', 'quantity': 1}]"
+order_191,total,"R$ 2,822,86"
+order_191,payment_status,pendente
+order_191,payment_method,
+order_191,payment_date,
+order_191,shipping_status,preparando envio
+order_191,shipping_status_date,2023-02-04
+order_192,user_id,user_22
+order_192,created_at,2023-12-08
+order_192,items,"[{'product_id': 'prod_83', 'quantity': 2}, {'product_id': 'prod_26', 'quantity': 3}, {'product_id': 'prod_64', 'quantity': 1}]"
+order_192,total,"R$ 1,636,67"
+order_192,payment_status,não pago
+order_192,payment_method,
+order_192,payment_date,
+order_192,shipping_status,preparando envio
+order_192,shipping_status_date,2023-05-15
+order_193,user_id,user_879
+order_193,created_at,2023/11/17
+order_193,items,"[{'product_id': 'prod_44', 'quantity': 1}]"
+order_193,total,"R$ 212,63"
+order_193,payment_status,não pago
+order_193,payment_method,
+order_193,payment_date,
+order_193,shipping_status,preparando envio
+order_193,shipping_status_date,2023/07/17
+order_194,user_id,user_35
+order_194,created_at,2023/09/22
+order_194,items,"[{'product_id': 'prod_37', 'quantity': 2}, {'product_id': 'prod_15', 'quantity': 3}, {'product_id': 'prod_39', 'quantity': 1}]"
+order_194,total,"R$ 2,052,12"
+order_194,payment_status,não pago
+order_194,payment_method,
+order_194,payment_date,
+order_194,shipping_status,aguardando pagamento
+order_194,shipping_status_date,2023-07-29
+order_195,user_id,user_244
+order_195,created_at,2023/04/03
+order_195,items,"[{'product_id': 'prod_37', 'quantity': 1}, {'product_id': 'prod_7', 'quantity': 2}]"
+order_195,total,"R$ 461,39"
+order_195,payment_status,pendente
+order_195,payment_method,
+order_195,payment_date,
+order_195,shipping_status,enviado
+order_195,shipping_status_date,2023/08/10
+order_196,user_id,user_578
+order_196,created_at,2023/04/06
+order_196,items,"[{'product_id': 'prod_37', 'quantity': 2}, {'product_id': 'prod_71', 'quantity': 3}]"
+order_196,total,"R$ 1,153,80"
+order_196,payment_status,pago
+order_196,payment_method,dinheiro
+order_196,payment_date,2023/07/16
+order_196,shipping_status,enviado
+order_196,shipping_status_date,2023-05-12
+order_197,user_id,user_648
+order_197,created_at,2023/05/07
+order_197,items,"[{'product_id': 'prod_60', 'quantity': 1}]"
+order_197,total,"R$ 285,68"
+order_197,payment_status,pago
+order_197,payment_method,pix
+order_197,payment_date,09-02-2023
+order_197,shipping_status,preparando envio
+order_197,shipping_status_date,2023/08/11
+order_198,user_id,user_228
+order_198,created_at,18-05-2023
+order_198,items,"[{'product_id': 'prod_1', 'quantity': 2}, {'product_id': 'prod_22', 'quantity': 3}, {'product_id': 'prod_60', 'quantity': 1}, {'product_id': 'prod_3', 'quantity': 3}]"
+order_198,total,"R$ 2,960,79"
+order_198,payment_status,não pago
+order_198,payment_method,
+order_198,payment_date,
+order_198,shipping_status,aguardando pagamento
+order_198,shipping_status_date,2023-05-06
+order_199,user_id,user_477
+order_199,created_at,2023/10/29
+order_199,items,"[{'product_id': 'prod_92', 'quantity': 2}, {'product_id': 'prod_16', 'quantity': 3}, {'product_id': 'prod_74', 'quantity': 3}]"
+order_199,total,"R$ 1,732,62"
+order_199,payment_status,pago
+order_199,payment_method,pix
+order_199,payment_date,2023-04-17
+order_199,shipping_status,preparando envio
+order_199,shipping_status_date,24-07-2023
+order_200,user_id,user_85
+order_200,created_at,2023/05/01
+order_200,items,"[{'product_id': 'prod_30', 'quantity': 1}]"
+order_200,total,"R$ 1,652,00"
+order_200,payment_status,não pago
+order_200,payment_method,
+order_200,payment_date,
+order_200,shipping_status,enviado
+order_200,shipping_status_date,2023/04/23
+order_201,user_id,user_729
+order_201,created_at,2023/07/02
+order_201,items,"[{'product_id': 'prod_23', 'quantity': 2}, {'product_id': 'prod_25', 'quantity': 2}]"
+order_201,total,"R$ 180,60"
+order_201,payment_status,pendente
+order_201,payment_method,
+order_201,payment_date,
+order_201,shipping_status,entregue
+order_201,shipping_status_date,2023/03/22
+order_202,user_id,user_336
+order_202,created_at,2023/02/05
+order_202,items,"[{'product_id': 'prod_17', 'quantity': 3}, {'product_id': 'prod_71', 'quantity': 2}]"
+order_202,total,"R$ 1,949,95"
+order_202,payment_status,pendente
+order_202,payment_method,
+order_202,payment_date,
+order_202,shipping_status,enviado
+order_202,shipping_status_date,2023-06-23
+order_203,user_id,user_196
+order_203,created_at,2023-04-12
+order_203,items,"[{'product_id': 'prod_47', 'quantity': 1}, {'product_id': 'prod_90', 'quantity': 1}, {'product_id': 'prod_29', 'quantity': 3}, {'product_id': 'prod_80', 'quantity': 1}]"
+order_203,total,"R$ 2,119,36"
+order_203,payment_status,pendente
+order_203,payment_method,
+order_203,payment_date,
+order_203,shipping_status,preparando envio
+order_203,shipping_status_date,2023-09-26
+order_204,user_id,user_808
+order_204,created_at,2023-04-03
+order_204,items,"[{'product_id': 'prod_44', 'quantity': 3}]"
+order_204,total,"R$ 1,513,09"
+order_204,payment_status,pago
+order_204,payment_method,boleto
+order_204,payment_date,2023/07/07
+order_204,shipping_status,enviado
+order_204,shipping_status_date,2023-12-28
+order_205,user_id,user_731
+order_205,created_at,2023-05-31
+order_205,items,"[{'product_id': 'prod_91', 'quantity': 2}, {'product_id': 'prod_32', 'quantity': 3}, {'product_id': 'prod_66', 'quantity': 3}]"
+order_205,total,"R$ 2,784,93"
+order_205,payment_status,pago
+order_205,payment_method,débito
+order_205,payment_date,09-11-2023
+order_205,shipping_status,enviado
+order_205,shipping_status_date,2023/07/01
+order_206,user_id,user_436
+order_206,created_at,01-01-2023
+order_206,items,"[{'product_id': 'prod_76', 'quantity': 1}]"
+order_206,total,"R$ 1,740,66"
+order_206,payment_status,não pago
+order_206,payment_method,
+order_206,payment_date,
+order_206,shipping_status,entregue
+order_206,shipping_status_date,02-04-2023
+order_207,user_id,user_400
+order_207,created_at,2023-05-09
+order_207,items,"[{'product_id': 'prod_5', 'quantity': 2}]"
+order_207,total,"R$ 1,929,93"
+order_207,payment_status,pago
+order_207,payment_method,débito
+order_207,payment_date,31-03-2023
+order_207,shipping_status,enviado
+order_207,shipping_status_date,2023/08/29
+order_208,user_id,user_892
+order_208,created_at,2023-03-29
+order_208,items,"[{'product_id': 'prod_91', 'quantity': 1}, {'product_id': 'prod_56', 'quantity': 1}]"
+order_208,total,"R$ 2,332,68"
+order_208,payment_status,não pago
+order_208,payment_method,
+order_208,payment_date,
+order_208,shipping_status,enviado
+order_208,shipping_status_date,2023/03/28
+order_209,user_id,user_720
+order_209,created_at,2023/12/18
+order_209,items,"[{'product_id': 'prod_66', 'quantity': 1}]"
+order_209,total,"R$ 1,418,49"
+order_209,payment_status,não pago
+order_209,payment_method,
+order_209,payment_date,
+order_209,shipping_status,entregue
+order_209,shipping_status_date,2023/10/23
+order_210,user_id,user_97
+order_210,created_at,2023/08/27
+order_210,items,"[{'product_id': 'prod_68', 'quantity': 1}]"
+order_210,total,"R$ 820,66"
+order_210,payment_status,não pago
+order_210,payment_method,
+order_210,payment_date,
+order_210,shipping_status,enviado
+order_210,shipping_status_date,29-04-2023
+order_211,user_id,user_604
+order_211,created_at,04-01-2023
+order_211,items,"[{'product_id': 'prod_86', 'quantity': 1}, {'product_id': 'prod_18', 'quantity': 3}, {'product_id': 'prod_95', 'quantity': 3}, {'product_id': 'prod_29', 'quantity': 1}]"
+order_211,total,"R$ 1,115,38"
+order_211,payment_status,pago
+order_211,payment_method,débito
+order_211,payment_date,19-01-2023
+order_211,shipping_status,aguardando pagamento
+order_211,shipping_status_date,2023-05-22
+order_212,user_id,user_58
+order_212,created_at,2023/09/11
+order_212,items,"[{'product_id': 'prod_3', 'quantity': 1}, {'product_id': 'prod_86', 'quantity': 3}]"
+order_212,total,"R$ 846,04"
+order_212,payment_status,não pago
+order_212,payment_method,
+order_212,payment_date,
+order_212,shipping_status,aguardando pagamento
+order_212,shipping_status_date,11-04-2023
+order_213,user_id,user_113
+order_213,created_at,2023-05-30
+order_213,items,"[{'product_id': 'prod_41', 'quantity': 2}, {'product_id': 'prod_71', 'quantity': 1}]"
+order_213,total,"R$ 515,42"
+order_213,payment_status,pago
+order_213,payment_method,dinheiro
+order_213,payment_date,30-09-2023
+order_213,shipping_status,aguardando pagamento
+order_213,shipping_status_date,2023/01/23
+order_214,user_id,user_349
+order_214,created_at,23-01-2023
+order_214,items,"[{'product_id': 'prod_16', 'quantity': 2}, {'product_id': 'prod_2', 'quantity': 1}, {'product_id': 'prod_11', 'quantity': 3}, {'product_id': 'prod_87', 'quantity': 3}]"
+order_214,total,"R$ 2,181,90"
+order_214,payment_status,pago
+order_214,payment_method,pix
+order_214,payment_date,2023/07/06
+order_214,shipping_status,enviado
+order_214,shipping_status_date,2023/05/22
+order_215,user_id,user_512
+order_215,created_at,2023-08-02
+order_215,items,"[{'product_id': 'prod_46', 'quantity': 1}, {'product_id': 'prod_51', 'quantity': 3}, {'product_id': 'prod_65', 'quantity': 1}]"
+order_215,total,"R$ 1,976,57"
+order_215,payment_status,não pago
+order_215,payment_method,
+order_215,payment_date,
+order_215,shipping_status,preparando envio
+order_215,shipping_status_date,2023/06/25
+order_216,user_id,user_229
+order_216,created_at,2023-07-06
+order_216,items,"[{'product_id': 'prod_20', 'quantity': 1}, {'product_id': 'prod_71', 'quantity': 3}]"
+order_216,total,"R$ 1,972,01"
+order_216,payment_status,pago
+order_216,payment_method,dinheiro
+order_216,payment_date,2023/04/27
+order_216,shipping_status,enviado
+order_216,shipping_status_date,2023-07-20
+order_217,user_id,user_587
+order_217,created_at,2023/01/22
+order_217,items,"[{'product_id': 'prod_20', 'quantity': 1}, {'product_id': 'prod_1', 'quantity': 1}]"
+order_217,total,"R$ 2,734,10"
+order_217,payment_status,pago
+order_217,payment_method,pix
+order_217,payment_date,2023/11/07
+order_217,shipping_status,enviado
+order_217,shipping_status_date,2023/02/05
+order_218,user_id,user_554
+order_218,created_at,2023/03/28
+order_218,items,"[{'product_id': 'prod_59', 'quantity': 2}, {'product_id': 'prod_1', 'quantity': 2}]"
+order_218,total,"R$ 710,82"
+order_218,payment_status,pendente
+order_218,payment_method,
+order_218,payment_date,
+order_218,shipping_status,enviado
+order_218,shipping_status_date,2023/04/13
+order_219,user_id,user_629
+order_219,created_at,01-12-2023
+order_219,items,"[{'product_id': 'prod_42', 'quantity': 1}, {'product_id': 'prod_5', 'quantity': 3}]"
+order_219,total,"R$ 1,839,39"
+order_219,payment_status,pendente
+order_219,payment_method,
+order_219,payment_date,
+order_219,shipping_status,aguardando pagamento
+order_219,shipping_status_date,26-07-2023
+order_220,user_id,user_170
+order_220,created_at,2023-01-29
+order_220,items,"[{'product_id': 'prod_88', 'quantity': 3}, {'product_id': 'prod_75', 'quantity': 3}, {'product_id': 'prod_27', 'quantity': 2}, {'product_id': 'prod_16', 'quantity': 3}]"
+order_220,total,"R$ 635,74"
+order_220,payment_status,não pago
+order_220,payment_method,
+order_220,payment_date,
+order_220,shipping_status,aguardando pagamento
+order_220,shipping_status_date,2023/07/25
+order_221,user_id,user_378
+order_221,created_at,2023-07-12
+order_221,items,"[{'product_id': 'prod_40', 'quantity': 3}, {'product_id': 'prod_27', 'quantity': 3}, {'product_id': 'prod_48', 'quantity': 1}]"
+order_221,total,"R$ 2,215,54"
+order_221,payment_status,pendente
+order_221,payment_method,
+order_221,payment_date,
+order_221,shipping_status,entregue
+order_221,shipping_status_date,19-06-2023
+order_222,user_id,user_252
+order_222,created_at,2023-02-18
+order_222,items,"[{'product_id': 'prod_42', 'quantity': 1}, {'product_id': 'prod_66', 'quantity': 3}, {'product_id': 'prod_97', 'quantity': 2}]"
+order_222,total,"R$ 2,181,75"
+order_222,payment_status,pago
+order_222,payment_method,débito
+order_222,payment_date,2023-05-13
+order_222,shipping_status,enviado
+order_222,shipping_status_date,2023/02/27
+order_223,user_id,user_773
+order_223,created_at,06-07-2023
+order_223,items,"[{'product_id': 'prod_16', 'quantity': 2}, {'product_id': 'prod_24', 'quantity': 3}]"
+order_223,total,"R$ 1,725,28"
+order_223,payment_status,pendente
+order_223,payment_method,
+order_223,payment_date,
+order_223,shipping_status,entregue
+order_223,shipping_status_date,2023-05-21
+order_224,user_id,user_15
+order_224,created_at,2023/05/13
+order_224,items,"[{'product_id': 'prod_43', 'quantity': 1}, {'product_id': 'prod_81', 'quantity': 3}, {'product_id': 'prod_1', 'quantity': 2}]"
+order_224,total,"R$ 1,839,66"
+order_224,payment_status,pago
+order_224,payment_method,pix
+order_224,payment_date,2023-03-21
+order_224,shipping_status,enviado
+order_224,shipping_status_date,2023/05/12
+order_225,user_id,user_314
+order_225,created_at,2023-08-05
+order_225,items,"[{'product_id': 'prod_47', 'quantity': 1}, {'product_id': 'prod_63', 'quantity': 1}]"
+order_225,total,"R$ 739,37"
+order_225,payment_status,não pago
+order_225,payment_method,
+order_225,payment_date,
+order_225,shipping_status,enviado
+order_225,shipping_status_date,2023-04-06
+order_226,user_id,user_179
+order_226,created_at,2023-06-16
+order_226,items,"[{'product_id': 'prod_21', 'quantity': 3}, {'product_id': 'prod_70', 'quantity': 3}, {'product_id': 'prod_11', 'quantity': 3}]"
+order_226,total,"R$ 1,881,73"
+order_226,payment_status,pendente
+order_226,payment_method,
+order_226,payment_date,
+order_226,shipping_status,aguardando pagamento
+order_226,shipping_status_date,12-10-2023
+order_227,user_id,user_447
+order_227,created_at,03-03-2023
+order_227,items,"[{'product_id': 'prod_88', 'quantity': 3}, {'product_id': 'prod_10', 'quantity': 2}, {'product_id': 'prod_30', 'quantity': 3}]"
+order_227,total,"R$ 2,687,43"
+order_227,payment_status,pendente
+order_227,payment_method,
+order_227,payment_date,
+order_227,shipping_status,entregue
+order_227,shipping_status_date,2023-07-12
+order_228,user_id,user_723
+order_228,created_at,2023-05-04
+order_228,items,"[{'product_id': 'prod_2', 'quantity': 1}, {'product_id': 'prod_71', 'quantity': 3}, {'product_id': 'prod_51', 'quantity': 2}]"
+order_228,total,"R$ 1,605,31"
+order_228,payment_status,não pago
+order_228,payment_method,
+order_228,payment_date,
+order_228,shipping_status,aguardando pagamento
+order_228,shipping_status_date,2023-04-17
+order_229,user_id,user_574
+order_229,created_at,2023/11/26
+order_229,items,"[{'product_id': 'prod_16', 'quantity': 3}, {'product_id': 'prod_5', 'quantity': 2}, {'product_id': 'prod_24', 'quantity': 1}, {'product_id': 'prod_76', 'quantity': 1}]"
+order_229,total,"R$ 1,750,18"
+order_229,payment_status,não pago
+order_229,payment_method,
+order_229,payment_date,
+order_229,shipping_status,preparando envio
+order_229,shipping_status_date,15-05-2023
+order_230,user_id,user_395
+order_230,created_at,2023-10-14
+order_230,items,"[{'product_id': 'prod_79', 'quantity': 2}, {'product_id': 'prod_45', 'quantity': 2}]"
+order_230,total,"R$ 1,395,05"
+order_230,payment_status,não pago
+order_230,payment_method,
+order_230,payment_date,
+order_230,shipping_status,enviado
+order_230,shipping_status_date,31-05-2023
+order_231,user_id,user_60
+order_231,created_at,2023/07/22
+order_231,items,"[{'product_id': 'prod_39', 'quantity': 3}, {'product_id': 'prod_22', 'quantity': 3}, {'product_id': 'prod_56', 'quantity': 2}]"
+order_231,total,"R$ 2,630,14"
+order_231,payment_status,não pago
+order_231,payment_method,
+order_231,payment_date,
+order_231,shipping_status,enviado
+order_231,shipping_status_date,2023-12-26
+order_232,user_id,user_725
+order_232,created_at,2023-09-22
+order_232,items,"[{'product_id': 'prod_29', 'quantity': 1}, {'product_id': 'prod_85', 'quantity': 2}, {'product_id': 'prod_57', 'quantity': 2}, {'product_id': 'prod_33', 'quantity': 3}]"
+order_232,total,"R$ 1,142,89"
+order_232,payment_status,pendente
+order_232,payment_method,
+order_232,payment_date,
+order_232,shipping_status,entregue
+order_232,shipping_status_date,2023-09-22
+order_233,user_id,user_475
+order_233,created_at,01-09-2023
+order_233,items,"[{'product_id': 'prod_15', 'quantity': 3}, {'product_id': 'prod_70', 'quantity': 2}, {'product_id': 'prod_61', 'quantity': 1}, {'product_id': 'prod_77', 'quantity': 1}]"
+order_233,total,"R$ 1,085,14"
+order_233,payment_status,pendente
+order_233,payment_method,
+order_233,payment_date,
+order_233,shipping_status,enviado
+order_233,shipping_status_date,2023/08/26
+order_234,user_id,user_664
+order_234,created_at,23-08-2023
+order_234,items,"[{'product_id': 'prod_72', 'quantity': 2}, {'product_id': 'prod_9', 'quantity': 3}, {'product_id': 'prod_16', 'quantity': 3}]"
+order_234,total,"R$ 477,62"
+order_234,payment_status,não pago
+order_234,payment_method,
+order_234,payment_date,
+order_234,shipping_status,preparando envio
+order_234,shipping_status_date,17-10-2023
+order_235,user_id,user_643
+order_235,created_at,2023/03/13
+order_235,items,"[{'product_id': 'prod_81', 'quantity': 1}, {'product_id': 'prod_48', 'quantity': 2}, {'product_id': 'prod_86', 'quantity': 2}]"
+order_235,total,"R$ 1,091,28"
+order_235,payment_status,não pago
+order_235,payment_method,
+order_235,payment_date,
+order_235,shipping_status,preparando envio
+order_235,shipping_status_date,2023/09/02
+order_236,user_id,user_198
+order_236,created_at,02-11-2023
+order_236,items,"[{'product_id': 'prod_99', 'quantity': 1}, {'product_id': 'prod_45', 'quantity': 3}, {'product_id': 'prod_86', 'quantity': 2}, {'product_id': 'prod_22', 'quantity': 1}]"
+order_236,total,"R$ 1,958,90"
+order_236,payment_status,pendente
+order_236,payment_method,
+order_236,payment_date,
+order_236,shipping_status,preparando envio
+order_236,shipping_status_date,2023/05/13
+order_237,user_id,user_978
+order_237,created_at,2023/07/12
+order_237,items,"[{'product_id': 'prod_97', 'quantity': 2}]"
+order_237,total,"R$ 1,827,64"
+order_237,payment_status,pendente
+order_237,payment_method,
+order_237,payment_date,
+order_237,shipping_status,preparando envio
+order_237,shipping_status_date,2023-08-26
+order_238,user_id,user_955
+order_238,created_at,2023-06-16
+order_238,items,"[{'product_id': 'prod_4', 'quantity': 3}, {'product_id': 'prod_65', 'quantity': 3}]"
+order_238,total,"R$ 108,33"
+order_238,payment_status,pago
+order_238,payment_method,boleto
+order_238,payment_date,2023-11-09
+order_238,shipping_status,aguardando pagamento
+order_238,shipping_status_date,2023-04-02
+order_239,user_id,user_224
+order_239,created_at,2023-11-15
+order_239,items,"[{'product_id': 'prod_64', 'quantity': 3}]"
+order_239,total,"R$ 2,802,59"
+order_239,payment_status,pendente
+order_239,payment_method,
+order_239,payment_date,
+order_239,shipping_status,aguardando pagamento
+order_239,shipping_status_date,2023/05/06
+order_240,user_id,user_673
+order_240,created_at,2023/06/16
+order_240,items,"[{'product_id': 'prod_14', 'quantity': 1}, {'product_id': 'prod_37', 'quantity': 2}, {'product_id': 'prod_45', 'quantity': 2}]"
+order_240,total,"R$ 194,39"
+order_240,payment_status,não pago
+order_240,payment_method,
+order_240,payment_date,
+order_240,shipping_status,preparando envio
+order_240,shipping_status_date,2023-03-23
+order_241,user_id,user_274
+order_241,created_at,2023-06-01
+order_241,items,"[{'product_id': 'prod_99', 'quantity': 3}]"
+order_241,total,"R$ 2,681,98"
+order_241,payment_status,pendente
+order_241,payment_method,
+order_241,payment_date,
+order_241,shipping_status,preparando envio
+order_241,shipping_status_date,2023-01-15
+order_242,user_id,user_557
+order_242,created_at,2023/11/11
+order_242,items,"[{'product_id': 'prod_11', 'quantity': 2}, {'product_id': 'prod_69', 'quantity': 3}, {'product_id': 'prod_8', 'quantity': 3}, {'product_id': 'prod_74', 'quantity': 3}]"
+order_242,total,"R$ 563,29"
+order_242,payment_status,pago
+order_242,payment_method,pix
+order_242,payment_date,2023/06/02
+order_242,shipping_status,entregue
+order_242,shipping_status_date,07-07-2023
+order_243,user_id,user_135
+order_243,created_at,2023-10-25
+order_243,items,"[{'product_id': 'prod_90', 'quantity': 2}, {'product_id': 'prod_17', 'quantity': 1}]"
+order_243,total,"R$ 2,356,23"
+order_243,payment_status,pago
+order_243,payment_method,crédito
+order_243,payment_date,10-03-2023
+order_243,shipping_status,aguardando pagamento
+order_243,shipping_status_date,2023/04/15
+order_244,user_id,user_48
+order_244,created_at,2023/11/18
+order_244,items,"[{'product_id': 'prod_75', 'quantity': 2}, {'product_id': 'prod_74', 'quantity': 2}]"
+order_244,total,"R$ 1,511,07"
+order_244,payment_status,pago
+order_244,payment_method,dinheiro
+order_244,payment_date,20-05-2023
+order_244,shipping_status,preparando envio
+order_244,shipping_status_date,2023-07-09
+order_245,user_id,user_530
+order_245,created_at,2023/01/08
+order_245,items,"[{'product_id': 'prod_86', 'quantity': 2}, {'product_id': 'prod_21', 'quantity': 3}, {'product_id': 'prod_94', 'quantity': 3}, {'product_id': 'prod_24', 'quantity': 2}]"
+order_245,total,"R$ 1,229,67"
+order_245,payment_status,pendente
+order_245,payment_method,
+order_245,payment_date,
+order_245,shipping_status,preparando envio
+order_245,shipping_status_date,2023-07-12
+order_246,user_id,user_172
+order_246,created_at,2023/02/20
+order_246,items,"[{'product_id': 'prod_6', 'quantity': 1}, {'product_id': 'prod_4', 'quantity': 2}, {'product_id': 'prod_60', 'quantity': 1}, {'product_id': 'prod_9', 'quantity': 1}]"
+order_246,total,"R$ 1,640,07"
+order_246,payment_status,pago
+order_246,payment_method,boleto
+order_246,payment_date,2023-03-08
+order_246,shipping_status,enviado
+order_246,shipping_status_date,19-01-2023
+order_247,user_id,user_211
+order_247,created_at,2023-08-21
+order_247,items,"[{'product_id': 'prod_15', 'quantity': 2}]"
+order_247,total,"R$ 997,38"
+order_247,payment_status,não pago
+order_247,payment_method,
+order_247,payment_date,
+order_247,shipping_status,preparando envio
+order_247,shipping_status_date,2023/11/14
+order_248,user_id,user_809
+order_248,created_at,2023/10/08
+order_248,items,"[{'product_id': 'prod_42', 'quantity': 1}, {'product_id': 'prod_86', 'quantity': 3}, {'product_id': 'prod_12', 'quantity': 3}, {'product_id': 'prod_100', 'quantity': 1}]"
+order_248,total,"R$ 2,716,02"
+order_248,payment_status,pendente
+order_248,payment_method,
+order_248,payment_date,
+order_248,shipping_status,enviado
+order_248,shipping_status_date,2023/09/14
+order_249,user_id,user_251
+order_249,created_at,2023-02-23
+order_249,items,"[{'product_id': 'prod_13', 'quantity': 1}, {'product_id': 'prod_83', 'quantity': 1}, {'product_id': 'prod_3', 'quantity': 2}, {'product_id': 'prod_35', 'quantity': 1}]"
+order_249,total,"R$ 1,224,76"
+order_249,payment_status,pago
+order_249,payment_method,boleto
+order_249,payment_date,21-10-2023
+order_249,shipping_status,aguardando pagamento
+order_249,shipping_status_date,2023-05-28
+order_250,user_id,user_777
+order_250,created_at,2023-09-24
+order_250,items,"[{'product_id': 'prod_1', 'quantity': 2}, {'product_id': 'prod_70', 'quantity': 3}, {'product_id': 'prod_59', 'quantity': 2}, {'product_id': 'prod_43', 'quantity': 3}]"
+order_250,total,"R$ 2,817,39"
+order_250,payment_status,pago
+order_250,payment_method,crédito
+order_250,payment_date,2023/07/28
+order_250,shipping_status,preparando envio
+order_250,shipping_status_date,24-07-2023
+order_251,user_id,user_497
+order_251,created_at,2023-01-09
+order_251,items,"[{'product_id': 'prod_17', 'quantity': 3}, {'product_id': 'prod_93', 'quantity': 1}, {'product_id': 'prod_66', 'quantity': 3}, {'product_id': 'prod_41', 'quantity': 2}]"
+order_251,total,"R$ 1,369,96"
+order_251,payment_status,pago
+order_251,payment_method,dinheiro
+order_251,payment_date,2023/05/05
+order_251,shipping_status,enviado
+order_251,shipping_status_date,2023/08/01
+order_252,user_id,user_819
+order_252,created_at,2023-07-03
+order_252,items,"[{'product_id': 'prod_9', 'quantity': 3}, {'product_id': 'prod_93', 'quantity': 1}, {'product_id': 'prod_92', 'quantity': 1}, {'product_id': 'prod_29', 'quantity': 3}]"
+order_252,total,"R$ 499,81"
+order_252,payment_status,pendente
+order_252,payment_method,
+order_252,payment_date,
+order_252,shipping_status,aguardando pagamento
+order_252,shipping_status_date,2023-05-17
+order_253,user_id,user_426
+order_253,created_at,02-11-2023
+order_253,items,"[{'product_id': 'prod_75', 'quantity': 2}, {'product_id': 'prod_37', 'quantity': 1}, {'product_id': 'prod_38', 'quantity': 1}, {'product_id': 'prod_22', 'quantity': 1}]"
+order_253,total,"R$ 2,578,69"
+order_253,payment_status,pendente
+order_253,payment_method,
+order_253,payment_date,
+order_253,shipping_status,preparando envio
+order_253,shipping_status_date,2023-09-04
+order_254,user_id,user_898
+order_254,created_at,2023/02/07
+order_254,items,"[{'product_id': 'prod_12', 'quantity': 2}, {'product_id': 'prod_68', 'quantity': 1}]"
+order_254,total,"R$ 651,80"
+order_254,payment_status,pendente
+order_254,payment_method,
+order_254,payment_date,
+order_254,shipping_status,aguardando pagamento
+order_254,shipping_status_date,2023/09/29
+order_255,user_id,user_816
+order_255,created_at,2023-07-02
+order_255,items,"[{'product_id': 'prod_7', 'quantity': 3}]"
+order_255,total,"R$ 1,884,75"
+order_255,payment_status,pago
+order_255,payment_method,pix
+order_255,payment_date,2023-07-16
+order_255,shipping_status,preparando envio
+order_255,shipping_status_date,02-09-2023
+order_256,user_id,user_468
+order_256,created_at,13-04-2023
+order_256,items,"[{'product_id': 'prod_84', 'quantity': 1}]"
+order_256,total,"R$ 864,08"
+order_256,payment_status,pendente
+order_256,payment_method,
+order_256,payment_date,
+order_256,shipping_status,preparando envio
+order_256,shipping_status_date,2023-08-27
+order_257,user_id,user_408
+order_257,created_at,2023-02-25
+order_257,items,"[{'product_id': 'prod_99', 'quantity': 3}, {'product_id': 'prod_29', 'quantity': 3}, {'product_id': 'prod_50', 'quantity': 3}, {'product_id': 'prod_96', 'quantity': 2}]"
+order_257,total,"R$ 2,986,17"
+order_257,payment_status,pendente
+order_257,payment_method,
+order_257,payment_date,
+order_257,shipping_status,enviado
+order_257,shipping_status_date,2023-04-11
+order_258,user_id,user_307
+order_258,created_at,2023/04/22
+order_258,items,"[{'product_id': 'prod_59', 'quantity': 1}, {'product_id': 'prod_60', 'quantity': 3}]"
+order_258,total,"R$ 1,407,61"
+order_258,payment_status,pago
+order_258,payment_method,boleto
+order_258,payment_date,20-08-2023
+order_258,shipping_status,enviado
+order_258,shipping_status_date,15-04-2023
+order_259,user_id,user_621
+order_259,created_at,07-07-2023
+order_259,items,"[{'product_id': 'prod_35', 'quantity': 2}, {'product_id': 'prod_36', 'quantity': 2}, {'product_id': 'prod_66', 'quantity': 2}, {'product_id': 'prod_77', 'quantity': 3}]"
+order_259,total,"R$ 2,370,25"
+order_259,payment_status,não pago
+order_259,payment_method,
+order_259,payment_date,
+order_259,shipping_status,aguardando pagamento
+order_259,shipping_status_date,2023/07/13
+order_260,user_id,user_5
+order_260,created_at,2023/03/21
+order_260,items,"[{'product_id': 'prod_50', 'quantity': 2}, {'product_id': 'prod_74', 'quantity': 1}]"
+order_260,total,"R$ 1,057,55"
+order_260,payment_status,não pago
+order_260,payment_method,
+order_260,payment_date,
+order_260,shipping_status,aguardando pagamento
+order_260,shipping_status_date,25-03-2023
+order_261,user_id,user_862
+order_261,created_at,01-08-2023
+order_261,items,"[{'product_id': 'prod_11', 'quantity': 2}, {'product_id': 'prod_81', 'quantity': 2}]"
+order_261,total,"R$ 881,62"
+order_261,payment_status,pago
+order_261,payment_method,dinheiro
+order_261,payment_date,07-07-2023
+order_261,shipping_status,enviado
+order_261,shipping_status_date,2023-01-30
+order_262,user_id,user_901
+order_262,created_at,2023-08-16
+order_262,items,"[{'product_id': 'prod_20', 'quantity': 2}, {'product_id': 'prod_25', 'quantity': 3}]"
+order_262,total,"R$ 2,386,05"
+order_262,payment_status,não pago
+order_262,payment_method,
+order_262,payment_date,
+order_262,shipping_status,preparando envio
+order_262,shipping_status_date,2023-10-03
+order_263,user_id,user_827
+order_263,created_at,2023/05/14
+order_263,items,"[{'product_id': 'prod_72', 'quantity': 1}]"
+order_263,total,"R$ 1,509,37"
+order_263,payment_status,pago
+order_263,payment_method,débito
+order_263,payment_date,2023/07/25
+order_263,shipping_status,entregue
+order_263,shipping_status_date,2023/07/17
+order_264,user_id,user_624
+order_264,created_at,2023/09/07
+order_264,items,"[{'product_id': 'prod_63', 'quantity': 2}, {'product_id': 'prod_73', 'quantity': 1}]"
+order_264,total,"R$ 1,237,82"
+order_264,payment_status,pago
+order_264,payment_method,pix
+order_264,payment_date,23-04-2023
+order_264,shipping_status,enviado
+order_264,shipping_status_date,2023-06-08
+order_265,user_id,user_880
+order_265,created_at,11-08-2023
+order_265,items,"[{'product_id': 'prod_13', 'quantity': 1}, {'product_id': 'prod_50', 'quantity': 1}, {'product_id': 'prod_70', 'quantity': 2}, {'product_id': 'prod_21', 'quantity': 1}]"
+order_265,total,"R$ 913,24"
+order_265,payment_status,pago
+order_265,payment_method,dinheiro
+order_265,payment_date,2023-01-30
+order_265,shipping_status,aguardando pagamento
+order_265,shipping_status_date,30-01-2023
+order_266,user_id,user_39
+order_266,created_at,2023/07/26
+order_266,items,"[{'product_id': 'prod_79', 'quantity': 1}]"
+order_266,total,"R$ 1,052,98"
+order_266,payment_status,não pago
+order_266,payment_method,
+order_266,payment_date,
+order_266,shipping_status,preparando envio
+order_266,shipping_status_date,09-12-2023
+order_267,user_id,user_856
+order_267,created_at,09-02-2023
+order_267,items,"[{'product_id': 'prod_74', 'quantity': 1}, {'product_id': 'prod_98', 'quantity': 1}]"
+order_267,total,"R$ 2,183,98"
+order_267,payment_status,não pago
+order_267,payment_method,
+order_267,payment_date,
+order_267,shipping_status,enviado
+order_267,shipping_status_date,31-03-2023
+order_268,user_id,user_174
+order_268,created_at,21-02-2023
+order_268,items,"[{'product_id': 'prod_96', 'quantity': 3}, {'product_id': 'prod_2', 'quantity': 1}, {'product_id': 'prod_51', 'quantity': 2}, {'product_id': 'prod_65', 'quantity': 3}]"
+order_268,total,"R$ 1,504,09"
+order_268,payment_status,não pago
+order_268,payment_method,
+order_268,payment_date,
+order_268,shipping_status,entregue
+order_268,shipping_status_date,2023-04-25
+order_269,user_id,user_239
+order_269,created_at,24-02-2023
+order_269,items,"[{'product_id': 'prod_16', 'quantity': 1}, {'product_id': 'prod_7', 'quantity': 1}]"
+order_269,total,"R$ 1,140,83"
+order_269,payment_status,não pago
+order_269,payment_method,
+order_269,payment_date,
+order_269,shipping_status,aguardando pagamento
+order_269,shipping_status_date,2023-10-04
+order_270,user_id,user_307
+order_270,created_at,2023-05-23
+order_270,items,"[{'product_id': 'prod_48', 'quantity': 3}]"
+order_270,total,"R$ 1,162,41"
+order_270,payment_status,não pago
+order_270,payment_method,
+order_270,payment_date,
+order_270,shipping_status,preparando envio
+order_270,shipping_status_date,2023-03-06
+order_271,user_id,user_729
+order_271,created_at,09-06-2023
+order_271,items,"[{'product_id': 'prod_59', 'quantity': 2}, {'product_id': 'prod_4', 'quantity': 1}, {'product_id': 'prod_80', 'quantity': 2}, {'product_id': 'prod_23', 'quantity': 2}]"
+order_271,total,"R$ 1,886,60"
+order_271,payment_status,não pago
+order_271,payment_method,
+order_271,payment_date,
+order_271,shipping_status,aguardando pagamento
+order_271,shipping_status_date,17-08-2023
+order_272,user_id,user_488
+order_272,created_at,24-06-2023
+order_272,items,"[{'product_id': 'prod_76', 'quantity': 1}, {'product_id': 'prod_47', 'quantity': 1}]"
+order_272,total,"R$ 1,994,68"
+order_272,payment_status,não pago
+order_272,payment_method,
+order_272,payment_date,
+order_272,shipping_status,preparando envio
+order_272,shipping_status_date,2023-02-06
+order_273,user_id,user_240
+order_273,created_at,2023/09/13
+order_273,items,"[{'product_id': 'prod_5', 'quantity': 1}]"
+order_273,total,"R$ 1,896,73"
+order_273,payment_status,não pago
+order_273,payment_method,
+order_273,payment_date,
+order_273,shipping_status,entregue
+order_273,shipping_status_date,2023/05/29
+order_274,user_id,user_784
+order_274,created_at,2023/08/20
+order_274,items,"[{'product_id': 'prod_84', 'quantity': 2}, {'product_id': 'prod_95', 'quantity': 3}, {'product_id': 'prod_79', 'quantity': 1}, {'product_id': 'prod_87', 'quantity': 1}]"
+order_274,total,"R$ 989,93"
+order_274,payment_status,não pago
+order_274,payment_method,
+order_274,payment_date,
+order_274,shipping_status,preparando envio
+order_274,shipping_status_date,2023-01-05
+order_275,user_id,user_873
+order_275,created_at,29-05-2023
+order_275,items,"[{'product_id': 'prod_90', 'quantity': 2}, {'product_id': 'prod_43', 'quantity': 2}, {'product_id': 'prod_17', 'quantity': 1}, {'product_id': 'prod_30', 'quantity': 3}]"
+order_275,total,"R$ 153,78"
+order_275,payment_status,pendente
+order_275,payment_method,
+order_275,payment_date,
+order_275,shipping_status,enviado
+order_275,shipping_status_date,2023/02/06
+order_276,user_id,user_656
+order_276,created_at,22-02-2023
+order_276,items,"[{'product_id': 'prod_63', 'quantity': 2}, {'product_id': 'prod_37', 'quantity': 2}, {'product_id': 'prod_19', 'quantity': 3}]"
+order_276,total,"R$ 406,49"
+order_276,payment_status,pendente
+order_276,payment_method,
+order_276,payment_date,
+order_276,shipping_status,preparando envio
+order_276,shipping_status_date,2023/11/19
+order_277,user_id,user_641
+order_277,created_at,2023-10-16
+order_277,items,"[{'product_id': 'prod_16', 'quantity': 3}]"
+order_277,total,"R$ 1,979,63"
+order_277,payment_status,pendente
+order_277,payment_method,
+order_277,payment_date,
+order_277,shipping_status,preparando envio
+order_277,shipping_status_date,05-05-2023
+order_278,user_id,user_265
+order_278,created_at,10-03-2023
+order_278,items,"[{'product_id': 'prod_46', 'quantity': 1}, {'product_id': 'prod_50', 'quantity': 2}, {'product_id': 'prod_21', 'quantity': 1}]"
+order_278,total,"R$ 1,832,58"
+order_278,payment_status,pendente
+order_278,payment_method,
+order_278,payment_date,
+order_278,shipping_status,aguardando pagamento
+order_278,shipping_status_date,2023-02-03
+order_279,user_id,user_610
+order_279,created_at,2023-06-15
+order_279,items,"[{'product_id': 'prod_39', 'quantity': 2}, {'product_id': 'prod_97', 'quantity': 1}]"
+order_279,total,"R$ 388,13"
+order_279,payment_status,pendente
+order_279,payment_method,
+order_279,payment_date,
+order_279,shipping_status,enviado
+order_279,shipping_status_date,2023-01-12
+order_280,user_id,user_782
+order_280,created_at,2023/06/05
+order_280,items,"[{'product_id': 'prod_8', 'quantity': 2}]"
+order_280,total,"R$ 1,280,38"
+order_280,payment_status,não pago
+order_280,payment_method,
+order_280,payment_date,
+order_280,shipping_status,enviado
+order_280,shipping_status_date,2023-03-10
+order_281,user_id,user_421
+order_281,created_at,2023/09/29
+order_281,items,"[{'product_id': 'prod_98', 'quantity': 3}, {'product_id': 'prod_79', 'quantity': 2}]"
+order_281,total,"R$ 1,727,84"
+order_281,payment_status,pendente
+order_281,payment_method,
+order_281,payment_date,
+order_281,shipping_status,entregue
+order_281,shipping_status_date,13-12-2023
+order_282,user_id,user_907
+order_282,created_at,2023/07/27
+order_282,items,"[{'product_id': 'prod_4', 'quantity': 1}, {'product_id': 'prod_90', 'quantity': 1}]"
+order_282,total,"R$ 1,596,30"
+order_282,payment_status,pago
+order_282,payment_method,crédito
+order_282,payment_date,2023-12-03
+order_282,shipping_status,preparando envio
+order_282,shipping_status_date,2023-03-16
+order_283,user_id,user_851
+order_283,created_at,2023/04/25
+order_283,items,"[{'product_id': 'prod_86', 'quantity': 1}, {'product_id': 'prod_39', 'quantity': 2}]"
+order_283,total,"R$ 2,916,91"
+order_283,payment_status,não pago
+order_283,payment_method,
+order_283,payment_date,
+order_283,shipping_status,preparando envio
+order_283,shipping_status_date,2023-09-11
+order_284,user_id,user_912
+order_284,created_at,2023/08/16
+order_284,items,"[{'product_id': 'prod_46', 'quantity': 3}]"
+order_284,total,"R$ 1,595,18"
+order_284,payment_status,pago
+order_284,payment_method,débito
+order_284,payment_date,2023/05/31
+order_284,shipping_status,enviado
+order_284,shipping_status_date,2023-06-27
+order_285,user_id,user_851
+order_285,created_at,2023/07/21
+order_285,items,"[{'product_id': 'prod_90', 'quantity': 2}, {'product_id': 'prod_95', 'quantity': 2}, {'product_id': 'prod_2', 'quantity': 2}, {'product_id': 'prod_36', 'quantity': 1}]"
+order_285,total,"R$ 443,49"
+order_285,payment_status,não pago
+order_285,payment_method,
+order_285,payment_date,
+order_285,shipping_status,entregue
+order_285,shipping_status_date,2023-04-12
+order_286,user_id,user_588
+order_286,created_at,2023/09/04
+order_286,items,"[{'product_id': 'prod_84', 'quantity': 3}, {'product_id': 'prod_17', 'quantity': 3}, {'product_id': 'prod_73', 'quantity': 3}, {'product_id': 'prod_19', 'quantity': 2}]"
+order_286,total,"R$ 2,380,29"
+order_286,payment_status,pendente
+order_286,payment_method,
+order_286,payment_date,
+order_286,shipping_status,aguardando pagamento
+order_286,shipping_status_date,14-10-2023
+order_287,user_id,user_551
+order_287,created_at,06-09-2023
+order_287,items,"[{'product_id': 'prod_6', 'quantity': 1}, {'product_id': 'prod_28', 'quantity': 1}, {'product_id': 'prod_26', 'quantity': 2}]"
+order_287,total,"R$ 936,13"
+order_287,payment_status,não pago
+order_287,payment_method,
+order_287,payment_date,
+order_287,shipping_status,preparando envio
+order_287,shipping_status_date,23-02-2023
+order_288,user_id,user_380
+order_288,created_at,2023/02/28
+order_288,items,"[{'product_id': 'prod_90', 'quantity': 3}, {'product_id': 'prod_48', 'quantity': 1}, {'product_id': 'prod_87', 'quantity': 3}]"
+order_288,total,"R$ 642,24"
+order_288,payment_status,não pago
+order_288,payment_method,
+order_288,payment_date,
+order_288,shipping_status,enviado
+order_288,shipping_status_date,2023-02-20
+order_289,user_id,user_624
+order_289,created_at,2023-03-11
+order_289,items,"[{'product_id': 'prod_76', 'quantity': 1}, {'product_id': 'prod_67', 'quantity': 1}, {'product_id': 'prod_82', 'quantity': 1}]"
+order_289,total,"R$ 1,578,24"
+order_289,payment_status,pago
+order_289,payment_method,pix
+order_289,payment_date,2023-09-05
+order_289,shipping_status,entregue
+order_289,shipping_status_date,2023-09-14
+order_290,user_id,user_222
+order_290,created_at,2023/07/11
+order_290,items,"[{'product_id': 'prod_84', 'quantity': 3}]"
+order_290,total,"R$ 1,682,72"
+order_290,payment_status,pago
+order_290,payment_method,dinheiro
+order_290,payment_date,2023/06/28
+order_290,shipping_status,entregue
+order_290,shipping_status_date,20-03-2023
+order_291,user_id,user_762
+order_291,created_at,20-01-2023
+order_291,items,"[{'product_id': 'prod_16', 'quantity': 3}, {'product_id': 'prod_10', 'quantity': 2}, {'product_id': 'prod_57', 'quantity': 3}]"
+order_291,total,"R$ 739,17"
+order_291,payment_status,não pago
+order_291,payment_method,
+order_291,payment_date,
+order_291,shipping_status,enviado
+order_291,shipping_status_date,17-09-2023
+order_292,user_id,user_447
+order_292,created_at,2023/03/31
+order_292,items,"[{'product_id': 'prod_4', 'quantity': 2}, {'product_id': 'prod_24', 'quantity': 2}, {'product_id': 'prod_36', 'quantity': 1}]"
+order_292,total,"R$ 2,605,40"
+order_292,payment_status,pendente
+order_292,payment_method,
+order_292,payment_date,
+order_292,shipping_status,enviado
+order_292,shipping_status_date,2023/03/11
+order_293,user_id,user_582
+order_293,created_at,2023-09-25
+order_293,items,"[{'product_id': 'prod_42', 'quantity': 3}]"
+order_293,total,"R$ 1,170,72"
+order_293,payment_status,pago
+order_293,payment_method,boleto
+order_293,payment_date,2023/01/12
+order_293,shipping_status,preparando envio
+order_293,shipping_status_date,30-07-2023
+order_294,user_id,user_574
+order_294,created_at,2023/09/22
+order_294,items,"[{'product_id': 'prod_87', 'quantity': 3}, {'product_id': 'prod_33', 'quantity': 3}, {'product_id': 'prod_34', 'quantity': 1}]"
+order_294,total,"R$ 2,846,04"
+order_294,payment_status,pago
+order_294,payment_method,pix
+order_294,payment_date,2023-05-29
+order_294,shipping_status,enviado
+order_294,shipping_status_date,2023-06-27
+order_295,user_id,user_921
+order_295,created_at,2023/07/13
+order_295,items,"[{'product_id': 'prod_83', 'quantity': 3}]"
+order_295,total,"R$ 391,70"
+order_295,payment_status,pago
+order_295,payment_method,dinheiro
+order_295,payment_date,02-08-2023
+order_295,shipping_status,enviado
+order_295,shipping_status_date,2023-10-05
+order_296,user_id,user_121
+order_296,created_at,2023-11-18
+order_296,items,"[{'product_id': 'prod_21', 'quantity': 3}, {'product_id': 'prod_83', 'quantity': 1}, {'product_id': 'prod_81', 'quantity': 1}, {'product_id': 'prod_60', 'quantity': 1}]"
+order_296,total,"R$ 1,742,61"
+order_296,payment_status,pago
+order_296,payment_method,crédito
+order_296,payment_date,2023-11-13
+order_296,shipping_status,entregue
+order_296,shipping_status_date,08-11-2023
+order_297,user_id,user_442
+order_297,created_at,2023-05-29
+order_297,items,"[{'product_id': 'prod_53', 'quantity': 3}, {'product_id': 'prod_40', 'quantity': 3}]"
+order_297,total,"R$ 1,250,14"
+order_297,payment_status,não pago
+order_297,payment_method,
+order_297,payment_date,
+order_297,shipping_status,aguardando pagamento
+order_297,shipping_status_date,2023/01/19
+order_298,user_id,user_805
+order_298,created_at,03-12-2023
+order_298,items,"[{'product_id': 'prod_41', 'quantity': 2}, {'product_id': 'prod_98', 'quantity': 2}, {'product_id': 'prod_17', 'quantity': 3}, {'product_id': 'prod_6', 'quantity': 1}]"
+order_298,total,"R$ 2,705,88"
+order_298,payment_status,pago
+order_298,payment_method,boleto
+order_298,payment_date,2023/04/21
+order_298,shipping_status,entregue
+order_298,shipping_status_date,2023-02-13
+order_299,user_id,user_89
+order_299,created_at,2023-09-23
+order_299,items,"[{'product_id': 'prod_48', 'quantity': 3}, {'product_id': 'prod_81', 'quantity': 3}, {'product_id': 'prod_94', 'quantity': 2}, {'product_id': 'prod_63', 'quantity': 1}]"
+order_299,total,"R$ 2,434,35"
+order_299,payment_status,pendente
+order_299,payment_method,
+order_299,payment_date,
+order_299,shipping_status,enviado
+order_299,shipping_status_date,2023/04/08
+order_300,user_id,user_888
+order_300,created_at,2023/07/16
+order_300,items,"[{'product_id': 'prod_84', 'quantity': 2}, {'product_id': 'prod_66', 'quantity': 3}, {'product_id': 'prod_99', 'quantity': 2}]"
+order_300,total,"R$ 1,859,95"
+order_300,payment_status,não pago
+order_300,payment_method,
+order_300,payment_date,
+order_300,shipping_status,enviado
+order_300,shipping_status_date,07-02-2023

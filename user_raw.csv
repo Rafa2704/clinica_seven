@@ -1,0 +1,6001 @@
+user_id,var_name,var_value
+user_1,name,cliente_1!
+user_1,e-mail,cliente1exemplo.com
+user_1,cpf,73194515393
+user_1,entry_date,2023/03/03
+user_1,entry_time,11:27
+user_1,update_date,27 Apr 2023
+user_2,name,Cliente 2
+user_2,e-mail,cliente2@exemplo.com
+user_2,cpf,59899648846
+user_2,entry_date,2023/02/13
+user_2,entry_time,23:16
+user_2,update_date,2023/07/03
+user_3,name,Cliente 3
+user_3,e-mail,cliente3@exemplo.com
+user_3,cpf,34205381992
+user_3,entry_date,02-01-2023
+user_3,entry_time,07:21:40
+user_3,update_date,2023-04-27
+user_4,name,Cliente 4
+user_4,e-mail,cliente4@exemplo.com
+user_4,cpf,10810137798
+user_4,entry_date,01-08-2023
+user_4,entry_time,03:47
+user_4,update_date,01 Dec 2023
+user_5,name,Cliente 5
+user_5,e-mail,cliente5@exemplo.com
+user_5,cpf,74215374993
+user_5,entry_date,25 Feb 2023
+user_5,entry_time,22:57:41
+user_5,update_date,2023/08/25
+user_6,name,Cliente 6
+user_6,e-mail,cliente6@exemplo.com
+user_6,cpf,77092708481
+user_6,entry_date,2023-09-24
+user_6,entry_time,10:57 AM
+user_6,update_date,2023/10/11
+user_7,name,Cliente 7
+user_7,e-mail,cliente7@exemplo.com
+user_7,cpf,77833190861
+user_7,entry_date,28 Feb 2023
+user_7,entry_time,03:13:11
+user_7,update_date,2023-09-14
+user_8,name,Cliente 8
+user_8,e-mail,cliente8exemplo.com
+user_8,cpf,59258814662
+user_8,entry_date,17-08-2023
+user_8,entry_time,01:01:23
+user_8,update_date,20-07-2023
+user_9,name,Cliente 9
+user_9,e-mail,cliente9@exemplo.com
+user_9,cpf,37827207280
+user_9,entry_date,2023-01-29
+user_9,entry_time,01:39 PM
+user_9,update_date,03-06-2023
+user_10,name,Cliente 10
+user_10,e-mail,cliente10@exemplo.com
+user_10,cpf,89333325563
+user_10,entry_date,2023/11/03
+user_10,entry_time,03:10 AM
+user_10,update_date,23/05/2023
+user_11,name,cliente_11!
+user_11,e-mail,cliente11@exemplo.com
+user_11,cpf,53430934142
+user_11,entry_date,2023-03-03
+user_11,entry_time,09:25:10
+user_11,update_date,31/03/2023
+user_12,name,Cliente 12
+user_12,e-mail,cliente12@exemplo.com
+user_12,cpf,98597629084
+user_12,entry_date,09 Apr 2023
+user_12,entry_time,05:49 PM
+user_12,update_date,2023/05/30
+user_13,name,Cliente 13
+user_13,e-mail,cliente13@exemplo.com
+user_13,cpf,88238511658
+user_13,entry_date,2023/05/17
+user_13,entry_time,11:24:10
+user_13,update_date,27-04-2023
+user_14,name,Cliente 14
+user_14,e-mail,cliente14@exemplo.com
+user_14,cpf,52458184419
+user_14,entry_date,16 Nov 2023
+user_14,entry_time,08:44 PM
+user_14,update_date,15-06-2023
+user_15,name,Cliente 15
+user_15,e-mail,cliente15exemplo.com
+user_15,cpf,62566777416
+user_15,entry_date,12 Oct 2023
+user_15,entry_time,17:27:32
+user_15,update_date,2023/11/17
+user_16,name,Cliente 16
+user_16,e-mail,cliente16@exemplo.com
+user_16,cpf,20032183605
+user_16,entry_date,14-10-2023
+user_16,entry_time,01:57
+user_16,update_date,17-10-2023
+user_17,name,Cliente 17
+user_17,e-mail,cliente17@exemplo.com
+user_17,cpf,84216843439
+user_17,entry_date,09-05-2023
+user_17,entry_time,09:16 PM
+user_17,update_date,2023-03-31
+user_18,name,Cliente 18
+user_18,e-mail,cliente18@exemplo.com
+user_18,cpf,71506240639
+user_18,entry_date,2023-10-29
+user_18,entry_time,02:10
+user_18,update_date,23/07/2023
+user_19,name,Cliente 19
+user_19,e-mail,cliente19@exemplo.com
+user_19,cpf,28126903401
+user_19,entry_date,2023-09-03
+user_19,entry_time,03:41 AM
+user_19,update_date,2023/06/11
+user_20,name,Cliente 20
+user_20,e-mail,cliente20@exemplo.com
+user_20,cpf,46599081857
+user_20,entry_date,2023-03-30
+user_20,entry_time,14:20:12
+user_20,update_date,31/12/2023
+user_21,name,cliente_21!
+user_21,e-mail,cliente21@exemplo.com
+user_21,cpf,75083851616
+user_21,entry_date,27 Dec 2023
+user_21,entry_time,17:19:06
+user_21,update_date,05/11/2023
+user_22,name,Cliente 22
+user_22,e-mail,cliente22exemplo.com
+user_22,cpf,50012154148
+user_22,entry_date,2023-11-11
+user_22,entry_time,12:49:33
+user_22,update_date,24/01/2023
+user_23,name,Cliente 23
+user_23,e-mail,cliente23@exemplo.com
+user_23,cpf,11640682319
+user_23,entry_date,29/03/2023
+user_23,entry_time,06:58 PM
+user_23,update_date,15 Nov 2023
+user_24,name,Cliente 24
+user_24,e-mail,cliente24@exemplo.com
+user_24,cpf,97152222165
+user_24,entry_date,30-01-2023
+user_24,entry_time,21:38:50
+user_24,update_date,25-03-2023
+user_25,name,Cliente 25
+user_25,e-mail,cliente25@exemplo.com
+user_25,cpf,93751473040
+user_25,entry_date,2023-08-27
+user_25,entry_time,10:58:40
+user_25,update_date,19 Nov 2023
+user_26,name,Cliente 26
+user_26,e-mail,cliente26@exemplo.com
+user_26,cpf,26515432839
+user_26,entry_date,2023/09/07
+user_26,entry_time,12:06 AM
+user_26,update_date,14 Dec 2023
+user_27,name,Cliente 27
+user_27,e-mail,cliente27@exemplo.com
+user_27,cpf,48471329977
+user_27,entry_date,11 Aug 2023
+user_27,entry_time,11:04 AM
+user_27,update_date,13/06/2023
+user_28,name,Cliente 28
+user_28,e-mail,cliente28@exemplo.com
+user_28,cpf,14733236520
+user_28,entry_date,13 Jan 2023
+user_28,entry_time,11:57:14
+user_28,update_date,2023/02/08
+user_29,name,Cliente 29
+user_29,e-mail,cliente29exemplo.com
+user_29,cpf,48475157041
+user_29,entry_date,05-12-2023
+user_29,entry_time,12:39 AM
+user_29,update_date,2023/08/14
+user_30,name,Cliente 30
+user_30,e-mail,cliente30@exemplo.com
+user_30,cpf,20172385969
+user_30,entry_date,22 Nov 2023
+user_30,entry_time,16:30
+user_30,update_date,17/06/2023
+user_31,name,cliente_31!
+user_31,e-mail,cliente31@exemplo.com
+user_31,cpf,27594111790
+user_31,entry_date,2023/05/08
+user_31,entry_time,08:24 AM
+user_31,update_date,05 Jun 2023
+user_32,name,Cliente 32
+user_32,e-mail,cliente32@exemplo.com
+user_32,cpf,82772640310
+user_32,entry_date,2023-05-30
+user_32,entry_time,15:02:28
+user_32,update_date,2023/08/14
+user_33,name,Cliente 33
+user_33,e-mail,cliente33@exemplo.com
+user_33,cpf,86175847995
+user_33,entry_date,13-11-2023
+user_33,entry_time,01:06
+user_33,update_date,04/04/2023
+user_34,name,Cliente 34
+user_34,e-mail,cliente34@exemplo.com
+user_34,cpf,27322877355
+user_34,entry_date,10 Apr 2023
+user_34,entry_time,17:08
+user_34,update_date,2023-02-24
+user_35,name,Cliente 35
+user_35,e-mail,cliente35@exemplo.com
+user_35,cpf,49341175569
+user_35,entry_date,05 Nov 2023
+user_35,entry_time,00:54:16
+user_35,update_date,28-09-2023
+user_36,name,Cliente 36
+user_36,e-mail,cliente36exemplo.com
+user_36,cpf,14715358020
+user_36,entry_date,26/09/2023
+user_36,entry_time,09:04
+user_36,update_date,17/11/2023
+user_37,name,Cliente 37
+user_37,e-mail,cliente37@exemplo.com
+user_37,cpf,57384769040
+user_37,entry_date,2023/03/08
+user_37,entry_time,10:08
+user_37,update_date,23-02-2023
+user_38,name,Cliente 38
+user_38,e-mail,cliente38@exemplo.com
+user_38,cpf,99242426215
+user_38,entry_date,09-10-2023
+user_38,entry_time,12:54 PM
+user_38,update_date,05 Nov 2023
+user_39,name,Cliente 39
+user_39,e-mail,cliente39@exemplo.com
+user_39,cpf,91438858210
+user_39,entry_date,29 Nov 2023
+user_39,entry_time,22:58
+user_39,update_date,09/05/2023
+user_40,name,Cliente 40
+user_40,e-mail,cliente40@exemplo.com
+user_40,cpf,87609783663
+user_40,entry_date,23-02-2023
+user_40,entry_time,07:08 AM
+user_40,update_date,02-08-2023
+user_41,name,cliente_41!
+user_41,e-mail,cliente41@exemplo.com
+user_41,cpf,17558175789
+user_41,entry_date,2023-03-05
+user_41,entry_time,02:42 PM
+user_41,update_date,01 Mar 2023
+user_42,name,Cliente 42
+user_42,e-mail,cliente42@exemplo.com
+user_42,cpf,63632921135
+user_42,entry_date,2023-10-07
+user_42,entry_time,06:38:43
+user_42,update_date,04/12/2023
+user_43,name,Cliente 43
+user_43,e-mail,cliente43exemplo.com
+user_43,cpf,82365673354
+user_43,entry_date,20 Oct 2023
+user_43,entry_time,09:16 PM
+user_43,update_date,15 Aug 2023
+user_44,name,Cliente 44
+user_44,e-mail,cliente44@exemplo.com
+user_44,cpf,71633758787
+user_44,entry_date,2023/09/20
+user_44,entry_time,21:11:39
+user_44,update_date,17-09-2023
+user_45,name,Cliente 45
+user_45,e-mail,cliente45@exemplo.com
+user_45,cpf,70772240128
+user_45,entry_date,01-10-2023
+user_45,entry_time,06:44:26
+user_45,update_date,2023-08-10
+user_46,name,Cliente 46
+user_46,e-mail,cliente46@exemplo.com
+user_46,cpf,79805136729
+user_46,entry_date,21/05/2023
+user_46,entry_time,21:10:20
+user_46,update_date,2023/12/29
+user_47,name,Cliente 47
+user_47,e-mail,cliente47@exemplo.com
+user_47,cpf,76975786682
+user_47,entry_date,03/03/2023
+user_47,entry_time,17:27:13
+user_47,update_date,2023-12-26
+user_48,name,Cliente 48
+user_48,e-mail,cliente48@exemplo.com
+user_48,cpf,40036163262
+user_48,entry_date,2023-09-27
+user_48,entry_time,03:51:05
+user_48,update_date,04/12/2023
+user_49,name,Cliente 49
+user_49,e-mail,cliente49@exemplo.com
+user_49,cpf,67802341007
+user_49,entry_date,2023/06/25
+user_49,entry_time,19:44:04
+user_49,update_date,2023/11/05
+user_50,name,Cliente 50
+user_50,e-mail,cliente50exemplo.com
+user_50,cpf,20286076952
+user_50,entry_date,28 Sep 2023
+user_50,entry_time,12:55 AM
+user_50,update_date,2023-08-07
+user_51,name,cliente_51!
+user_51,e-mail,cliente51@exemplo.com
+user_51,cpf,97388475133
+user_51,entry_date,01 Nov 2023
+user_51,entry_time,10:48 AM
+user_51,update_date,19-01-2023
+user_52,name,Cliente 52
+user_52,e-mail,cliente52@exemplo.com
+user_52,cpf,61271724120
+user_52,entry_date,17/04/2023
+user_52,entry_time,22:59
+user_52,update_date,28/05/2023
+user_53,name,Cliente 53
+user_53,e-mail,cliente53@exemplo.com
+user_53,cpf,42808108909
+user_53,entry_date,2023-09-15
+user_53,entry_time,10:29 AM
+user_53,update_date,2023-07-12
+user_54,name,Cliente 54
+user_54,e-mail,cliente54@exemplo.com
+user_54,cpf,21972379443
+user_54,entry_date,2023-12-18
+user_54,entry_time,23:48
+user_54,update_date,10 Oct 2023
+user_55,name,Cliente 55
+user_55,e-mail,cliente55@exemplo.com
+user_55,cpf,54925977810
+user_55,entry_date,12 Mar 2023
+user_55,entry_time,09:50 AM
+user_55,update_date,24/07/2023
+user_56,name,Cliente 56
+user_56,e-mail,cliente56@exemplo.com
+user_56,cpf,93829257953
+user_56,entry_date,07 Oct 2023
+user_56,entry_time,10:39 AM
+user_56,update_date,2023-11-14
+user_57,name,Cliente 57
+user_57,e-mail,cliente57exemplo.com
+user_57,cpf,89733807376
+user_57,entry_date,2023/04/26
+user_57,entry_time,01:51 AM
+user_57,update_date,2023/11/20
+user_58,name,Cliente 58
+user_58,e-mail,cliente58@exemplo.com
+user_58,cpf,28880931198
+user_58,entry_date,2023-02-20
+user_58,entry_time,13:59
+user_58,update_date,04-02-2023
+user_59,name,Cliente 59
+user_59,e-mail,cliente59@exemplo.com
+user_59,cpf,53593942358
+user_59,entry_date,11 Oct 2023
+user_59,entry_time,02:32 PM
+user_59,update_date,2023/05/19
+user_60,name,Cliente 60
+user_60,e-mail,cliente60@exemplo.com
+user_60,cpf,80345325961
+user_60,entry_date,25-06-2023
+user_60,entry_time,01:07
+user_60,update_date,23-11-2023
+user_61,name,cliente_61!
+user_61,e-mail,cliente61@exemplo.com
+user_61,cpf,74482297590
+user_61,entry_date,04 May 2023
+user_61,entry_time,23:19
+user_61,update_date,2023/07/01
+user_62,name,Cliente 62
+user_62,e-mail,cliente62@exemplo.com
+user_62,cpf,45120587505
+user_62,entry_date,06-10-2023
+user_62,entry_time,08:18 AM
+user_62,update_date,19-01-2023
+user_63,name,Cliente 63
+user_63,e-mail,cliente63@exemplo.com
+user_63,cpf,80302128440
+user_63,entry_date,2023/01/06
+user_63,entry_time,00:14
+user_63,update_date,2023-10-24
+user_64,name,Cliente 64
+user_64,e-mail,cliente64exemplo.com
+user_64,cpf,41972165730
+user_64,entry_date,2023-02-09
+user_64,entry_time,01:59 PM
+user_64,update_date,15/09/2023
+user_65,name,Cliente 65
+user_65,e-mail,cliente65@exemplo.com
+user_65,cpf,93720264716
+user_65,entry_date,06-11-2023
+user_65,entry_time,10:32 AM
+user_65,update_date,2023-10-04
+user_66,name,Cliente 66
+user_66,e-mail,cliente66@exemplo.com
+user_66,cpf,29239383201
+user_66,entry_date,2023/02/13
+user_66,entry_time,20:28:53
+user_66,update_date,22/08/2023
+user_67,name,Cliente 67
+user_67,e-mail,cliente67@exemplo.com
+user_67,cpf,91126984048
+user_67,entry_date,2023-01-11
+user_67,entry_time,11:45 AM
+user_67,update_date,25 Dec 2023
+user_68,name,Cliente 68
+user_68,e-mail,cliente68@exemplo.com
+user_68,cpf,79203634652
+user_68,entry_date,05 Nov 2023
+user_68,entry_time,01:55 AM
+user_68,update_date,26-03-2023
+user_69,name,Cliente 69
+user_69,e-mail,cliente69@exemplo.com
+user_69,cpf,85563453124
+user_69,entry_date,2023-06-08
+user_69,entry_time,20:28
+user_69,update_date,2023-07-28
+user_70,name,Cliente 70
+user_70,e-mail,cliente70@exemplo.com
+user_70,cpf,99723661721
+user_70,entry_date,2023-01-21
+user_70,entry_time,03:31
+user_70,update_date,20 Feb 2023
+user_71,name,cliente_71!
+user_71,e-mail,cliente71exemplo.com
+user_71,cpf,88799817077
+user_71,entry_date,31-12-2023
+user_71,entry_time,01:52:14
+user_71,update_date,19-08-2023
+user_72,name,Cliente 72
+user_72,e-mail,cliente72@exemplo.com
+user_72,cpf,58778111552
+user_72,entry_date,11 Oct 2023
+user_72,entry_time,01:12 PM
+user_72,update_date,19-07-2023
+user_73,name,Cliente 73
+user_73,e-mail,cliente73@exemplo.com
+user_73,cpf,60184800163
+user_73,entry_date,16/01/2023
+user_73,entry_time,16:22
+user_73,update_date,18 Aug 2023
+user_74,name,Cliente 74
+user_74,e-mail,cliente74@exemplo.com
+user_74,cpf,31463906276
+user_74,entry_date,02/01/2023
+user_74,entry_time,09:02:39
+user_74,update_date,07/01/2023
+user_75,name,Cliente 75
+user_75,e-mail,cliente75@exemplo.com
+user_75,cpf,71107070460
+user_75,entry_date,13 Nov 2023
+user_75,entry_time,02:05
+user_75,update_date,14/12/2023
+user_76,name,Cliente 76
+user_76,e-mail,cliente76@exemplo.com
+user_76,cpf,82991918689
+user_76,entry_date,29-05-2023
+user_76,entry_time,03:16:31
+user_76,update_date,08/06/2023
+user_77,name,Cliente 77
+user_77,e-mail,cliente77@exemplo.com
+user_77,cpf,45184053506
+user_77,entry_date,09/06/2023
+user_77,entry_time,05:44
+user_77,update_date,25-05-2023
+user_78,name,Cliente 78
+user_78,e-mail,cliente78exemplo.com
+user_78,cpf,96256937053
+user_78,entry_date,06/07/2023
+user_78,entry_time,04:41
+user_78,update_date,2023-04-17
+user_79,name,Cliente 79
+user_79,e-mail,cliente79@exemplo.com
+user_79,cpf,75505014617
+user_79,entry_date,17/02/2023
+user_79,entry_time,06:58 AM
+user_79,update_date,17/07/2023
+user_80,name,Cliente 80
+user_80,e-mail,cliente80@exemplo.com
+user_80,cpf,86511212147
+user_80,entry_date,10 Mar 2023
+user_80,entry_time,05:01 AM
+user_80,update_date,12-04-2023
+user_81,name,cliente_81!
+user_81,e-mail,cliente81@exemplo.com
+user_81,cpf,88991044794
+user_81,entry_date,17-08-2023
+user_81,entry_time,05:59
+user_81,update_date,2023/11/17
+user_82,name,Cliente 82
+user_82,e-mail,cliente82@exemplo.com
+user_82,cpf,75417238746
+user_82,entry_date,2023/07/22
+user_82,entry_time,03:06 AM
+user_82,update_date,2023-04-02
+user_83,name,Cliente 83
+user_83,e-mail,cliente83@exemplo.com
+user_83,cpf,57493374292
+user_83,entry_date,09 Jul 2023
+user_83,entry_time,03:04
+user_83,update_date,19-09-2023
+user_84,name,Cliente 84
+user_84,e-mail,cliente84@exemplo.com
+user_84,cpf,71146346309
+user_84,entry_date,2023-05-27
+user_84,entry_time,01:27
+user_84,update_date,15/05/2023
+user_85,name,Cliente 85
+user_85,e-mail,cliente85exemplo.com
+user_85,cpf,50235910413
+user_85,entry_date,2023-11-15
+user_85,entry_time,05:26:10
+user_85,update_date,16/09/2023
+user_86,name,Cliente 86
+user_86,e-mail,cliente86@exemplo.com
+user_86,cpf,43379436888
+user_86,entry_date,27-01-2023
+user_86,entry_time,13:09
+user_86,update_date,12/05/2023
+user_87,name,Cliente 87
+user_87,e-mail,cliente87@exemplo.com
+user_87,cpf,77121030510
+user_87,entry_date,08-08-2023
+user_87,entry_time,22:03:58
+user_87,update_date,2023/12/07
+user_88,name,Cliente 88
+user_88,e-mail,cliente88@exemplo.com
+user_88,cpf,72842074194
+user_88,entry_date,25-08-2023
+user_88,entry_time,03:11 AM
+user_88,update_date,2023-10-23
+user_89,name,Cliente 89
+user_89,e-mail,cliente89@exemplo.com
+user_89,cpf,80770599291
+user_89,entry_date,2023/02/14
+user_89,entry_time,01:44 PM
+user_89,update_date,22-08-2023
+user_90,name,Cliente 90
+user_90,e-mail,cliente90@exemplo.com
+user_90,cpf,42908906533
+user_90,entry_date,12/04/2023
+user_90,entry_time,07:16
+user_90,update_date,16-09-2023
+user_91,name,cliente_91!
+user_91,e-mail,cliente91@exemplo.com
+user_91,cpf,29807921933
+user_91,entry_date,2023/01/18
+user_91,entry_time,08:55 PM
+user_91,update_date,09-07-2023
+user_92,name,Cliente 92
+user_92,e-mail,cliente92exemplo.com
+user_92,cpf,13876812562
+user_92,entry_date,30-05-2023
+user_92,entry_time,00:32
+user_92,update_date,2023-02-28
+user_93,name,Cliente 93
+user_93,e-mail,cliente93@exemplo.com
+user_93,cpf,63102915022
+user_93,entry_date,05/09/2023
+user_93,entry_time,11:37
+user_93,update_date,2023/02/27
+user_94,name,Cliente 94
+user_94,e-mail,cliente94@exemplo.com
+user_94,cpf,64939760378
+user_94,entry_date,2023/04/08
+user_94,entry_time,09:35
+user_94,update_date,2023/09/16
+user_95,name,Cliente 95
+user_95,e-mail,cliente95@exemplo.com
+user_95,cpf,26670164862
+user_95,entry_date,07-01-2023
+user_95,entry_time,01:50 PM
+user_95,update_date,2023-11-26
+user_96,name,Cliente 96
+user_96,e-mail,cliente96@exemplo.com
+user_96,cpf,38034712276
+user_96,entry_date,2023-11-23
+user_96,entry_time,02:25:26
+user_96,update_date,2023/08/09
+user_97,name,Cliente 97
+user_97,e-mail,cliente97@exemplo.com
+user_97,cpf,12182501749
+user_97,entry_date,2023-01-11
+user_97,entry_time,01:46 AM
+user_97,update_date,2023/02/09
+user_98,name,Cliente 98
+user_98,e-mail,cliente98@exemplo.com
+user_98,cpf,13930408314
+user_98,entry_date,30 Dec 2023
+user_98,entry_time,11:36:10
+user_98,update_date,12-09-2023
+user_99,name,Cliente 99
+user_99,e-mail,cliente99exemplo.com
+user_99,cpf,22429413733
+user_99,entry_date,2023-03-19
+user_99,entry_time,16:34:23
+user_99,update_date,25-08-2023
+user_100,name,Cliente 100
+user_100,e-mail,cliente100@exemplo.com
+user_100,cpf,80858959841
+user_100,entry_date,18/04/2023
+user_100,entry_time,03:59:25
+user_100,update_date,2023-01-08
+user_101,name,cliente_101!
+user_101,e-mail,cliente101@exemplo.com
+user_101,cpf,46762409450
+user_101,entry_date,2023/04/14
+user_101,entry_time,09:22 PM
+user_101,update_date,2023-02-20
+user_102,name,Cliente 102
+user_102,e-mail,cliente102@exemplo.com
+user_102,cpf,25473014829
+user_102,entry_date,2023/10/21
+user_102,entry_time,02:38 PM
+user_102,update_date,07/02/2023
+user_103,name,Cliente 103
+user_103,e-mail,cliente103@exemplo.com
+user_103,cpf,71866653520
+user_103,entry_date,24-04-2023
+user_103,entry_time,20:25:01
+user_103,update_date,2023/05/23
+user_104,name,Cliente 104
+user_104,e-mail,cliente104@exemplo.com
+user_104,cpf,41700277808
+user_104,entry_date,31-05-2023
+user_104,entry_time,08:29:54
+user_104,update_date,14/08/2023
+user_105,name,Cliente 105
+user_105,e-mail,cliente105@exemplo.com
+user_105,cpf,86120265524
+user_105,entry_date,04/01/2023
+user_105,entry_time,07:36
+user_105,update_date,18-08-2023
+user_106,name,Cliente 106
+user_106,e-mail,cliente106exemplo.com
+user_106,cpf,83433448950
+user_106,entry_date,10/06/2023
+user_106,entry_time,18:16:07
+user_106,update_date,09-04-2023
+user_107,name,Cliente 107
+user_107,e-mail,cliente107@exemplo.com
+user_107,cpf,14956141583
+user_107,entry_date,2023-12-28
+user_107,entry_time,10:59:46
+user_107,update_date,29-07-2023
+user_108,name,Cliente 108
+user_108,e-mail,cliente108@exemplo.com
+user_108,cpf,97870339467
+user_108,entry_date,09 Oct 2023
+user_108,entry_time,08:15 AM
+user_108,update_date,07-06-2023
+user_109,name,Cliente 109
+user_109,e-mail,cliente109@exemplo.com
+user_109,cpf,73374775408
+user_109,entry_date,2023-02-13
+user_109,entry_time,20:04:34
+user_109,update_date,29/09/2023
+user_110,name,Cliente 110
+user_110,e-mail,cliente110@exemplo.com
+user_110,cpf,33734823403
+user_110,entry_date,29 Jan 2023
+user_110,entry_time,04:24 PM
+user_110,update_date,2023-10-19
+user_111,name,cliente_111!
+user_111,e-mail,cliente111@exemplo.com
+user_111,cpf,59513918550
+user_111,entry_date,14/10/2023
+user_111,entry_time,18:03
+user_111,update_date,25/08/2023
+user_112,name,Cliente 112
+user_112,e-mail,cliente112@exemplo.com
+user_112,cpf,93721304582
+user_112,entry_date,2023/02/06
+user_112,entry_time,05:28:31
+user_112,update_date,01-05-2023
+user_113,name,Cliente 113
+user_113,e-mail,cliente113exemplo.com
+user_113,cpf,98363452502
+user_113,entry_date,18-07-2023
+user_113,entry_time,00:20:08
+user_113,update_date,02/06/2023
+user_114,name,Cliente 114
+user_114,e-mail,cliente114@exemplo.com
+user_114,cpf,82018714713
+user_114,entry_date,22/02/2023
+user_114,entry_time,14:09:56
+user_114,update_date,12 Aug 2023
+user_115,name,Cliente 115
+user_115,e-mail,cliente115@exemplo.com
+user_115,cpf,93113185115
+user_115,entry_date,2023/10/14
+user_115,entry_time,08:48
+user_115,update_date,25/09/2023
+user_116,name,Cliente 116
+user_116,e-mail,cliente116@exemplo.com
+user_116,cpf,22770606068
+user_116,entry_date,17-12-2023
+user_116,entry_time,05:03
+user_116,update_date,2023-02-07
+user_117,name,Cliente 117
+user_117,e-mail,cliente117@exemplo.com
+user_117,cpf,36464466751
+user_117,entry_date,2023-11-14
+user_117,entry_time,15:29:49
+user_117,update_date,29/01/2023
+user_118,name,Cliente 118
+user_118,e-mail,cliente118@exemplo.com
+user_118,cpf,96073922670
+user_118,entry_date,18 Sep 2023
+user_118,entry_time,10:49:48
+user_118,update_date,2023/04/10
+user_119,name,Cliente 119
+user_119,e-mail,cliente119@exemplo.com
+user_119,cpf,67218136885
+user_119,entry_date,23-09-2023
+user_119,entry_time,10:56
+user_119,update_date,18/11/2023
+user_120,name,Cliente 120
+user_120,e-mail,cliente120exemplo.com
+user_120,cpf,58449766417
+user_120,entry_date,31-07-2023
+user_120,entry_time,01:59 PM
+user_120,update_date,2023-04-18
+user_121,name,cliente_121!
+user_121,e-mail,cliente121@exemplo.com
+user_121,cpf,37700897757
+user_121,entry_date,02/08/2023
+user_121,entry_time,21:14:29
+user_121,update_date,2023/07/05
+user_122,name,Cliente 122
+user_122,e-mail,cliente122@exemplo.com
+user_122,cpf,55199430918
+user_122,entry_date,2023/11/29
+user_122,entry_time,08:43:27
+user_122,update_date,2023-04-28
+user_123,name,Cliente 123
+user_123,e-mail,cliente123@exemplo.com
+user_123,cpf,95376382583
+user_123,entry_date,12-02-2023
+user_123,entry_time,21:22
+user_123,update_date,01 Nov 2023
+user_124,name,Cliente 124
+user_124,e-mail,cliente124@exemplo.com
+user_124,cpf,74404237853
+user_124,entry_date,2023/09/07
+user_124,entry_time,08:04
+user_124,update_date,2023/07/20
+user_125,name,Cliente 125
+user_125,e-mail,cliente125@exemplo.com
+user_125,cpf,80634552049
+user_125,entry_date,26 Feb 2023
+user_125,entry_time,23:26:07
+user_125,update_date,19-08-2023
+user_126,name,Cliente 126
+user_126,e-mail,cliente126@exemplo.com
+user_126,cpf,78534587365
+user_126,entry_date,31/10/2023
+user_126,entry_time,10:38
+user_126,update_date,13/10/2023
+user_127,name,Cliente 127
+user_127,e-mail,cliente127exemplo.com
+user_127,cpf,79529456010
+user_127,entry_date,28-05-2023
+user_127,entry_time,04:05
+user_127,update_date,2023/09/25
+user_128,name,Cliente 128
+user_128,e-mail,cliente128@exemplo.com
+user_128,cpf,10134839626
+user_128,entry_date,17/02/2023
+user_128,entry_time,12:12 PM
+user_128,update_date,2023-06-05
+user_129,name,Cliente 129
+user_129,e-mail,cliente129@exemplo.com
+user_129,cpf,91226157069
+user_129,entry_date,29 Jun 2023
+user_129,entry_time,15:24
+user_129,update_date,2023-07-09
+user_130,name,Cliente 130
+user_130,e-mail,cliente130@exemplo.com
+user_130,cpf,56039148646
+user_130,entry_date,27/07/2023
+user_130,entry_time,11:06 PM
+user_130,update_date,20 Sep 2023
+user_131,name,cliente_131!
+user_131,e-mail,cliente131@exemplo.com
+user_131,cpf,45217359303
+user_131,entry_date,2023-10-23
+user_131,entry_time,18:53:07
+user_131,update_date,2023-11-14
+user_132,name,Cliente 132
+user_132,e-mail,cliente132@exemplo.com
+user_132,cpf,91557470937
+user_132,entry_date,18/08/2023
+user_132,entry_time,06:39:18
+user_132,update_date,20/09/2023
+user_133,name,Cliente 133
+user_133,e-mail,cliente133@exemplo.com
+user_133,cpf,87255225828
+user_133,entry_date,2023/02/01
+user_133,entry_time,05:32 PM
+user_133,update_date,24-01-2023
+user_134,name,Cliente 134
+user_134,e-mail,cliente134exemplo.com
+user_134,cpf,99913758009
+user_134,entry_date,03/06/2023
+user_134,entry_time,10:18 PM
+user_134,update_date,2023/05/02
+user_135,name,Cliente 135
+user_135,e-mail,cliente135@exemplo.com
+user_135,cpf,84748589319
+user_135,entry_date,2023/03/02
+user_135,entry_time,17:23
+user_135,update_date,2023-08-21
+user_136,name,Cliente 136
+user_136,e-mail,cliente136@exemplo.com
+user_136,cpf,73218232535
+user_136,entry_date,09/06/2023
+user_136,entry_time,22:24
+user_136,update_date,2023/12/27
+user_137,name,Cliente 137
+user_137,e-mail,cliente137@exemplo.com
+user_137,cpf,27926568799
+user_137,entry_date,2023-10-09
+user_137,entry_time,11:02 PM
+user_137,update_date,15 Jul 2023
+user_138,name,Cliente 138
+user_138,e-mail,cliente138@exemplo.com
+user_138,cpf,79770307510
+user_138,entry_date,30 Dec 2023
+user_138,entry_time,02:19
+user_138,update_date,14 Apr 2023
+user_139,name,Cliente 139
+user_139,e-mail,cliente139@exemplo.com
+user_139,cpf,18497598585
+user_139,entry_date,2023/07/28
+user_139,entry_time,21:27:42
+user_139,update_date,21-09-2023
+user_140,name,Cliente 140
+user_140,e-mail,cliente140@exemplo.com
+user_140,cpf,20186766580
+user_140,entry_date,27-05-2023
+user_140,entry_time,02:40:14
+user_140,update_date,2023-04-23
+user_141,name,cliente_141!
+user_141,e-mail,cliente141exemplo.com
+user_141,cpf,16132151414
+user_141,entry_date,30-09-2023
+user_141,entry_time,11:31 AM
+user_141,update_date,01 Jul 2023
+user_142,name,Cliente 142
+user_142,e-mail,cliente142@exemplo.com
+user_142,cpf,96672797785
+user_142,entry_date,14/01/2023
+user_142,entry_time,08:42 PM
+user_142,update_date,30/11/2023
+user_143,name,Cliente 143
+user_143,e-mail,cliente143@exemplo.com
+user_143,cpf,23492888857
+user_143,entry_date,2023/05/02
+user_143,entry_time,08:03 PM
+user_143,update_date,07 Jul 2023
+user_144,name,Cliente 144
+user_144,e-mail,cliente144@exemplo.com
+user_144,cpf,26036900536
+user_144,entry_date,21-12-2023
+user_144,entry_time,03:19 PM
+user_144,update_date,02 Jun 2023
+user_145,name,Cliente 145
+user_145,e-mail,cliente145@exemplo.com
+user_145,cpf,63153591723
+user_145,entry_date,07/05/2023
+user_145,entry_time,01:57:51
+user_145,update_date,26 Feb 2023
+user_146,name,Cliente 146
+user_146,e-mail,cliente146@exemplo.com
+user_146,cpf,26770528066
+user_146,entry_date,2023-05-07
+user_146,entry_time,18:48
+user_146,update_date,2023-08-11
+user_147,name,Cliente 147
+user_147,e-mail,cliente147@exemplo.com
+user_147,cpf,56486393857
+user_147,entry_date,03-01-2023
+user_147,entry_time,04:15 AM
+user_147,update_date,2023-05-15
+user_148,name,Cliente 148
+user_148,e-mail,cliente148exemplo.com
+user_148,cpf,98184552248
+user_148,entry_date,2023-11-04
+user_148,entry_time,09:56 AM
+user_148,update_date,03 May 2023
+user_149,name,Cliente 149
+user_149,e-mail,cliente149@exemplo.com
+user_149,cpf,22424195988
+user_149,entry_date,2023/09/24
+user_149,entry_time,09:10:47
+user_149,update_date,28/02/2023
+user_150,name,Cliente 150
+user_150,e-mail,cliente150@exemplo.com
+user_150,cpf,12305828873
+user_150,entry_date,2023/05/13
+user_150,entry_time,07:46 PM
+user_150,update_date,2023/11/01
+user_151,name,cliente_151!
+user_151,e-mail,cliente151@exemplo.com
+user_151,cpf,43957658980
+user_151,entry_date,27/02/2023
+user_151,entry_time,15:34:02
+user_151,update_date,14 Oct 2023
+user_152,name,Cliente 152
+user_152,e-mail,cliente152@exemplo.com
+user_152,cpf,30210761351
+user_152,entry_date,2023/06/04
+user_152,entry_time,18:52
+user_152,update_date,31-10-2023
+user_153,name,Cliente 153
+user_153,e-mail,cliente153@exemplo.com
+user_153,cpf,99642467146
+user_153,entry_date,13 Feb 2023
+user_153,entry_time,02:29 PM
+user_153,update_date,20-02-2023
+user_154,name,Cliente 154
+user_154,e-mail,cliente154@exemplo.com
+user_154,cpf,29599798867
+user_154,entry_date,2023-09-09
+user_154,entry_time,10:19
+user_154,update_date,16-04-2023
+user_155,name,Cliente 155
+user_155,e-mail,cliente155exemplo.com
+user_155,cpf,51393197508
+user_155,entry_date,2023/05/31
+user_155,entry_time,00:02:04
+user_155,update_date,2023-07-25
+user_156,name,Cliente 156
+user_156,e-mail,cliente156@exemplo.com
+user_156,cpf,23670890085
+user_156,entry_date,2023/08/28
+user_156,entry_time,21:14:01
+user_156,update_date,20-04-2023
+user_157,name,Cliente 157
+user_157,e-mail,cliente157@exemplo.com
+user_157,cpf,56303563037
+user_157,entry_date,21/11/2023
+user_157,entry_time,12:48:20
+user_157,update_date,2023/04/03
+user_158,name,Cliente 158
+user_158,e-mail,cliente158@exemplo.com
+user_158,cpf,75539052190
+user_158,entry_date,2023/05/10
+user_158,entry_time,11:06 AM
+user_158,update_date,2023-06-20
+user_159,name,Cliente 159
+user_159,e-mail,cliente159@exemplo.com
+user_159,cpf,95745120219
+user_159,entry_date,14-04-2023
+user_159,entry_time,09:24:37
+user_159,update_date,2023/01/28
+user_160,name,Cliente 160
+user_160,e-mail,cliente160@exemplo.com
+user_160,cpf,17759451938
+user_160,entry_date,31/10/2023
+user_160,entry_time,20:54
+user_160,update_date,01/02/2023
+user_161,name,cliente_161!
+user_161,e-mail,cliente161@exemplo.com
+user_161,cpf,23335009328
+user_161,entry_date,25 Dec 2023
+user_161,entry_time,07:43 AM
+user_161,update_date,2023/01/31
+user_162,name,Cliente 162
+user_162,e-mail,cliente162exemplo.com
+user_162,cpf,93723536121
+user_162,entry_date,2023/01/09
+user_162,entry_time,03:56 PM
+user_162,update_date,2023/02/10
+user_163,name,Cliente 163
+user_163,e-mail,cliente163@exemplo.com
+user_163,cpf,34532762506
+user_163,entry_date,2023/03/08
+user_163,entry_time,03:39 PM
+user_163,update_date,15 Feb 2023
+user_164,name,Cliente 164
+user_164,e-mail,cliente164@exemplo.com
+user_164,cpf,42796804855
+user_164,entry_date,21/12/2023
+user_164,entry_time,00:40
+user_164,update_date,31/08/2023
+user_165,name,Cliente 165
+user_165,e-mail,cliente165@exemplo.com
+user_165,cpf,53413889688
+user_165,entry_date,2023-11-04
+user_165,entry_time,10:59
+user_165,update_date,22 Aug 2023
+user_166,name,Cliente 166
+user_166,e-mail,cliente166@exemplo.com
+user_166,cpf,75884514733
+user_166,entry_date,2023/04/08
+user_166,entry_time,11:18
+user_166,update_date,28/02/2023
+user_167,name,Cliente 167
+user_167,e-mail,cliente167@exemplo.com
+user_167,cpf,36240910770
+user_167,entry_date,2023-12-08
+user_167,entry_time,11:23 AM
+user_167,update_date,10/01/2023
+user_168,name,Cliente 168
+user_168,e-mail,cliente168@exemplo.com
+user_168,cpf,80615616961
+user_168,entry_date,10/05/2023
+user_168,entry_time,07:02
+user_168,update_date,2023/10/12
+user_169,name,Cliente 169
+user_169,e-mail,cliente169exemplo.com
+user_169,cpf,57656391401
+user_169,entry_date,23 Aug 2023
+user_169,entry_time,15:54:25
+user_169,update_date,03/11/2023
+user_170,name,Cliente 170
+user_170,e-mail,cliente170@exemplo.com
+user_170,cpf,87198454637
+user_170,entry_date,07/10/2023
+user_170,entry_time,01:11 AM
+user_170,update_date,2023/02/25
+user_171,name,cliente_171!
+user_171,e-mail,cliente171@exemplo.com
+user_171,cpf,19731056650
+user_171,entry_date,2023/10/29
+user_171,entry_time,02:46:29
+user_171,update_date,05/02/2023
+user_172,name,Cliente 172
+user_172,e-mail,cliente172@exemplo.com
+user_172,cpf,51368827671
+user_172,entry_date,26 Jan 2023
+user_172,entry_time,12:27 AM
+user_172,update_date,14-06-2023
+user_173,name,Cliente 173
+user_173,e-mail,cliente173@exemplo.com
+user_173,cpf,53149759818
+user_173,entry_date,08/09/2023
+user_173,entry_time,05:30 PM
+user_173,update_date,2023-12-08
+user_174,name,Cliente 174
+user_174,e-mail,cliente174@exemplo.com
+user_174,cpf,22058179269
+user_174,entry_date,2023-02-14
+user_174,entry_time,05:49
+user_174,update_date,2023-06-30
+user_175,name,Cliente 175
+user_175,e-mail,cliente175@exemplo.com
+user_175,cpf,84166287453
+user_175,entry_date,09 Sep 2023
+user_175,entry_time,03:58 PM
+user_175,update_date,10-11-2023
+user_176,name,Cliente 176
+user_176,e-mail,cliente176exemplo.com
+user_176,cpf,59010225038
+user_176,entry_date,2023-02-04
+user_176,entry_time,10:58 AM
+user_176,update_date,03-11-2023
+user_177,name,Cliente 177
+user_177,e-mail,cliente177@exemplo.com
+user_177,cpf,21409519952
+user_177,entry_date,2023-01-30
+user_177,entry_time,23:04
+user_177,update_date,31-05-2023
+user_178,name,Cliente 178
+user_178,e-mail,cliente178@exemplo.com
+user_178,cpf,58154870066
+user_178,entry_date,16 Oct 2023
+user_178,entry_time,01:07 AM
+user_178,update_date,29/04/2023
+user_179,name,Cliente 179
+user_179,e-mail,cliente179@exemplo.com
+user_179,cpf,88197254405
+user_179,entry_date,08-04-2023
+user_179,entry_time,06:31:12
+user_179,update_date,15/05/2023
+user_180,name,Cliente 180
+user_180,e-mail,cliente180@exemplo.com
+user_180,cpf,20247200462
+user_180,entry_date,2023/12/08
+user_180,entry_time,06:16 PM
+user_180,update_date,2023-03-30
+user_181,name,cliente_181!
+user_181,e-mail,cliente181@exemplo.com
+user_181,cpf,10800392153
+user_181,entry_date,2023/06/22
+user_181,entry_time,15:57:07
+user_181,update_date,15-01-2023
+user_182,name,Cliente 182
+user_182,e-mail,cliente182@exemplo.com
+user_182,cpf,25750040327
+user_182,entry_date,2023/08/14
+user_182,entry_time,02:34 AM
+user_182,update_date,23/05/2023
+user_183,name,Cliente 183
+user_183,e-mail,cliente183exemplo.com
+user_183,cpf,68660240598
+user_183,entry_date,03 Jul 2023
+user_183,entry_time,06:27 AM
+user_183,update_date,27-08-2023
+user_184,name,Cliente 184
+user_184,e-mail,cliente184@exemplo.com
+user_184,cpf,71158445598
+user_184,entry_date,18/05/2023
+user_184,entry_time,02:13 AM
+user_184,update_date,2023/03/30
+user_185,name,Cliente 185
+user_185,e-mail,cliente185@exemplo.com
+user_185,cpf,22929309588
+user_185,entry_date,24/12/2023
+user_185,entry_time,17:20:59
+user_185,update_date,13 Feb 2023
+user_186,name,Cliente 186
+user_186,e-mail,cliente186@exemplo.com
+user_186,cpf,33033086532
+user_186,entry_date,24-09-2023
+user_186,entry_time,01:31 AM
+user_186,update_date,2023-09-06
+user_187,name,Cliente 187
+user_187,e-mail,cliente187@exemplo.com
+user_187,cpf,83491225987
+user_187,entry_date,2023/10/24
+user_187,entry_time,00:07
+user_187,update_date,21/10/2023
+user_188,name,Cliente 188
+user_188,e-mail,cliente188@exemplo.com
+user_188,cpf,81453968132
+user_188,entry_date,05-01-2023
+user_188,entry_time,19:37
+user_188,update_date,04/08/2023
+user_189,name,Cliente 189
+user_189,e-mail,cliente189@exemplo.com
+user_189,cpf,13877644929
+user_189,entry_date,2023-11-21
+user_189,entry_time,09:25
+user_189,update_date,08/06/2023
+user_190,name,Cliente 190
+user_190,e-mail,cliente190exemplo.com
+user_190,cpf,26692310967
+user_190,entry_date,2023-04-12
+user_190,entry_time,02:44 PM
+user_190,update_date,2023-08-01
+user_191,name,cliente_191!
+user_191,e-mail,cliente191@exemplo.com
+user_191,cpf,34954663459
+user_191,entry_date,2023-07-26
+user_191,entry_time,12:36 AM
+user_191,update_date,2023/01/13
+user_192,name,Cliente 192
+user_192,e-mail,cliente192@exemplo.com
+user_192,cpf,96787375966
+user_192,entry_date,2023-04-21
+user_192,entry_time,06:15 AM
+user_192,update_date,23/03/2023
+user_193,name,Cliente 193
+user_193,e-mail,cliente193@exemplo.com
+user_193,cpf,57396207856
+user_193,entry_date,01 Sep 2023
+user_193,entry_time,03:25 PM
+user_193,update_date,23 May 2023
+user_194,name,Cliente 194
+user_194,e-mail,cliente194@exemplo.com
+user_194,cpf,11270723041
+user_194,entry_date,29 Dec 2023
+user_194,entry_time,06:54 PM
+user_194,update_date,2023/10/28
+user_195,name,Cliente 195
+user_195,e-mail,cliente195@exemplo.com
+user_195,cpf,82956454386
+user_195,entry_date,15-07-2023
+user_195,entry_time,19:51
+user_195,update_date,25 Aug 2023
+user_196,name,Cliente 196
+user_196,e-mail,cliente196@exemplo.com
+user_196,cpf,48160459318
+user_196,entry_date,2023-12-09
+user_196,entry_time,21:49:43
+user_196,update_date,10/09/2023
+user_197,name,Cliente 197
+user_197,e-mail,cliente197exemplo.com
+user_197,cpf,94854005944
+user_197,entry_date,30/09/2023
+user_197,entry_time,02:29 PM
+user_197,update_date,05 Feb 2023
+user_198,name,Cliente 198
+user_198,e-mail,cliente198@exemplo.com
+user_198,cpf,86272327656
+user_198,entry_date,2023-11-08
+user_198,entry_time,05:31 AM
+user_198,update_date,01/07/2023
+user_199,name,Cliente 199
+user_199,e-mail,cliente199@exemplo.com
+user_199,cpf,32900262017
+user_199,entry_date,07 Jun 2023
+user_199,entry_time,17:29
+user_199,update_date,2023/02/08
+user_200,name,Cliente 200
+user_200,e-mail,cliente200@exemplo.com
+user_200,cpf,85443952567
+user_200,entry_date,06/09/2023
+user_200,entry_time,17:38
+user_200,update_date,17-05-2023
+user_201,name,cliente_201!
+user_201,e-mail,cliente201@exemplo.com
+user_201,cpf,83694349373
+user_201,entry_date,30 Oct 2023
+user_201,entry_time,12:34 AM
+user_201,update_date,24 Nov 2023
+user_202,name,Cliente 202
+user_202,e-mail,cliente202@exemplo.com
+user_202,cpf,68313293610
+user_202,entry_date,15-04-2023
+user_202,entry_time,12:21 PM
+user_202,update_date,13/05/2023
+user_203,name,Cliente 203
+user_203,e-mail,cliente203@exemplo.com
+user_203,cpf,42469574049
+user_203,entry_date,2023/02/26
+user_203,entry_time,12:45 PM
+user_203,update_date,2023/02/15
+user_204,name,Cliente 204
+user_204,e-mail,cliente204exemplo.com
+user_204,cpf,77395409187
+user_204,entry_date,2023-08-26
+user_204,entry_time,12:11 AM
+user_204,update_date,03 Aug 2023
+user_205,name,Cliente 205
+user_205,e-mail,cliente205@exemplo.com
+user_205,cpf,30632381311
+user_205,entry_date,2023-07-11
+user_205,entry_time,04:29
+user_205,update_date,2023-02-28
+user_206,name,Cliente 206
+user_206,e-mail,cliente206@exemplo.com
+user_206,cpf,43927542970
+user_206,entry_date,2023/10/16
+user_206,entry_time,10:22
+user_206,update_date,2023/06/21
+user_207,name,Cliente 207
+user_207,e-mail,cliente207@exemplo.com
+user_207,cpf,51667953612
+user_207,entry_date,2023-09-28
+user_207,entry_time,17:46:28
+user_207,update_date,2023/03/21
+user_208,name,Cliente 208
+user_208,e-mail,cliente208@exemplo.com
+user_208,cpf,88281359130
+user_208,entry_date,22 May 2023
+user_208,entry_time,09:08 PM
+user_208,update_date,13 Jun 2023
+user_209,name,Cliente 209
+user_209,e-mail,cliente209@exemplo.com
+user_209,cpf,80664871355
+user_209,entry_date,13/03/2023
+user_209,entry_time,15:31:59
+user_209,update_date,04-11-2023
+user_210,name,Cliente 210
+user_210,e-mail,cliente210@exemplo.com
+user_210,cpf,61138209082
+user_210,entry_date,22/10/2023
+user_210,entry_time,23:09:23
+user_210,update_date,23/05/2023
+user_211,name,cliente_211!
+user_211,e-mail,cliente211exemplo.com
+user_211,cpf,10331394921
+user_211,entry_date,2023/10/06
+user_211,entry_time,22:55:02
+user_211,update_date,2023-02-22
+user_212,name,Cliente 212
+user_212,e-mail,cliente212@exemplo.com
+user_212,cpf,72142724080
+user_212,entry_date,22-09-2023
+user_212,entry_time,22:47
+user_212,update_date,2023/09/27
+user_213,name,Cliente 213
+user_213,e-mail,cliente213@exemplo.com
+user_213,cpf,99736649643
+user_213,entry_date,2023-04-13
+user_213,entry_time,05:03 PM
+user_213,update_date,2023/05/12
+user_214,name,Cliente 214
+user_214,e-mail,cliente214@exemplo.com
+user_214,cpf,22159051926
+user_214,entry_date,15-11-2023
+user_214,entry_time,18:26
+user_214,update_date,10/02/2023
+user_215,name,Cliente 215
+user_215,e-mail,cliente215@exemplo.com
+user_215,cpf,93034352602
+user_215,entry_date,18 May 2023
+user_215,entry_time,03:35
+user_215,update_date,08 Jun 2023
+user_216,name,Cliente 216
+user_216,e-mail,cliente216@exemplo.com
+user_216,cpf,42331073793
+user_216,entry_date,2023/08/28
+user_216,entry_time,05:51 AM
+user_216,update_date,30/11/2023
+user_217,name,Cliente 217
+user_217,e-mail,cliente217@exemplo.com
+user_217,cpf,15040725059
+user_217,entry_date,2023-04-04
+user_217,entry_time,16:28:26
+user_217,update_date,2023-05-11
+user_218,name,Cliente 218
+user_218,e-mail,cliente218exemplo.com
+user_218,cpf,59188275779
+user_218,entry_date,2023-02-03
+user_218,entry_time,01:10:13
+user_218,update_date,2023/05/22
+user_219,name,Cliente 219
+user_219,e-mail,cliente219@exemplo.com
+user_219,cpf,56971438707
+user_219,entry_date,29/04/2023
+user_219,entry_time,01:02 AM
+user_219,update_date,08-12-2023
+user_220,name,Cliente 220
+user_220,e-mail,cliente220@exemplo.com
+user_220,cpf,80689007769
+user_220,entry_date,28/03/2023
+user_220,entry_time,01:45 AM
+user_220,update_date,28/02/2023
+user_221,name,cliente_221!
+user_221,e-mail,cliente221@exemplo.com
+user_221,cpf,93375156875
+user_221,entry_date,2023-07-23
+user_221,entry_time,12:06 AM
+user_221,update_date,10/04/2023
+user_222,name,Cliente 222
+user_222,e-mail,cliente222@exemplo.com
+user_222,cpf,54689721640
+user_222,entry_date,09 Aug 2023
+user_222,entry_time,22:16
+user_222,update_date,2023-10-02
+user_223,name,Cliente 223
+user_223,e-mail,cliente223@exemplo.com
+user_223,cpf,90658128819
+user_223,entry_date,2023/06/13
+user_223,entry_time,06:25 AM
+user_223,update_date,23 Jul 2023
+user_224,name,Cliente 224
+user_224,e-mail,cliente224@exemplo.com
+user_224,cpf,90730414216
+user_224,entry_date,2023/06/08
+user_224,entry_time,10:58 PM
+user_224,update_date,2023/12/08
+user_225,name,Cliente 225
+user_225,e-mail,cliente225exemplo.com
+user_225,cpf,29586339406
+user_225,entry_date,2023-10-19
+user_225,entry_time,21:40:19
+user_225,update_date,03-02-2023
+user_226,name,Cliente 226
+user_226,e-mail,cliente226@exemplo.com
+user_226,cpf,16173200257
+user_226,entry_date,15-10-2023
+user_226,entry_time,17:44:41
+user_226,update_date,02 Oct 2023
+user_227,name,Cliente 227
+user_227,e-mail,cliente227@exemplo.com
+user_227,cpf,70295833507
+user_227,entry_date,12-02-2023
+user_227,entry_time,23:39:50
+user_227,update_date,2023-10-12
+user_228,name,Cliente 228
+user_228,e-mail,cliente228@exemplo.com
+user_228,cpf,39576092890
+user_228,entry_date,22-08-2023
+user_228,entry_time,11:54 PM
+user_228,update_date,30/12/2023
+user_229,name,Cliente 229
+user_229,e-mail,cliente229@exemplo.com
+user_229,cpf,76622295383
+user_229,entry_date,2023/05/26
+user_229,entry_time,22:54:09
+user_229,update_date,11/07/2023
+user_230,name,Cliente 230
+user_230,e-mail,cliente230@exemplo.com
+user_230,cpf,22321077145
+user_230,entry_date,14-06-2023
+user_230,entry_time,01:22
+user_230,update_date,23/01/2023
+user_231,name,cliente_231!
+user_231,e-mail,cliente231@exemplo.com
+user_231,cpf,22541090364
+user_231,entry_date,2023/09/23
+user_231,entry_time,03:01 PM
+user_231,update_date,21/01/2023
+user_232,name,Cliente 232
+user_232,e-mail,cliente232exemplo.com
+user_232,cpf,20801161535
+user_232,entry_date,03 Oct 2023
+user_232,entry_time,11:00 AM
+user_232,update_date,2023/03/08
+user_233,name,Cliente 233
+user_233,e-mail,cliente233@exemplo.com
+user_233,cpf,19791365555
+user_233,entry_date,12-03-2023
+user_233,entry_time,22:48:52
+user_233,update_date,2023/05/01
+user_234,name,Cliente 234
+user_234,e-mail,cliente234@exemplo.com
+user_234,cpf,96332767301
+user_234,entry_date,2023-03-10
+user_234,entry_time,12:13 PM
+user_234,update_date,21/04/2023
+user_235,name,Cliente 235
+user_235,e-mail,cliente235@exemplo.com
+user_235,cpf,90704809061
+user_235,entry_date,2023/08/05
+user_235,entry_time,11:58
+user_235,update_date,2023/02/28
+user_236,name,Cliente 236
+user_236,e-mail,cliente236@exemplo.com
+user_236,cpf,53688931242
+user_236,entry_date,2023-07-11
+user_236,entry_time,07:11
+user_236,update_date,19-04-2023
+user_237,name,Cliente 237
+user_237,e-mail,cliente237@exemplo.com
+user_237,cpf,60745878920
+user_237,entry_date,02/01/2023
+user_237,entry_time,08:36
+user_237,update_date,2023/04/24
+user_238,name,Cliente 238
+user_238,e-mail,cliente238@exemplo.com
+user_238,cpf,69518867348
+user_238,entry_date,16-11-2023
+user_238,entry_time,21:36
+user_238,update_date,2023/01/03
+user_239,name,Cliente 239
+user_239,e-mail,cliente239exemplo.com
+user_239,cpf,56928063420
+user_239,entry_date,26/10/2023
+user_239,entry_time,09:52:13
+user_239,update_date,2023-07-06
+user_240,name,Cliente 240
+user_240,e-mail,cliente240@exemplo.com
+user_240,cpf,13757017332
+user_240,entry_date,29/08/2023
+user_240,entry_time,06:57:26
+user_240,update_date,2023-05-28
+user_241,name,cliente_241!
+user_241,e-mail,cliente241@exemplo.com
+user_241,cpf,18592106965
+user_241,entry_date,2023-06-13
+user_241,entry_time,12:46 AM
+user_241,update_date,2023/02/04
+user_242,name,Cliente 242
+user_242,e-mail,cliente242@exemplo.com
+user_242,cpf,30125010494
+user_242,entry_date,2023-12-27
+user_242,entry_time,14:37:45
+user_242,update_date,14-07-2023
+user_243,name,Cliente 243
+user_243,e-mail,cliente243@exemplo.com
+user_243,cpf,34210339810
+user_243,entry_date,30-07-2023
+user_243,entry_time,22:08
+user_243,update_date,09-01-2023
+user_244,name,Cliente 244
+user_244,e-mail,cliente244@exemplo.com
+user_244,cpf,95901305480
+user_244,entry_date,2023/08/08
+user_244,entry_time,16:07
+user_244,update_date,30 Apr 2023
+user_245,name,Cliente 245
+user_245,e-mail,cliente245@exemplo.com
+user_245,cpf,62676952726
+user_245,entry_date,2023/04/07
+user_245,entry_time,22:08:06
+user_245,update_date,2023-12-21
+user_246,name,Cliente 246
+user_246,e-mail,cliente246exemplo.com
+user_246,cpf,38850416315
+user_246,entry_date,28-05-2023
+user_246,entry_time,05:10 PM
+user_246,update_date,29-07-2023
+user_247,name,Cliente 247
+user_247,e-mail,cliente247@exemplo.com
+user_247,cpf,59906810769
+user_247,entry_date,2023-03-19
+user_247,entry_time,14:12
+user_247,update_date,26/04/2023
+user_248,name,Cliente 248
+user_248,e-mail,cliente248@exemplo.com
+user_248,cpf,90441583432
+user_248,entry_date,03 Jun 2023
+user_248,entry_time,02:21:51
+user_248,update_date,14 Sep 2023
+user_249,name,Cliente 249
+user_249,e-mail,cliente249@exemplo.com
+user_249,cpf,26462499253
+user_249,entry_date,2023-09-30
+user_249,entry_time,21:44
+user_249,update_date,23 Feb 2023
+user_250,name,Cliente 250
+user_250,e-mail,cliente250@exemplo.com
+user_250,cpf,45555807483
+user_250,entry_date,2023-12-30
+user_250,entry_time,21:37:15
+user_250,update_date,2023/12/10
+user_251,name,cliente_251!
+user_251,e-mail,cliente251@exemplo.com
+user_251,cpf,82391274888
+user_251,entry_date,2023/07/22
+user_251,entry_time,05:09 PM
+user_251,update_date,2023-06-12
+user_252,name,Cliente 252
+user_252,e-mail,cliente252@exemplo.com
+user_252,cpf,42852403580
+user_252,entry_date,04/12/2023
+user_252,entry_time,01:28 AM
+user_252,update_date,10/12/2023
+user_253,name,Cliente 253
+user_253,e-mail,cliente253exemplo.com
+user_253,cpf,23797039715
+user_253,entry_date,16 Nov 2023
+user_253,entry_time,07:18
+user_253,update_date,11-07-2023
+user_254,name,Cliente 254
+user_254,e-mail,cliente254@exemplo.com
+user_254,cpf,38274863256
+user_254,entry_date,02-10-2023
+user_254,entry_time,07:05 AM
+user_254,update_date,03-06-2023
+user_255,name,Cliente 255
+user_255,e-mail,cliente255@exemplo.com
+user_255,cpf,66389209292
+user_255,entry_date,2023-08-12
+user_255,entry_time,01:12:52
+user_255,update_date,17 Nov 2023
+user_256,name,Cliente 256
+user_256,e-mail,cliente256@exemplo.com
+user_256,cpf,20341384176
+user_256,entry_date,08/02/2023
+user_256,entry_time,04:24 PM
+user_256,update_date,05-11-2023
+user_257,name,Cliente 257
+user_257,e-mail,cliente257@exemplo.com
+user_257,cpf,92294616461
+user_257,entry_date,14 Dec 2023
+user_257,entry_time,07:54 PM
+user_257,update_date,16-03-2023
+user_258,name,Cliente 258
+user_258,e-mail,cliente258@exemplo.com
+user_258,cpf,68681336475
+user_258,entry_date,28/04/2023
+user_258,entry_time,12:33
+user_258,update_date,2023/04/29
+user_259,name,Cliente 259
+user_259,e-mail,cliente259@exemplo.com
+user_259,cpf,35757613840
+user_259,entry_date,09-08-2023
+user_259,entry_time,04:10 AM
+user_259,update_date,2023/03/05
+user_260,name,Cliente 260
+user_260,e-mail,cliente260exemplo.com
+user_260,cpf,81344133240
+user_260,entry_date,2023-11-23
+user_260,entry_time,11:00
+user_260,update_date,2023-05-19
+user_261,name,cliente_261!
+user_261,e-mail,cliente261@exemplo.com
+user_261,cpf,49953530862
+user_261,entry_date,01/01/2024
+user_261,entry_time,06:44 AM
+user_261,update_date,2023-01-24
+user_262,name,Cliente 262
+user_262,e-mail,cliente262@exemplo.com
+user_262,cpf,18876221947
+user_262,entry_date,2023-08-22
+user_262,entry_time,20:08
+user_262,update_date,02 Jun 2023
+user_263,name,Cliente 263
+user_263,e-mail,cliente263@exemplo.com
+user_263,cpf,78727703256
+user_263,entry_date,08 Jul 2023
+user_263,entry_time,04:42 AM
+user_263,update_date,2023/08/05
+user_264,name,Cliente 264
+user_264,e-mail,cliente264@exemplo.com
+user_264,cpf,71247306665
+user_264,entry_date,30 Jan 2023
+user_264,entry_time,07:40 AM
+user_264,update_date,05/12/2023
+user_265,name,Cliente 265
+user_265,e-mail,cliente265@exemplo.com
+user_265,cpf,75793423668
+user_265,entry_date,2023-04-30
+user_265,entry_time,09:09 AM
+user_265,update_date,2023/08/01
+user_266,name,Cliente 266
+user_266,e-mail,cliente266@exemplo.com
+user_266,cpf,58189486193
+user_266,entry_date,03-05-2023
+user_266,entry_time,06:00 AM
+user_266,update_date,21 Jun 2023
+user_267,name,Cliente 267
+user_267,e-mail,cliente267exemplo.com
+user_267,cpf,56527277483
+user_267,entry_date,28/10/2023
+user_267,entry_time,06:10:05
+user_267,update_date,2023/06/25
+user_268,name,Cliente 268
+user_268,e-mail,cliente268@exemplo.com
+user_268,cpf,41869433982
+user_268,entry_date,05 Apr 2023
+user_268,entry_time,04:50 AM
+user_268,update_date,2023-09-03
+user_269,name,Cliente 269
+user_269,e-mail,cliente269@exemplo.com
+user_269,cpf,64503652179
+user_269,entry_date,13/07/2023
+user_269,entry_time,23:20:59
+user_269,update_date,23 Sep 2023
+user_270,name,Cliente 270
+user_270,e-mail,cliente270@exemplo.com
+user_270,cpf,12526221855
+user_270,entry_date,12/06/2023
+user_270,entry_time,07:53 AM
+user_270,update_date,2023-07-10
+user_271,name,cliente_271!
+user_271,e-mail,cliente271@exemplo.com
+user_271,cpf,25172392100
+user_271,entry_date,24/07/2023
+user_271,entry_time,09:05 PM
+user_271,update_date,20-03-2023
+user_272,name,Cliente 272
+user_272,e-mail,cliente272@exemplo.com
+user_272,cpf,50309737236
+user_272,entry_date,2023/07/09
+user_272,entry_time,13:40:14
+user_272,update_date,12 Jul 2023
+user_273,name,Cliente 273
+user_273,e-mail,cliente273@exemplo.com
+user_273,cpf,83955282336
+user_273,entry_date,07 May 2023
+user_273,entry_time,05:57
+user_273,update_date,2023-07-07
+user_274,name,Cliente 274
+user_274,e-mail,cliente274exemplo.com
+user_274,cpf,28252762593
+user_274,entry_date,19-04-2023
+user_274,entry_time,00:46:10
+user_274,update_date,2023/12/27
+user_275,name,Cliente 275
+user_275,e-mail,cliente275@exemplo.com
+user_275,cpf,24855717976
+user_275,entry_date,15/12/2023
+user_275,entry_time,11:23 PM
+user_275,update_date,30-06-2023
+user_276,name,Cliente 276
+user_276,e-mail,cliente276@exemplo.com
+user_276,cpf,64717090186
+user_276,entry_date,08/06/2023
+user_276,entry_time,01:08 AM
+user_276,update_date,2023-11-22
+user_277,name,Cliente 277
+user_277,e-mail,cliente277@exemplo.com
+user_277,cpf,22463271838
+user_277,entry_date,2023-06-29
+user_277,entry_time,01:15 PM
+user_277,update_date,15-10-2023
+user_278,name,Cliente 278
+user_278,e-mail,cliente278@exemplo.com
+user_278,cpf,67434135832
+user_278,entry_date,15 Nov 2023
+user_278,entry_time,02:12:36
+user_278,update_date,30 May 2023
+user_279,name,Cliente 279
+user_279,e-mail,cliente279@exemplo.com
+user_279,cpf,40548858634
+user_279,entry_date,24 May 2023
+user_279,entry_time,08:26
+user_279,update_date,11 Feb 2023
+user_280,name,Cliente 280
+user_280,e-mail,cliente280@exemplo.com
+user_280,cpf,91436600383
+user_280,entry_date,2023-01-02
+user_280,entry_time,04:00 AM
+user_280,update_date,06 Jul 2023
+user_281,name,cliente_281!
+user_281,e-mail,cliente281exemplo.com
+user_281,cpf,27866449251
+user_281,entry_date,25-03-2023
+user_281,entry_time,02:06 PM
+user_281,update_date,2023-06-04
+user_282,name,Cliente 282
+user_282,e-mail,cliente282@exemplo.com
+user_282,cpf,16650596054
+user_282,entry_date,2023/04/21
+user_282,entry_time,00:23:58
+user_282,update_date,14 Oct 2023
+user_283,name,Cliente 283
+user_283,e-mail,cliente283@exemplo.com
+user_283,cpf,13814579901
+user_283,entry_date,24 Jul 2023
+user_283,entry_time,02:43 AM
+user_283,update_date,12/07/2023
+user_284,name,Cliente 284
+user_284,e-mail,cliente284@exemplo.com
+user_284,cpf,95539373304
+user_284,entry_date,2023-03-27
+user_284,entry_time,17:25
+user_284,update_date,18/12/2023
+user_285,name,Cliente 285
+user_285,e-mail,cliente285@exemplo.com
+user_285,cpf,90993431709
+user_285,entry_date,18/09/2023
+user_285,entry_time,05:19:33
+user_285,update_date,2023/07/18
+user_286,name,Cliente 286
+user_286,e-mail,cliente286@exemplo.com
+user_286,cpf,59610290205
+user_286,entry_date,2023/09/12
+user_286,entry_time,00:02:33
+user_286,update_date,2023-10-26
+user_287,name,Cliente 287
+user_287,e-mail,cliente287@exemplo.com
+user_287,cpf,73528944701
+user_287,entry_date,25 May 2023
+user_287,entry_time,01:42 PM
+user_287,update_date,20-09-2023
+user_288,name,Cliente 288
+user_288,e-mail,cliente288exemplo.com
+user_288,cpf,61173360375
+user_288,entry_date,2023-05-07
+user_288,entry_time,00:26:00
+user_288,update_date,27-11-2023
+user_289,name,Cliente 289
+user_289,e-mail,cliente289@exemplo.com
+user_289,cpf,69120827368
+user_289,entry_date,19 Dec 2023
+user_289,entry_time,13:52
+user_289,update_date,01 Oct 2023
+user_290,name,Cliente 290
+user_290,e-mail,cliente290@exemplo.com
+user_290,cpf,31524026573
+user_290,entry_date,11 Jul 2023
+user_290,entry_time,16:53
+user_290,update_date,2023/06/24
+user_291,name,cliente_291!
+user_291,e-mail,cliente291@exemplo.com
+user_291,cpf,58515217546
+user_291,entry_date,2023/05/20
+user_291,entry_time,10:27:59
+user_291,update_date,23/10/2023
+user_292,name,Cliente 292
+user_292,e-mail,cliente292@exemplo.com
+user_292,cpf,77064590143
+user_292,entry_date,22-07-2023
+user_292,entry_time,10:35
+user_292,update_date,07/11/2023
+user_293,name,Cliente 293
+user_293,e-mail,cliente293@exemplo.com
+user_293,cpf,77690748206
+user_293,entry_date,2023-09-28
+user_293,entry_time,22:53
+user_293,update_date,2023-01-12
+user_294,name,Cliente 294
+user_294,e-mail,cliente294@exemplo.com
+user_294,cpf,13539213478
+user_294,entry_date,16/09/2023
+user_294,entry_time,00:37
+user_294,update_date,2023/06/02
+user_295,name,Cliente 295
+user_295,e-mail,cliente295exemplo.com
+user_295,cpf,74796242886
+user_295,entry_date,23-03-2023
+user_295,entry_time,20:59:17
+user_295,update_date,2023-03-25
+user_296,name,Cliente 296
+user_296,e-mail,cliente296@exemplo.com
+user_296,cpf,33646531143
+user_296,entry_date,2023-04-19
+user_296,entry_time,03:58:56
+user_296,update_date,02 Feb 2023
+user_297,name,Cliente 297
+user_297,e-mail,cliente297@exemplo.com
+user_297,cpf,81927430780
+user_297,entry_date,2023-06-05
+user_297,entry_time,04:33 PM
+user_297,update_date,2023/07/14
+user_298,name,Cliente 298
+user_298,e-mail,cliente298@exemplo.com
+user_298,cpf,51612273334
+user_298,entry_date,2023-01-03
+user_298,entry_time,13:09:01
+user_298,update_date,04/05/2023
+user_299,name,Cliente 299
+user_299,e-mail,cliente299@exemplo.com
+user_299,cpf,42179418382
+user_299,entry_date,26/04/2023
+user_299,entry_time,11:17
+user_299,update_date,20 Jul 2023
+user_300,name,Cliente 300
+user_300,e-mail,cliente300@exemplo.com
+user_300,cpf,55623115120
+user_300,entry_date,30/10/2023
+user_300,entry_time,10:13:00
+user_300,update_date,26-12-2023
+user_301,name,cliente_301!
+user_301,e-mail,cliente301@exemplo.com
+user_301,cpf,82797068471
+user_301,entry_date,10-12-2023
+user_301,entry_time,03:38 AM
+user_301,update_date,2023/11/21
+user_302,name,Cliente 302
+user_302,e-mail,cliente302exemplo.com
+user_302,cpf,72541808551
+user_302,entry_date,06/01/2023
+user_302,entry_time,16:58:13
+user_302,update_date,18/04/2023
+user_303,name,Cliente 303
+user_303,e-mail,cliente303@exemplo.com
+user_303,cpf,60109902082
+user_303,entry_date,2023/05/20
+user_303,entry_time,02:25 AM
+user_303,update_date,11/08/2023
+user_304,name,Cliente 304
+user_304,e-mail,cliente304@exemplo.com
+user_304,cpf,55368642802
+user_304,entry_date,2023-04-27
+user_304,entry_time,04:26
+user_304,update_date,25 May 2023
+user_305,name,Cliente 305
+user_305,e-mail,cliente305@exemplo.com
+user_305,cpf,53936356805
+user_305,entry_date,11-09-2023
+user_305,entry_time,22:40
+user_305,update_date,16-12-2023
+user_306,name,Cliente 306
+user_306,e-mail,cliente306@exemplo.com
+user_306,cpf,81659724135
+user_306,entry_date,26/12/2023
+user_306,entry_time,17:15
+user_306,update_date,2023-08-25
+user_307,name,Cliente 307
+user_307,e-mail,cliente307@exemplo.com
+user_307,cpf,37311387036
+user_307,entry_date,28 Mar 2023
+user_307,entry_time,01:59 PM
+user_307,update_date,04-03-2023
+user_308,name,Cliente 308
+user_308,e-mail,cliente308@exemplo.com
+user_308,cpf,49629478301
+user_308,entry_date,12 Apr 2023
+user_308,entry_time,11:32:14
+user_308,update_date,31-01-2023
+user_309,name,Cliente 309
+user_309,e-mail,cliente309exemplo.com
+user_309,cpf,63111128133
+user_309,entry_date,19/02/2023
+user_309,entry_time,00:28
+user_309,update_date,07 Sep 2023
+user_310,name,Cliente 310
+user_310,e-mail,cliente310@exemplo.com
+user_310,cpf,24808936207
+user_310,entry_date,23/10/2023
+user_310,entry_time,16:53
+user_310,update_date,2023/03/20
+user_311,name,cliente_311!
+user_311,e-mail,cliente311@exemplo.com
+user_311,cpf,39627812855
+user_311,entry_date,30-12-2023
+user_311,entry_time,04:52:18
+user_311,update_date,22 Feb 2023
+user_312,name,Cliente 312
+user_312,e-mail,cliente312@exemplo.com
+user_312,cpf,66825058193
+user_312,entry_date,2023-05-07
+user_312,entry_time,00:09:48
+user_312,update_date,13 Oct 2023
+user_313,name,Cliente 313
+user_313,e-mail,cliente313@exemplo.com
+user_313,cpf,75777761756
+user_313,entry_date,2023-03-15
+user_313,entry_time,09:13:54
+user_313,update_date,2023/09/24
+user_314,name,Cliente 314
+user_314,e-mail,cliente314@exemplo.com
+user_314,cpf,54948505170
+user_314,entry_date,2023-12-08
+user_314,entry_time,09:52
+user_314,update_date,08/11/2023
+user_315,name,Cliente 315
+user_315,e-mail,cliente315@exemplo.com
+user_315,cpf,70777492954
+user_315,entry_date,21-02-2023
+user_315,entry_time,06:29:38
+user_315,update_date,14 Mar 2023
+user_316,name,Cliente 316
+user_316,e-mail,cliente316exemplo.com
+user_316,cpf,31299392483
+user_316,entry_date,12-01-2023
+user_316,entry_time,11:47 AM
+user_316,update_date,20 Dec 2023
+user_317,name,Cliente 317
+user_317,e-mail,cliente317@exemplo.com
+user_317,cpf,36020392292
+user_317,entry_date,27/03/2023
+user_317,entry_time,01:58:05
+user_317,update_date,26 Jan 2023
+user_318,name,Cliente 318
+user_318,e-mail,cliente318@exemplo.com
+user_318,cpf,50058867545
+user_318,entry_date,2023-10-01
+user_318,entry_time,03:08:59
+user_318,update_date,15/03/2023
+user_319,name,Cliente 319
+user_319,e-mail,cliente319@exemplo.com
+user_319,cpf,95219400143
+user_319,entry_date,24/01/2023
+user_319,entry_time,05:00:03
+user_319,update_date,2023-02-02
+user_320,name,Cliente 320
+user_320,e-mail,cliente320@exemplo.com
+user_320,cpf,91340981387
+user_320,entry_date,30 Apr 2023
+user_320,entry_time,03:37 PM
+user_320,update_date,21 Jun 2023
+user_321,name,cliente_321!
+user_321,e-mail,cliente321@exemplo.com
+user_321,cpf,85781427281
+user_321,entry_date,18 Nov 2023
+user_321,entry_time,06:02:59
+user_321,update_date,15 Jan 2023
+user_322,name,Cliente 322
+user_322,e-mail,cliente322@exemplo.com
+user_322,cpf,76340254725
+user_322,entry_date,2023/06/22
+user_322,entry_time,01:24
+user_322,update_date,2023-04-06
+user_323,name,Cliente 323
+user_323,e-mail,cliente323exemplo.com
+user_323,cpf,60203058409
+user_323,entry_date,2023/07/03
+user_323,entry_time,08:31 AM
+user_323,update_date,16-01-2023
+user_324,name,Cliente 324
+user_324,e-mail,cliente324@exemplo.com
+user_324,cpf,90836270727
+user_324,entry_date,2023/01/03
+user_324,entry_time,05:22:27
+user_324,update_date,2023/06/30
+user_325,name,Cliente 325
+user_325,e-mail,cliente325@exemplo.com
+user_325,cpf,41194978753
+user_325,entry_date,2023-06-26
+user_325,entry_time,07:35 AM
+user_325,update_date,2023/03/23
+user_326,name,Cliente 326
+user_326,e-mail,cliente326@exemplo.com
+user_326,cpf,11404916485
+user_326,entry_date,2023-08-03
+user_326,entry_time,17:11
+user_326,update_date,01-07-2023
+user_327,name,Cliente 327
+user_327,e-mail,cliente327@exemplo.com
+user_327,cpf,34991276577
+user_327,entry_date,2023-05-19
+user_327,entry_time,03:08:36
+user_327,update_date,2023-08-26
+user_328,name,Cliente 328
+user_328,e-mail,cliente328@exemplo.com
+user_328,cpf,83729438074
+user_328,entry_date,24/04/2023
+user_328,entry_time,12:12 AM
+user_328,update_date,27-12-2023
+user_329,name,Cliente 329
+user_329,e-mail,cliente329@exemplo.com
+user_329,cpf,39839667439
+user_329,entry_date,22 Mar 2023
+user_329,entry_time,20:37
+user_329,update_date,2023/07/01
+user_330,name,Cliente 330
+user_330,e-mail,cliente330exemplo.com
+user_330,cpf,26206140484
+user_330,entry_date,2023-11-07
+user_330,entry_time,10:46:42
+user_330,update_date,2023/06/15
+user_331,name,cliente_331!
+user_331,e-mail,cliente331@exemplo.com
+user_331,cpf,33321441193
+user_331,entry_date,2023/04/25
+user_331,entry_time,02:21
+user_331,update_date,02-04-2023
+user_332,name,Cliente 332
+user_332,e-mail,cliente332@exemplo.com
+user_332,cpf,47036313672
+user_332,entry_date,21/03/2023
+user_332,entry_time,03:30
+user_332,update_date,2023-03-20
+user_333,name,Cliente 333
+user_333,e-mail,cliente333@exemplo.com
+user_333,cpf,64907624680
+user_333,entry_date,10/07/2023
+user_333,entry_time,15:24:40
+user_333,update_date,2023/06/09
+user_334,name,Cliente 334
+user_334,e-mail,cliente334@exemplo.com
+user_334,cpf,92755734619
+user_334,entry_date,2023/02/28
+user_334,entry_time,20:05:50
+user_334,update_date,2023-01-30
+user_335,name,Cliente 335
+user_335,e-mail,cliente335@exemplo.com
+user_335,cpf,94472663224
+user_335,entry_date,2023/07/15
+user_335,entry_time,13:25:46
+user_335,update_date,30-12-2023
+user_336,name,Cliente 336
+user_336,e-mail,cliente336@exemplo.com
+user_336,cpf,29986841412
+user_336,entry_date,13-03-2023
+user_336,entry_time,11:43:12
+user_336,update_date,04/10/2023
+user_337,name,Cliente 337
+user_337,e-mail,cliente337exemplo.com
+user_337,cpf,77391529065
+user_337,entry_date,2023-04-05
+user_337,entry_time,03:22
+user_337,update_date,2023-11-23
+user_338,name,Cliente 338
+user_338,e-mail,cliente338@exemplo.com
+user_338,cpf,30762461481
+user_338,entry_date,2023-05-24
+user_338,entry_time,23:17:09
+user_338,update_date,01-06-2023
+user_339,name,Cliente 339
+user_339,e-mail,cliente339@exemplo.com
+user_339,cpf,91135453167
+user_339,entry_date,2023/09/05
+user_339,entry_time,13:52
+user_339,update_date,2023/07/16
+user_340,name,Cliente 340
+user_340,e-mail,cliente340@exemplo.com
+user_340,cpf,38039586354
+user_340,entry_date,2023/12/11
+user_340,entry_time,02:12 PM
+user_340,update_date,15-05-2023
+user_341,name,cliente_341!
+user_341,e-mail,cliente341@exemplo.com
+user_341,cpf,71968993780
+user_341,entry_date,14 Jul 2023
+user_341,entry_time,07:33 PM
+user_341,update_date,2023/05/04
+user_342,name,Cliente 342
+user_342,e-mail,cliente342@exemplo.com
+user_342,cpf,30817547069
+user_342,entry_date,05/06/2023
+user_342,entry_time,12:18 PM
+user_342,update_date,2023/09/11
+user_343,name,Cliente 343
+user_343,e-mail,cliente343@exemplo.com
+user_343,cpf,19561544656
+user_343,entry_date,30/05/2023
+user_343,entry_time,05:46:13
+user_343,update_date,29 Aug 2023
+user_344,name,Cliente 344
+user_344,e-mail,cliente344exemplo.com
+user_344,cpf,56578709473
+user_344,entry_date,19-11-2023
+user_344,entry_time,07:08
+user_344,update_date,2023-01-14
+user_345,name,Cliente 345
+user_345,e-mail,cliente345@exemplo.com
+user_345,cpf,22588834840
+user_345,entry_date,22-10-2023
+user_345,entry_time,09:48 PM
+user_345,update_date,23-07-2023
+user_346,name,Cliente 346
+user_346,e-mail,cliente346@exemplo.com
+user_346,cpf,44250218786
+user_346,entry_date,05/06/2023
+user_346,entry_time,18:43
+user_346,update_date,15 Aug 2023
+user_347,name,Cliente 347
+user_347,e-mail,cliente347@exemplo.com
+user_347,cpf,49214894998
+user_347,entry_date,2023-04-14
+user_347,entry_time,03:37:10
+user_347,update_date,05-09-2023
+user_348,name,Cliente 348
+user_348,e-mail,cliente348@exemplo.com
+user_348,cpf,48385972814
+user_348,entry_date,2023/03/31
+user_348,entry_time,14:58:25
+user_348,update_date,2023-06-24
+user_349,name,Cliente 349
+user_349,e-mail,cliente349@exemplo.com
+user_349,cpf,73479370447
+user_349,entry_date,04 Mar 2023
+user_349,entry_time,02:50 AM
+user_349,update_date,22 Jul 2023
+user_350,name,Cliente 350
+user_350,e-mail,cliente350@exemplo.com
+user_350,cpf,42780656207
+user_350,entry_date,14-05-2023
+user_350,entry_time,01:27 AM
+user_350,update_date,2023/02/17
+user_351,name,cliente_351!
+user_351,e-mail,cliente351exemplo.com
+user_351,cpf,54706611199
+user_351,entry_date,2023-10-15
+user_351,entry_time,12:36:07
+user_351,update_date,14 Oct 2023
+user_352,name,Cliente 352
+user_352,e-mail,cliente352@exemplo.com
+user_352,cpf,80064363658
+user_352,entry_date,09/01/2023
+user_352,entry_time,04:15 AM
+user_352,update_date,2023/11/05
+user_353,name,Cliente 353
+user_353,e-mail,cliente353@exemplo.com
+user_353,cpf,67449448864
+user_353,entry_date,14 Nov 2023
+user_353,entry_time,09:07 PM
+user_353,update_date,2023/03/27
+user_354,name,Cliente 354
+user_354,e-mail,cliente354@exemplo.com
+user_354,cpf,76668379708
+user_354,entry_date,19-04-2023
+user_354,entry_time,06:43
+user_354,update_date,2023/07/04
+user_355,name,Cliente 355
+user_355,e-mail,cliente355@exemplo.com
+user_355,cpf,72813979529
+user_355,entry_date,2023/06/26
+user_355,entry_time,13:03:12
+user_355,update_date,21 Feb 2023
+user_356,name,Cliente 356
+user_356,e-mail,cliente356@exemplo.com
+user_356,cpf,76410169114
+user_356,entry_date,2023/08/25
+user_356,entry_time,13:15:03
+user_356,update_date,2023-11-11
+user_357,name,Cliente 357
+user_357,e-mail,cliente357@exemplo.com
+user_357,cpf,42702683578
+user_357,entry_date,2023-04-21
+user_357,entry_time,02:37
+user_357,update_date,2023/05/04
+user_358,name,Cliente 358
+user_358,e-mail,cliente358exemplo.com
+user_358,cpf,96271463933
+user_358,entry_date,2023-10-07
+user_358,entry_time,21:37:28
+user_358,update_date,16-11-2023
+user_359,name,Cliente 359
+user_359,e-mail,cliente359@exemplo.com
+user_359,cpf,11310788989
+user_359,entry_date,27/01/2023
+user_359,entry_time,02:24 PM
+user_359,update_date,24 Oct 2023
+user_360,name,Cliente 360
+user_360,e-mail,cliente360@exemplo.com
+user_360,cpf,42115770269
+user_360,entry_date,2023/09/15
+user_360,entry_time,08:38 AM
+user_360,update_date,01-01-2024
+user_361,name,cliente_361!
+user_361,e-mail,cliente361@exemplo.com
+user_361,cpf,76759614566
+user_361,entry_date,2023-08-20
+user_361,entry_time,08:04 PM
+user_361,update_date,2023-11-03
+user_362,name,Cliente 362
+user_362,e-mail,cliente362@exemplo.com
+user_362,cpf,10408291213
+user_362,entry_date,06-12-2023
+user_362,entry_time,13:15
+user_362,update_date,2023-02-16
+user_363,name,Cliente 363
+user_363,e-mail,cliente363@exemplo.com
+user_363,cpf,47104485438
+user_363,entry_date,11-04-2023
+user_363,entry_time,02:52 PM
+user_363,update_date,23-10-2023
+user_364,name,Cliente 364
+user_364,e-mail,cliente364@exemplo.com
+user_364,cpf,85419577941
+user_364,entry_date,2023/09/12
+user_364,entry_time,04:03
+user_364,update_date,2023/12/31
+user_365,name,Cliente 365
+user_365,e-mail,cliente365exemplo.com
+user_365,cpf,84094540265
+user_365,entry_date,2023-04-24
+user_365,entry_time,19:32:32
+user_365,update_date,04/02/2023
+user_366,name,Cliente 366
+user_366,e-mail,cliente366@exemplo.com
+user_366,cpf,31417248189
+user_366,entry_date,2023/05/31
+user_366,entry_time,19:47:54
+user_366,update_date,26 Aug 2023
+user_367,name,Cliente 367
+user_367,e-mail,cliente367@exemplo.com
+user_367,cpf,91619479790
+user_367,entry_date,2023-01-19
+user_367,entry_time,12:27
+user_367,update_date,01-08-2023
+user_368,name,Cliente 368
+user_368,e-mail,cliente368@exemplo.com
+user_368,cpf,33452864369
+user_368,entry_date,01/05/2023
+user_368,entry_time,16:46
+user_368,update_date,03 Jan 2023
+user_369,name,Cliente 369
+user_369,e-mail,cliente369@exemplo.com
+user_369,cpf,19831453535
+user_369,entry_date,05-03-2023
+user_369,entry_time,04:51:12
+user_369,update_date,16 Jan 2023
+user_370,name,Cliente 370
+user_370,e-mail,cliente370@exemplo.com
+user_370,cpf,62112983008
+user_370,entry_date,2023/07/14
+user_370,entry_time,04:33
+user_370,update_date,10/07/2023
+user_371,name,cliente_371!
+user_371,e-mail,cliente371@exemplo.com
+user_371,cpf,49675065145
+user_371,entry_date,2023/04/05
+user_371,entry_time,02:43 AM
+user_371,update_date,2024-01-01
+user_372,name,Cliente 372
+user_372,e-mail,cliente372exemplo.com
+user_372,cpf,77200851378
+user_372,entry_date,01-12-2023
+user_372,entry_time,09:47
+user_372,update_date,28/11/2023
+user_373,name,Cliente 373
+user_373,e-mail,cliente373@exemplo.com
+user_373,cpf,41072493599
+user_373,entry_date,2023/02/25
+user_373,entry_time,11:38 PM
+user_373,update_date,2023-02-19
+user_374,name,Cliente 374
+user_374,e-mail,cliente374@exemplo.com
+user_374,cpf,50309797791
+user_374,entry_date,03-04-2023
+user_374,entry_time,20:29:06
+user_374,update_date,16-07-2023
+user_375,name,Cliente 375
+user_375,e-mail,cliente375@exemplo.com
+user_375,cpf,35305356228
+user_375,entry_date,24/01/2023
+user_375,entry_time,03:42 PM
+user_375,update_date,15/02/2023
+user_376,name,Cliente 376
+user_376,e-mail,cliente376@exemplo.com
+user_376,cpf,87462750907
+user_376,entry_date,2023/09/11
+user_376,entry_time,01:30
+user_376,update_date,2023/12/31
+user_377,name,Cliente 377
+user_377,e-mail,cliente377@exemplo.com
+user_377,cpf,84244875908
+user_377,entry_date,24/08/2023
+user_377,entry_time,05:18
+user_377,update_date,22-09-2023
+user_378,name,Cliente 378
+user_378,e-mail,cliente378@exemplo.com
+user_378,cpf,49342700084
+user_378,entry_date,03/09/2023
+user_378,entry_time,04:11
+user_378,update_date,28 Dec 2023
+user_379,name,Cliente 379
+user_379,e-mail,cliente379exemplo.com
+user_379,cpf,10595863642
+user_379,entry_date,2023-01-28
+user_379,entry_time,16:33:45
+user_379,update_date,18/12/2023
+user_380,name,Cliente 380
+user_380,e-mail,cliente380@exemplo.com
+user_380,cpf,93872070413
+user_380,entry_date,02-04-2023
+user_380,entry_time,06:41 PM
+user_380,update_date,14/06/2023
+user_381,name,cliente_381!
+user_381,e-mail,cliente381@exemplo.com
+user_381,cpf,23575503647
+user_381,entry_date,02 Apr 2023
+user_381,entry_time,14:10
+user_381,update_date,03-06-2023
+user_382,name,Cliente 382
+user_382,e-mail,cliente382@exemplo.com
+user_382,cpf,19445625997
+user_382,entry_date,2023-03-11
+user_382,entry_time,09:32
+user_382,update_date,13/08/2023
+user_383,name,Cliente 383
+user_383,e-mail,cliente383@exemplo.com
+user_383,cpf,46732653133
+user_383,entry_date,02-07-2023
+user_383,entry_time,16:21:04
+user_383,update_date,16-08-2023
+user_384,name,Cliente 384
+user_384,e-mail,cliente384@exemplo.com
+user_384,cpf,85949191987
+user_384,entry_date,27/01/2023
+user_384,entry_time,11:39
+user_384,update_date,2023-06-28
+user_385,name,Cliente 385
+user_385,e-mail,cliente385@exemplo.com
+user_385,cpf,22377283001
+user_385,entry_date,31/12/2023
+user_385,entry_time,01:08 AM
+user_385,update_date,2023-03-02
+user_386,name,Cliente 386
+user_386,e-mail,cliente386exemplo.com
+user_386,cpf,50689810524
+user_386,entry_date,24/04/2023
+user_386,entry_time,12:19
+user_386,update_date,23-07-2023
+user_387,name,Cliente 387
+user_387,e-mail,cliente387@exemplo.com
+user_387,cpf,88064822832
+user_387,entry_date,2023/04/20
+user_387,entry_time,23:00
+user_387,update_date,19-12-2023
+user_388,name,Cliente 388
+user_388,e-mail,cliente388@exemplo.com
+user_388,cpf,60608626180
+user_388,entry_date,19/07/2023
+user_388,entry_time,11:33 PM
+user_388,update_date,2023-08-11
+user_389,name,Cliente 389
+user_389,e-mail,cliente389@exemplo.com
+user_389,cpf,24312125628
+user_389,entry_date,2023-07-24
+user_389,entry_time,05:12:18
+user_389,update_date,2023-07-15
+user_390,name,Cliente 390
+user_390,e-mail,cliente390@exemplo.com
+user_390,cpf,30169673316
+user_390,entry_date,01 Jun 2023
+user_390,entry_time,16:58:36
+user_390,update_date,28/05/2023
+user_391,name,cliente_391!
+user_391,e-mail,cliente391@exemplo.com
+user_391,cpf,21025533049
+user_391,entry_date,2023/12/11
+user_391,entry_time,11:54 PM
+user_391,update_date,06-10-2023
+user_392,name,Cliente 392
+user_392,e-mail,cliente392@exemplo.com
+user_392,cpf,83428815029
+user_392,entry_date,2023-03-24
+user_392,entry_time,11:21
+user_392,update_date,2023/12/23
+user_393,name,Cliente 393
+user_393,e-mail,cliente393exemplo.com
+user_393,cpf,30598721832
+user_393,entry_date,13-02-2023
+user_393,entry_time,08:18 PM
+user_393,update_date,17 Dec 2023
+user_394,name,Cliente 394
+user_394,e-mail,cliente394@exemplo.com
+user_394,cpf,12297645490
+user_394,entry_date,07-09-2023
+user_394,entry_time,05:17:50
+user_394,update_date,2023-01-21
+user_395,name,Cliente 395
+user_395,e-mail,cliente395@exemplo.com
+user_395,cpf,16576389405
+user_395,entry_date,2023/03/19
+user_395,entry_time,22:53
+user_395,update_date,20/09/2023
+user_396,name,Cliente 396
+user_396,e-mail,cliente396@exemplo.com
+user_396,cpf,44755342832
+user_396,entry_date,28-02-2023
+user_396,entry_time,12:12 PM
+user_396,update_date,09/11/2023
+user_397,name,Cliente 397
+user_397,e-mail,cliente397@exemplo.com
+user_397,cpf,85451543594
+user_397,entry_date,2023-08-20
+user_397,entry_time,16:01
+user_397,update_date,22-04-2023
+user_398,name,Cliente 398
+user_398,e-mail,cliente398@exemplo.com
+user_398,cpf,14927991440
+user_398,entry_date,2023/10/27
+user_398,entry_time,12:36 PM
+user_398,update_date,07 Jan 2023
+user_399,name,Cliente 399
+user_399,e-mail,cliente399@exemplo.com
+user_399,cpf,86399185436
+user_399,entry_date,2023-06-01
+user_399,entry_time,11:47 AM
+user_399,update_date,23 Sep 2023
+user_400,name,Cliente 400
+user_400,e-mail,cliente400exemplo.com
+user_400,cpf,22219739269
+user_400,entry_date,26-08-2023
+user_400,entry_time,04:14 AM
+user_400,update_date,2023/10/11
+user_401,name,cliente_401!
+user_401,e-mail,cliente401@exemplo.com
+user_401,cpf,36323659082
+user_401,entry_date,29 Sep 2023
+user_401,entry_time,23:34:23
+user_401,update_date,09-09-2023
+user_402,name,Cliente 402
+user_402,e-mail,cliente402@exemplo.com
+user_402,cpf,51904166540
+user_402,entry_date,29/04/2023
+user_402,entry_time,07:56 AM
+user_402,update_date,2023/05/28
+user_403,name,Cliente 403
+user_403,e-mail,cliente403@exemplo.com
+user_403,cpf,54065160107
+user_403,entry_date,2023-02-12
+user_403,entry_time,06:39 AM
+user_403,update_date,2023/04/10
+user_404,name,Cliente 404
+user_404,e-mail,cliente404@exemplo.com
+user_404,cpf,42893428749
+user_404,entry_date,2023-10-30
+user_404,entry_time,08:25 PM
+user_404,update_date,2023-01-11
+user_405,name,Cliente 405
+user_405,e-mail,cliente405@exemplo.com
+user_405,cpf,99013911062
+user_405,entry_date,2023-11-19
+user_405,entry_time,03:20 PM
+user_405,update_date,2023-07-04
+user_406,name,Cliente 406
+user_406,e-mail,cliente406@exemplo.com
+user_406,cpf,98419313929
+user_406,entry_date,18-07-2023
+user_406,entry_time,11:47
+user_406,update_date,2023-01-05
+user_407,name,Cliente 407
+user_407,e-mail,cliente407exemplo.com
+user_407,cpf,27435031883
+user_407,entry_date,2023/03/12
+user_407,entry_time,11:23
+user_407,update_date,05/09/2023
+user_408,name,Cliente 408
+user_408,e-mail,cliente408@exemplo.com
+user_408,cpf,80275549448
+user_408,entry_date,15/02/2023
+user_408,entry_time,04:49
+user_408,update_date,11-08-2023
+user_409,name,Cliente 409
+user_409,e-mail,cliente409@exemplo.com
+user_409,cpf,47458090594
+user_409,entry_date,2023-10-25
+user_409,entry_time,18:42
+user_409,update_date,2023-08-08
+user_410,name,Cliente 410
+user_410,e-mail,cliente410@exemplo.com
+user_410,cpf,34619530383
+user_410,entry_date,03/08/2023
+user_410,entry_time,06:03:44
+user_410,update_date,22/09/2023
+user_411,name,cliente_411!
+user_411,e-mail,cliente411@exemplo.com
+user_411,cpf,78610784855
+user_411,entry_date,29-04-2023
+user_411,entry_time,05:03 AM
+user_411,update_date,2023/07/27
+user_412,name,Cliente 412
+user_412,e-mail,cliente412@exemplo.com
+user_412,cpf,38711326256
+user_412,entry_date,2023/12/20
+user_412,entry_time,17:14:31
+user_412,update_date,28 Apr 2023
+user_413,name,Cliente 413
+user_413,e-mail,cliente413@exemplo.com
+user_413,cpf,91223936997
+user_413,entry_date,22-03-2023
+user_413,entry_time,18:13
+user_413,update_date,2023-02-19
+user_414,name,Cliente 414
+user_414,e-mail,cliente414exemplo.com
+user_414,cpf,41859995657
+user_414,entry_date,14-04-2023
+user_414,entry_time,03:23 PM
+user_414,update_date,2023-12-15
+user_415,name,Cliente 415
+user_415,e-mail,cliente415@exemplo.com
+user_415,cpf,80268782547
+user_415,entry_date,01 Apr 2023
+user_415,entry_time,18:38
+user_415,update_date,2023/06/26
+user_416,name,Cliente 416
+user_416,e-mail,cliente416@exemplo.com
+user_416,cpf,69541959831
+user_416,entry_date,2023-12-01
+user_416,entry_time,19:10:58
+user_416,update_date,2023/01/17
+user_417,name,Cliente 417
+user_417,e-mail,cliente417@exemplo.com
+user_417,cpf,82667253727
+user_417,entry_date,06-04-2023
+user_417,entry_time,18:57:23
+user_417,update_date,2023-11-23
+user_418,name,Cliente 418
+user_418,e-mail,cliente418@exemplo.com
+user_418,cpf,93075655461
+user_418,entry_date,2023-09-22
+user_418,entry_time,03:53
+user_418,update_date,2023/12/25
+user_419,name,Cliente 419
+user_419,e-mail,cliente419@exemplo.com
+user_419,cpf,95702922993
+user_419,entry_date,2023/01/10
+user_419,entry_time,21:55:28
+user_419,update_date,2023/12/28
+user_420,name,Cliente 420
+user_420,e-mail,cliente420@exemplo.com
+user_420,cpf,80848637281
+user_420,entry_date,20 Mar 2023
+user_420,entry_time,12:26 AM
+user_420,update_date,2023/06/20
+user_421,name,cliente_421!
+user_421,e-mail,cliente421exemplo.com
+user_421,cpf,19496471654
+user_421,entry_date,2023/04/14
+user_421,entry_time,12:15 PM
+user_421,update_date,27-10-2023
+user_422,name,Cliente 422
+user_422,e-mail,cliente422@exemplo.com
+user_422,cpf,98493697401
+user_422,entry_date,2023-12-15
+user_422,entry_time,13:13:33
+user_422,update_date,25 Mar 2023
+user_423,name,Cliente 423
+user_423,e-mail,cliente423@exemplo.com
+user_423,cpf,17376172375
+user_423,entry_date,2023-04-03
+user_423,entry_time,12:45:18
+user_423,update_date,18 Jul 2023
+user_424,name,Cliente 424
+user_424,e-mail,cliente424@exemplo.com
+user_424,cpf,33161125392
+user_424,entry_date,28/09/2023
+user_424,entry_time,15:53:42
+user_424,update_date,25 Jul 2023
+user_425,name,Cliente 425
+user_425,e-mail,cliente425@exemplo.com
+user_425,cpf,86703232492
+user_425,entry_date,17/03/2023
+user_425,entry_time,03:39:40
+user_425,update_date,2023/01/06
+user_426,name,Cliente 426
+user_426,e-mail,cliente426@exemplo.com
+user_426,cpf,32863504369
+user_426,entry_date,2023-05-29
+user_426,entry_time,05:50 AM
+user_426,update_date,14-10-2023
+user_427,name,Cliente 427
+user_427,e-mail,cliente427@exemplo.com
+user_427,cpf,88142137803
+user_427,entry_date,04/04/2023
+user_427,entry_time,04:20
+user_427,update_date,2023-11-13
+user_428,name,Cliente 428
+user_428,e-mail,cliente428exemplo.com
+user_428,cpf,42068863502
+user_428,entry_date,08/03/2023
+user_428,entry_time,15:18:11
+user_428,update_date,2023-10-09
+user_429,name,Cliente 429
+user_429,e-mail,cliente429@exemplo.com
+user_429,cpf,82275245641
+user_429,entry_date,29-08-2023
+user_429,entry_time,05:33 AM
+user_429,update_date,30/07/2023
+user_430,name,Cliente 430
+user_430,e-mail,cliente430@exemplo.com
+user_430,cpf,48793392890
+user_430,entry_date,2023-04-06
+user_430,entry_time,01:09
+user_430,update_date,18 Jan 2023
+user_431,name,cliente_431!
+user_431,e-mail,cliente431@exemplo.com
+user_431,cpf,99404092324
+user_431,entry_date,2023/06/25
+user_431,entry_time,04:28 AM
+user_431,update_date,28 Mar 2023
+user_432,name,Cliente 432
+user_432,e-mail,cliente432@exemplo.com
+user_432,cpf,15326820951
+user_432,entry_date,2023/11/21
+user_432,entry_time,05:40 AM
+user_432,update_date,2023-06-22
+user_433,name,Cliente 433
+user_433,e-mail,cliente433@exemplo.com
+user_433,cpf,69681840277
+user_433,entry_date,16 Sep 2023
+user_433,entry_time,10:09 PM
+user_433,update_date,05 Jul 2023
+user_434,name,Cliente 434
+user_434,e-mail,cliente434@exemplo.com
+user_434,cpf,35436043977
+user_434,entry_date,2023/10/26
+user_434,entry_time,08:41:38
+user_434,update_date,03-11-2023
+user_435,name,Cliente 435
+user_435,e-mail,cliente435exemplo.com
+user_435,cpf,29839993005
+user_435,entry_date,2023-03-31
+user_435,entry_time,11:49
+user_435,update_date,24 Dec 2023
+user_436,name,Cliente 436
+user_436,e-mail,cliente436@exemplo.com
+user_436,cpf,10749111107
+user_436,entry_date,26-09-2023
+user_436,entry_time,15:13:11
+user_436,update_date,09/09/2023
+user_437,name,Cliente 437
+user_437,e-mail,cliente437@exemplo.com
+user_437,cpf,47650122894
+user_437,entry_date,2023-07-15
+user_437,entry_time,19:35
+user_437,update_date,17/03/2023
+user_438,name,Cliente 438
+user_438,e-mail,cliente438@exemplo.com
+user_438,cpf,43363695504
+user_438,entry_date,10-10-2023
+user_438,entry_time,06:17
+user_438,update_date,02/09/2023
+user_439,name,Cliente 439
+user_439,e-mail,cliente439@exemplo.com
+user_439,cpf,19087732981
+user_439,entry_date,2023/05/06
+user_439,entry_time,12:22
+user_439,update_date,2023/06/20
+user_440,name,Cliente 440
+user_440,e-mail,cliente440@exemplo.com
+user_440,cpf,44823736770
+user_440,entry_date,16-07-2023
+user_440,entry_time,14:55:37
+user_440,update_date,01/11/2023
+user_441,name,cliente_441!
+user_441,e-mail,cliente441@exemplo.com
+user_441,cpf,84695158508
+user_441,entry_date,17-10-2023
+user_441,entry_time,10:05 AM
+user_441,update_date,14/11/2023
+user_442,name,Cliente 442
+user_442,e-mail,cliente442exemplo.com
+user_442,cpf,42211928163
+user_442,entry_date,11 Nov 2023
+user_442,entry_time,22:14:25
+user_442,update_date,24-10-2023
+user_443,name,Cliente 443
+user_443,e-mail,cliente443@exemplo.com
+user_443,cpf,84864152144
+user_443,entry_date,09-05-2023
+user_443,entry_time,01:51 PM
+user_443,update_date,2023-08-15
+user_444,name,Cliente 444
+user_444,e-mail,cliente444@exemplo.com
+user_444,cpf,63503632566
+user_444,entry_date,2023-02-27
+user_444,entry_time,01:38:35
+user_444,update_date,2023-01-08
+user_445,name,Cliente 445
+user_445,e-mail,cliente445@exemplo.com
+user_445,cpf,98640613911
+user_445,entry_date,06/06/2023
+user_445,entry_time,13:02:08
+user_445,update_date,2023/06/05
+user_446,name,Cliente 446
+user_446,e-mail,cliente446@exemplo.com
+user_446,cpf,43437353427
+user_446,entry_date,2023/02/11
+user_446,entry_time,02:45:59
+user_446,update_date,02-02-2023
+user_447,name,Cliente 447
+user_447,e-mail,cliente447@exemplo.com
+user_447,cpf,90782681319
+user_447,entry_date,2023-03-18
+user_447,entry_time,11:41 AM
+user_447,update_date,2023-01-31
+user_448,name,Cliente 448
+user_448,e-mail,cliente448@exemplo.com
+user_448,cpf,38061921807
+user_448,entry_date,25-09-2023
+user_448,entry_time,11:10:52
+user_448,update_date,2023/11/28
+user_449,name,Cliente 449
+user_449,e-mail,cliente449exemplo.com
+user_449,cpf,42189272689
+user_449,entry_date,2023/03/17
+user_449,entry_time,21:51
+user_449,update_date,2023-09-06
+user_450,name,Cliente 450
+user_450,e-mail,cliente450@exemplo.com
+user_450,cpf,74038202954
+user_450,entry_date,2023/06/19
+user_450,entry_time,10:33 AM
+user_450,update_date,08 Dec 2023
+user_451,name,cliente_451!
+user_451,e-mail,cliente451@exemplo.com
+user_451,cpf,98822412057
+user_451,entry_date,05/06/2023
+user_451,entry_time,06:27 PM
+user_451,update_date,2023/05/13
+user_452,name,Cliente 452
+user_452,e-mail,cliente452@exemplo.com
+user_452,cpf,76434167479
+user_452,entry_date,2023-02-05
+user_452,entry_time,09:45 AM
+user_452,update_date,17 Sep 2023
+user_453,name,Cliente 453
+user_453,e-mail,cliente453@exemplo.com
+user_453,cpf,67777253526
+user_453,entry_date,04 Mar 2023
+user_453,entry_time,22:26
+user_453,update_date,09 Feb 2023
+user_454,name,Cliente 454
+user_454,e-mail,cliente454@exemplo.com
+user_454,cpf,93714016820
+user_454,entry_date,2023/06/10
+user_454,entry_time,03:48 AM
+user_454,update_date,2023-08-12
+user_455,name,Cliente 455
+user_455,e-mail,cliente455@exemplo.com
+user_455,cpf,44662855162
+user_455,entry_date,13-06-2023
+user_455,entry_time,04:57
+user_455,update_date,2023-12-10
+user_456,name,Cliente 456
+user_456,e-mail,cliente456exemplo.com
+user_456,cpf,78808757572
+user_456,entry_date,2023/07/25
+user_456,entry_time,01:32 AM
+user_456,update_date,08-03-2023
+user_457,name,Cliente 457
+user_457,e-mail,cliente457@exemplo.com
+user_457,cpf,89498312836
+user_457,entry_date,05-12-2023
+user_457,entry_time,21:54
+user_457,update_date,2023-10-25
+user_458,name,Cliente 458
+user_458,e-mail,cliente458@exemplo.com
+user_458,cpf,30511943261
+user_458,entry_date,18-05-2023
+user_458,entry_time,08:35:24
+user_458,update_date,2023-04-30
+user_459,name,Cliente 459
+user_459,e-mail,cliente459@exemplo.com
+user_459,cpf,51820598316
+user_459,entry_date,24/07/2023
+user_459,entry_time,06:02
+user_459,update_date,2023/09/11
+user_460,name,Cliente 460
+user_460,e-mail,cliente460@exemplo.com
+user_460,cpf,54730261764
+user_460,entry_date,14-01-2023
+user_460,entry_time,12:16 AM
+user_460,update_date,09 Aug 2023
+user_461,name,cliente_461!
+user_461,e-mail,cliente461@exemplo.com
+user_461,cpf,35849466980
+user_461,entry_date,2023-06-30
+user_461,entry_time,04:51 AM
+user_461,update_date,29-08-2023
+user_462,name,Cliente 462
+user_462,e-mail,cliente462@exemplo.com
+user_462,cpf,92731395990
+user_462,entry_date,2023-05-04
+user_462,entry_time,03:00 PM
+user_462,update_date,16 Aug 2023
+user_463,name,Cliente 463
+user_463,e-mail,cliente463exemplo.com
+user_463,cpf,52612391906
+user_463,entry_date,27/03/2023
+user_463,entry_time,02:04 AM
+user_463,update_date,2023-12-18
+user_464,name,Cliente 464
+user_464,e-mail,cliente464@exemplo.com
+user_464,cpf,85849289741
+user_464,entry_date,2023-11-25
+user_464,entry_time,17:24:37
+user_464,update_date,09-06-2023
+user_465,name,Cliente 465
+user_465,e-mail,cliente465@exemplo.com
+user_465,cpf,71382744406
+user_465,entry_date,05-02-2023
+user_465,entry_time,04:21 AM
+user_465,update_date,17 Aug 2023
+user_466,name,Cliente 466
+user_466,e-mail,cliente466@exemplo.com
+user_466,cpf,80634940911
+user_466,entry_date,09 Oct 2023
+user_466,entry_time,08:37 PM
+user_466,update_date,2023/06/15
+user_467,name,Cliente 467
+user_467,e-mail,cliente467@exemplo.com
+user_467,cpf,80787188437
+user_467,entry_date,13-09-2023
+user_467,entry_time,13:30
+user_467,update_date,22/01/2023
+user_468,name,Cliente 468
+user_468,e-mail,cliente468@exemplo.com
+user_468,cpf,24543438965
+user_468,entry_date,18 Jul 2023
+user_468,entry_time,01:20 AM
+user_468,update_date,15/01/2023
+user_469,name,Cliente 469
+user_469,e-mail,cliente469@exemplo.com
+user_469,cpf,38877477054
+user_469,entry_date,15-12-2023
+user_469,entry_time,09:47:27
+user_469,update_date,24/07/2023
+user_470,name,Cliente 470
+user_470,e-mail,cliente470exemplo.com
+user_470,cpf,95469702310
+user_470,entry_date,2023/05/06
+user_470,entry_time,10:42
+user_470,update_date,2023-04-09
+user_471,name,cliente_471!
+user_471,e-mail,cliente471@exemplo.com
+user_471,cpf,71267049129
+user_471,entry_date,2023/08/09
+user_471,entry_time,00:21:05
+user_471,update_date,20 Aug 2023
+user_472,name,Cliente 472
+user_472,e-mail,cliente472@exemplo.com
+user_472,cpf,67508536294
+user_472,entry_date,2023-05-25
+user_472,entry_time,13:00:24
+user_472,update_date,2023-07-30
+user_473,name,Cliente 473
+user_473,e-mail,cliente473@exemplo.com
+user_473,cpf,29069385906
+user_473,entry_date,29-03-2023
+user_473,entry_time,20:36:34
+user_473,update_date,2023-10-19
+user_474,name,Cliente 474
+user_474,e-mail,cliente474@exemplo.com
+user_474,cpf,32135928812
+user_474,entry_date,2023-05-20
+user_474,entry_time,05:53 PM
+user_474,update_date,09 Sep 2023
+user_475,name,Cliente 475
+user_475,e-mail,cliente475@exemplo.com
+user_475,cpf,67952865156
+user_475,entry_date,14 Nov 2023
+user_475,entry_time,10:15:42
+user_475,update_date,15-11-2023
+user_476,name,Cliente 476
+user_476,e-mail,cliente476@exemplo.com
+user_476,cpf,55691501125
+user_476,entry_date,25 Jun 2023
+user_476,entry_time,16:07:25
+user_476,update_date,02-01-2023
+user_477,name,Cliente 477
+user_477,e-mail,cliente477exemplo.com
+user_477,cpf,18581470809
+user_477,entry_date,2023/06/25
+user_477,entry_time,06:15 PM
+user_477,update_date,14 Oct 2023
+user_478,name,Cliente 478
+user_478,e-mail,cliente478@exemplo.com
+user_478,cpf,36558434094
+user_478,entry_date,2023/06/05
+user_478,entry_time,07:31
+user_478,update_date,22/02/2023
+user_479,name,Cliente 479
+user_479,e-mail,cliente479@exemplo.com
+user_479,cpf,62393060978
+user_479,entry_date,28-01-2023
+user_479,entry_time,10:10 PM
+user_479,update_date,2023-08-24
+user_480,name,Cliente 480
+user_480,e-mail,cliente480@exemplo.com
+user_480,cpf,81415782053
+user_480,entry_date,2023/05/08
+user_480,entry_time,12:34 AM
+user_480,update_date,2023/06/09
+user_481,name,cliente_481!
+user_481,e-mail,cliente481@exemplo.com
+user_481,cpf,15682513153
+user_481,entry_date,2023/12/04
+user_481,entry_time,05:20:24
+user_481,update_date,29-03-2023
+user_482,name,Cliente 482
+user_482,e-mail,cliente482@exemplo.com
+user_482,cpf,45163617458
+user_482,entry_date,24 Jan 2023
+user_482,entry_time,18:59:25
+user_482,update_date,2023/04/25
+user_483,name,Cliente 483
+user_483,e-mail,cliente483@exemplo.com
+user_483,cpf,12161406698
+user_483,entry_date,01/07/2023
+user_483,entry_time,11:43:14
+user_483,update_date,24-08-2023
+user_484,name,Cliente 484
+user_484,e-mail,cliente484exemplo.com
+user_484,cpf,12539572146
+user_484,entry_date,16/01/2023
+user_484,entry_time,08:59:44
+user_484,update_date,02-12-2023
+user_485,name,Cliente 485
+user_485,e-mail,cliente485@exemplo.com
+user_485,cpf,78109772572
+user_485,entry_date,2023-08-28
+user_485,entry_time,00:14
+user_485,update_date,08/09/2023
+user_486,name,Cliente 486
+user_486,e-mail,cliente486@exemplo.com
+user_486,cpf,22195514780
+user_486,entry_date,2023-12-02
+user_486,entry_time,04:46
+user_486,update_date,08 Dec 2023
+user_487,name,Cliente 487
+user_487,e-mail,cliente487@exemplo.com
+user_487,cpf,70121761383
+user_487,entry_date,2023/07/15
+user_487,entry_time,18:31:09
+user_487,update_date,16/12/2023
+user_488,name,Cliente 488
+user_488,e-mail,cliente488@exemplo.com
+user_488,cpf,59605051945
+user_488,entry_date,13-05-2023
+user_488,entry_time,03:28
+user_488,update_date,20-12-2023
+user_489,name,Cliente 489
+user_489,e-mail,cliente489@exemplo.com
+user_489,cpf,56662254725
+user_489,entry_date,12 Sep 2023
+user_489,entry_time,11:08:10
+user_489,update_date,2023/11/01
+user_490,name,Cliente 490
+user_490,e-mail,cliente490@exemplo.com
+user_490,cpf,81561128711
+user_490,entry_date,29 Aug 2023
+user_490,entry_time,04:31 AM
+user_490,update_date,31 May 2023
+user_491,name,cliente_491!
+user_491,e-mail,cliente491exemplo.com
+user_491,cpf,39011522104
+user_491,entry_date,28/07/2023
+user_491,entry_time,10:39:48
+user_491,update_date,2023-04-26
+user_492,name,Cliente 492
+user_492,e-mail,cliente492@exemplo.com
+user_492,cpf,73990167244
+user_492,entry_date,2023-11-01
+user_492,entry_time,16:33:48
+user_492,update_date,2023/11/10
+user_493,name,Cliente 493
+user_493,e-mail,cliente493@exemplo.com
+user_493,cpf,88046885843
+user_493,entry_date,19/10/2023
+user_493,entry_time,15:16:40
+user_493,update_date,20 May 2023
+user_494,name,Cliente 494
+user_494,e-mail,cliente494@exemplo.com
+user_494,cpf,99226600407
+user_494,entry_date,22 Jan 2023
+user_494,entry_time,06:27 PM
+user_494,update_date,2023-10-11
+user_495,name,Cliente 495
+user_495,e-mail,cliente495@exemplo.com
+user_495,cpf,25004568491
+user_495,entry_date,2023-09-10
+user_495,entry_time,11:00
+user_495,update_date,2023/11/27
+user_496,name,Cliente 496
+user_496,e-mail,cliente496@exemplo.com
+user_496,cpf,96230406745
+user_496,entry_date,2023-04-08
+user_496,entry_time,04:06 AM
+user_496,update_date,06/08/2023
+user_497,name,Cliente 497
+user_497,e-mail,cliente497@exemplo.com
+user_497,cpf,74139867224
+user_497,entry_date,23-02-2023
+user_497,entry_time,00:38:23
+user_497,update_date,07 Jun 2023
+user_498,name,Cliente 498
+user_498,e-mail,cliente498exemplo.com
+user_498,cpf,51031527845
+user_498,entry_date,12/11/2023
+user_498,entry_time,23:00:02
+user_498,update_date,2023/12/18
+user_499,name,Cliente 499
+user_499,e-mail,cliente499@exemplo.com
+user_499,cpf,33236362721
+user_499,entry_date,2023/03/29
+user_499,entry_time,23:49
+user_499,update_date,2023/03/07
+user_500,name,Cliente 500
+user_500,e-mail,cliente500@exemplo.com
+user_500,cpf,32084864883
+user_500,entry_date,22 Dec 2023
+user_500,entry_time,10:41:47
+user_500,update_date,2023-01-02
+user_501,name,cliente_501!
+user_501,e-mail,cliente501@exemplo.com
+user_501,cpf,13132652817
+user_501,entry_date,04 Dec 2023
+user_501,entry_time,06:46
+user_501,update_date,2023/12/26
+user_502,name,Cliente 502
+user_502,e-mail,cliente502@exemplo.com
+user_502,cpf,91322104849
+user_502,entry_date,01 Jul 2023
+user_502,entry_time,16:02:18
+user_502,update_date,06-08-2023
+user_503,name,Cliente 503
+user_503,e-mail,cliente503@exemplo.com
+user_503,cpf,86710662862
+user_503,entry_date,2023-11-27
+user_503,entry_time,20:28
+user_503,update_date,2023/09/09
+user_504,name,Cliente 504
+user_504,e-mail,cliente504@exemplo.com
+user_504,cpf,93008475753
+user_504,entry_date,2023-10-16
+user_504,entry_time,10:51 PM
+user_504,update_date,17/07/2023
+user_505,name,Cliente 505
+user_505,e-mail,cliente505exemplo.com
+user_505,cpf,78826130429
+user_505,entry_date,03/03/2023
+user_505,entry_time,21:07
+user_505,update_date,12-11-2023
+user_506,name,Cliente 506
+user_506,e-mail,cliente506@exemplo.com
+user_506,cpf,94467950163
+user_506,entry_date,2023/04/15
+user_506,entry_time,02:15 PM
+user_506,update_date,14/10/2023
+user_507,name,Cliente 507
+user_507,e-mail,cliente507@exemplo.com
+user_507,cpf,96132130166
+user_507,entry_date,23-09-2023
+user_507,entry_time,02:29
+user_507,update_date,16 Mar 2023
+user_508,name,Cliente 508
+user_508,e-mail,cliente508@exemplo.com
+user_508,cpf,12353626392
+user_508,entry_date,20/07/2023
+user_508,entry_time,09:41 PM
+user_508,update_date,13 Jan 2023
+user_509,name,Cliente 509
+user_509,e-mail,cliente509@exemplo.com
+user_509,cpf,82817457053
+user_509,entry_date,2023/08/01
+user_509,entry_time,12:29
+user_509,update_date,19/10/2023
+user_510,name,Cliente 510
+user_510,e-mail,cliente510@exemplo.com
+user_510,cpf,81589713661
+user_510,entry_date,2023/10/03
+user_510,entry_time,09:01
+user_510,update_date,05 Mar 2023
+user_511,name,cliente_511!
+user_511,e-mail,cliente511@exemplo.com
+user_511,cpf,25114185196
+user_511,entry_date,2023/10/12
+user_511,entry_time,12:27 AM
+user_511,update_date,06/08/2023
+user_512,name,Cliente 512
+user_512,e-mail,cliente512exemplo.com
+user_512,cpf,13919782856
+user_512,entry_date,05/05/2023
+user_512,entry_time,12:50 PM
+user_512,update_date,2023-06-17
+user_513,name,Cliente 513
+user_513,e-mail,cliente513@exemplo.com
+user_513,cpf,13409646781
+user_513,entry_date,10 Jun 2023
+user_513,entry_time,04:19 PM
+user_513,update_date,2023/11/21
+user_514,name,Cliente 514
+user_514,e-mail,cliente514@exemplo.com
+user_514,cpf,16913117159
+user_514,entry_date,28-12-2023
+user_514,entry_time,13:06:22
+user_514,update_date,28 Feb 2023
+user_515,name,Cliente 515
+user_515,e-mail,cliente515@exemplo.com
+user_515,cpf,96711025481
+user_515,entry_date,05/04/2023
+user_515,entry_time,17:18
+user_515,update_date,24/10/2023
+user_516,name,Cliente 516
+user_516,e-mail,cliente516@exemplo.com
+user_516,cpf,12430864068
+user_516,entry_date,2023/02/19
+user_516,entry_time,09:04:55
+user_516,update_date,28/03/2023
+user_517,name,Cliente 517
+user_517,e-mail,cliente517@exemplo.com
+user_517,cpf,10821829387
+user_517,entry_date,27-09-2023
+user_517,entry_time,17:13:48
+user_517,update_date,05-07-2023
+user_518,name,Cliente 518
+user_518,e-mail,cliente518@exemplo.com
+user_518,cpf,58425711242
+user_518,entry_date,08/08/2023
+user_518,entry_time,15:08:12
+user_518,update_date,2023/09/28
+user_519,name,Cliente 519
+user_519,e-mail,cliente519exemplo.com
+user_519,cpf,97041994547
+user_519,entry_date,01/01/2024
+user_519,entry_time,10:55
+user_519,update_date,25-02-2023
+user_520,name,Cliente 520
+user_520,e-mail,cliente520@exemplo.com
+user_520,cpf,21561307236
+user_520,entry_date,2023-02-24
+user_520,entry_time,04:47 PM
+user_520,update_date,2023-08-14
+user_521,name,cliente_521!
+user_521,e-mail,cliente521@exemplo.com
+user_521,cpf,50013326799
+user_521,entry_date,10/08/2023
+user_521,entry_time,20:37:04
+user_521,update_date,10/07/2023
+user_522,name,Cliente 522
+user_522,e-mail,cliente522@exemplo.com
+user_522,cpf,10779058642
+user_522,entry_date,2023-03-17
+user_522,entry_time,02:51 AM
+user_522,update_date,2023/04/11
+user_523,name,Cliente 523
+user_523,e-mail,cliente523@exemplo.com
+user_523,cpf,35509000266
+user_523,entry_date,30 May 2023
+user_523,entry_time,05:58
+user_523,update_date,2023-12-08
+user_524,name,Cliente 524
+user_524,e-mail,cliente524@exemplo.com
+user_524,cpf,84115874535
+user_524,entry_date,2023-11-03
+user_524,entry_time,18:04:02
+user_524,update_date,2023-12-24
+user_525,name,Cliente 525
+user_525,e-mail,cliente525@exemplo.com
+user_525,cpf,39839439221
+user_525,entry_date,04 Nov 2023
+user_525,entry_time,04:43 PM
+user_525,update_date,2023-08-13
+user_526,name,Cliente 526
+user_526,e-mail,cliente526exemplo.com
+user_526,cpf,86094620722
+user_526,entry_date,21 Mar 2023
+user_526,entry_time,13:38:03
+user_526,update_date,05 Feb 2023
+user_527,name,Cliente 527
+user_527,e-mail,cliente527@exemplo.com
+user_527,cpf,17125803381
+user_527,entry_date,16 Sep 2023
+user_527,entry_time,23:31
+user_527,update_date,17-06-2023
+user_528,name,Cliente 528
+user_528,e-mail,cliente528@exemplo.com
+user_528,cpf,11479270620
+user_528,entry_date,2023/07/11
+user_528,entry_time,04:13 PM
+user_528,update_date,02/10/2023
+user_529,name,Cliente 529
+user_529,e-mail,cliente529@exemplo.com
+user_529,cpf,39159052122
+user_529,entry_date,15-03-2023
+user_529,entry_time,12:02 PM
+user_529,update_date,2023-04-16
+user_530,name,Cliente 530
+user_530,e-mail,cliente530@exemplo.com
+user_530,cpf,37418583940
+user_530,entry_date,08-05-2023
+user_530,entry_time,08:25:51
+user_530,update_date,2023/06/11
+user_531,name,cliente_531!
+user_531,e-mail,cliente531@exemplo.com
+user_531,cpf,77969205538
+user_531,entry_date,03 Mar 2023
+user_531,entry_time,10:53 PM
+user_531,update_date,2023-07-16
+user_532,name,Cliente 532
+user_532,e-mail,cliente532@exemplo.com
+user_532,cpf,75077650817
+user_532,entry_date,31 May 2023
+user_532,entry_time,12:56 AM
+user_532,update_date,06/12/2023
+user_533,name,Cliente 533
+user_533,e-mail,cliente533exemplo.com
+user_533,cpf,43036004706
+user_533,entry_date,2023/01/01
+user_533,entry_time,19:17
+user_533,update_date,15-03-2023
+user_534,name,Cliente 534
+user_534,e-mail,cliente534@exemplo.com
+user_534,cpf,75746516306
+user_534,entry_date,2023-09-01
+user_534,entry_time,01:54 AM
+user_534,update_date,12/12/2023
+user_535,name,Cliente 535
+user_535,e-mail,cliente535@exemplo.com
+user_535,cpf,28123496390
+user_535,entry_date,2023-08-11
+user_535,entry_time,10:35 PM
+user_535,update_date,15 May 2023
+user_536,name,Cliente 536
+user_536,e-mail,cliente536@exemplo.com
+user_536,cpf,33312016050
+user_536,entry_date,04-04-2023
+user_536,entry_time,17:35
+user_536,update_date,2023/03/24
+user_537,name,Cliente 537
+user_537,e-mail,cliente537@exemplo.com
+user_537,cpf,43399065527
+user_537,entry_date,09-06-2023
+user_537,entry_time,18:21:25
+user_537,update_date,27/07/2023
+user_538,name,Cliente 538
+user_538,e-mail,cliente538@exemplo.com
+user_538,cpf,61411522803
+user_538,entry_date,21-02-2023
+user_538,entry_time,11:19 AM
+user_538,update_date,2023-12-01
+user_539,name,Cliente 539
+user_539,e-mail,cliente539@exemplo.com
+user_539,cpf,46773593006
+user_539,entry_date,2023-03-15
+user_539,entry_time,09:17 AM
+user_539,update_date,2023-09-15
+user_540,name,Cliente 540
+user_540,e-mail,cliente540exemplo.com
+user_540,cpf,90706151196
+user_540,entry_date,2023-03-12
+user_540,entry_time,18:57
+user_540,update_date,29 Jun 2023
+user_541,name,cliente_541!
+user_541,e-mail,cliente541@exemplo.com
+user_541,cpf,70641340105
+user_541,entry_date,26/01/2023
+user_541,entry_time,10:39
+user_541,update_date,13/05/2023
+user_542,name,Cliente 542
+user_542,e-mail,cliente542@exemplo.com
+user_542,cpf,30610503666
+user_542,entry_date,02/07/2023
+user_542,entry_time,07:55 PM
+user_542,update_date,03 May 2023
+user_543,name,Cliente 543
+user_543,e-mail,cliente543@exemplo.com
+user_543,cpf,24295633868
+user_543,entry_date,2023-09-11
+user_543,entry_time,17:03
+user_543,update_date,2023/03/31
+user_544,name,Cliente 544
+user_544,e-mail,cliente544@exemplo.com
+user_544,cpf,51079586121
+user_544,entry_date,2023/08/13
+user_544,entry_time,09:57
+user_544,update_date,04-02-2023
+user_545,name,Cliente 545
+user_545,e-mail,cliente545@exemplo.com
+user_545,cpf,70179316830
+user_545,entry_date,2023/12/15
+user_545,entry_time,06:33 PM
+user_545,update_date,15/01/2023
+user_546,name,Cliente 546
+user_546,e-mail,cliente546@exemplo.com
+user_546,cpf,86951559160
+user_546,entry_date,25 Nov 2023
+user_546,entry_time,05:48:07
+user_546,update_date,2023/12/03
+user_547,name,Cliente 547
+user_547,e-mail,cliente547exemplo.com
+user_547,cpf,74668329265
+user_547,entry_date,15 Aug 2023
+user_547,entry_time,01:46:49
+user_547,update_date,02-08-2023
+user_548,name,Cliente 548
+user_548,e-mail,cliente548@exemplo.com
+user_548,cpf,71307798281
+user_548,entry_date,2023-10-04
+user_548,entry_time,05:32:30
+user_548,update_date,20/04/2023
+user_549,name,Cliente 549
+user_549,e-mail,cliente549@exemplo.com
+user_549,cpf,54822041774
+user_549,entry_date,2023/10/27
+user_549,entry_time,05:04
+user_549,update_date,2023-10-31
+user_550,name,Cliente 550
+user_550,e-mail,cliente550@exemplo.com
+user_550,cpf,28063963273
+user_550,entry_date,20 Jun 2023
+user_550,entry_time,02:11 PM
+user_550,update_date,21/04/2023
+user_551,name,cliente_551!
+user_551,e-mail,cliente551@exemplo.com
+user_551,cpf,30184612186
+user_551,entry_date,2023/01/31
+user_551,entry_time,14:01
+user_551,update_date,08-08-2023
+user_552,name,Cliente 552
+user_552,e-mail,cliente552@exemplo.com
+user_552,cpf,44632888233
+user_552,entry_date,2023/07/01
+user_552,entry_time,06:04:17
+user_552,update_date,23/07/2023
+user_553,name,Cliente 553
+user_553,e-mail,cliente553@exemplo.com
+user_553,cpf,92935195871
+user_553,entry_date,2023-01-12
+user_553,entry_time,04:44 PM
+user_553,update_date,2023-04-14
+user_554,name,Cliente 554
+user_554,e-mail,cliente554exemplo.com
+user_554,cpf,54408500617
+user_554,entry_date,07 Dec 2023
+user_554,entry_time,17:23
+user_554,update_date,11/05/2023
+user_555,name,Cliente 555
+user_555,e-mail,cliente555@exemplo.com
+user_555,cpf,72950264203
+user_555,entry_date,18 Feb 2023
+user_555,entry_time,12:31:53
+user_555,update_date,04/11/2023
+user_556,name,Cliente 556
+user_556,e-mail,cliente556@exemplo.com
+user_556,cpf,88947463057
+user_556,entry_date,31-07-2023
+user_556,entry_time,21:53:36
+user_556,update_date,2023-06-20
+user_557,name,Cliente 557
+user_557,e-mail,cliente557@exemplo.com
+user_557,cpf,51560784506
+user_557,entry_date,2023/09/28
+user_557,entry_time,04:30
+user_557,update_date,2023-11-28
+user_558,name,Cliente 558
+user_558,e-mail,cliente558@exemplo.com
+user_558,cpf,76568514769
+user_558,entry_date,2023-10-25
+user_558,entry_time,07:14 PM
+user_558,update_date,05-06-2023
+user_559,name,Cliente 559
+user_559,e-mail,cliente559@exemplo.com
+user_559,cpf,58110685192
+user_559,entry_date,2023-09-20
+user_559,entry_time,07:06 AM
+user_559,update_date,11/03/2023
+user_560,name,Cliente 560
+user_560,e-mail,cliente560@exemplo.com
+user_560,cpf,18587067463
+user_560,entry_date,04-09-2023
+user_560,entry_time,06:44 PM
+user_560,update_date,15 Aug 2023
+user_561,name,cliente_561!
+user_561,e-mail,cliente561exemplo.com
+user_561,cpf,17963979516
+user_561,entry_date,21/10/2023
+user_561,entry_time,14:26:07
+user_561,update_date,15 Jul 2023
+user_562,name,Cliente 562
+user_562,e-mail,cliente562@exemplo.com
+user_562,cpf,29551785225
+user_562,entry_date,20-02-2023
+user_562,entry_time,05:10 PM
+user_562,update_date,2023/04/28
+user_563,name,Cliente 563
+user_563,e-mail,cliente563@exemplo.com
+user_563,cpf,36705016008
+user_563,entry_date,2023/12/01
+user_563,entry_time,16:57
+user_563,update_date,23/09/2023
+user_564,name,Cliente 564
+user_564,e-mail,cliente564@exemplo.com
+user_564,cpf,38119151486
+user_564,entry_date,24-10-2023
+user_564,entry_time,15:20:04
+user_564,update_date,20 Jun 2023
+user_565,name,Cliente 565
+user_565,e-mail,cliente565@exemplo.com
+user_565,cpf,52140608187
+user_565,entry_date,01 Sep 2023
+user_565,entry_time,15:10:22
+user_565,update_date,02-08-2023
+user_566,name,Cliente 566
+user_566,e-mail,cliente566@exemplo.com
+user_566,cpf,82608806238
+user_566,entry_date,10/03/2023
+user_566,entry_time,16:38:46
+user_566,update_date,2023-03-16
+user_567,name,Cliente 567
+user_567,e-mail,cliente567@exemplo.com
+user_567,cpf,19336367863
+user_567,entry_date,20-06-2023
+user_567,entry_time,02:55
+user_567,update_date,2023/01/05
+user_568,name,Cliente 568
+user_568,e-mail,cliente568exemplo.com
+user_568,cpf,18611152391
+user_568,entry_date,06/12/2023
+user_568,entry_time,23:37:08
+user_568,update_date,05-02-2023
+user_569,name,Cliente 569
+user_569,e-mail,cliente569@exemplo.com
+user_569,cpf,35188513834
+user_569,entry_date,2023-05-04
+user_569,entry_time,16:55:48
+user_569,update_date,2023-11-08
+user_570,name,Cliente 570
+user_570,e-mail,cliente570@exemplo.com
+user_570,cpf,16374482601
+user_570,entry_date,2023/05/02
+user_570,entry_time,12:55
+user_570,update_date,16-04-2023
+user_571,name,cliente_571!
+user_571,e-mail,cliente571@exemplo.com
+user_571,cpf,46776387133
+user_571,entry_date,2023-12-21
+user_571,entry_time,14:12:10
+user_571,update_date,2023/08/21
+user_572,name,Cliente 572
+user_572,e-mail,cliente572@exemplo.com
+user_572,cpf,27795297651
+user_572,entry_date,2023-08-28
+user_572,entry_time,19:24:12
+user_572,update_date,31 May 2023
+user_573,name,Cliente 573
+user_573,e-mail,cliente573@exemplo.com
+user_573,cpf,34507168248
+user_573,entry_date,06-06-2023
+user_573,entry_time,04:42 PM
+user_573,update_date,30 Nov 2023
+user_574,name,Cliente 574
+user_574,e-mail,cliente574@exemplo.com
+user_574,cpf,66657647798
+user_574,entry_date,2023/06/22
+user_574,entry_time,16:54
+user_574,update_date,19 Jan 2023
+user_575,name,Cliente 575
+user_575,e-mail,cliente575exemplo.com
+user_575,cpf,98819508083
+user_575,entry_date,14/07/2023
+user_575,entry_time,05:56 PM
+user_575,update_date,2023-04-26
+user_576,name,Cliente 576
+user_576,e-mail,cliente576@exemplo.com
+user_576,cpf,33413078444
+user_576,entry_date,30 Nov 2023
+user_576,entry_time,19:42
+user_576,update_date,2023/11/26
+user_577,name,Cliente 577
+user_577,e-mail,cliente577@exemplo.com
+user_577,cpf,54077157033
+user_577,entry_date,20 Feb 2023
+user_577,entry_time,04:02 PM
+user_577,update_date,2023/08/17
+user_578,name,Cliente 578
+user_578,e-mail,cliente578@exemplo.com
+user_578,cpf,97915436068
+user_578,entry_date,14 Nov 2023
+user_578,entry_time,08:24:06
+user_578,update_date,19-11-2023
+user_579,name,Cliente 579
+user_579,e-mail,cliente579@exemplo.com
+user_579,cpf,99889160723
+user_579,entry_date,2023/11/20
+user_579,entry_time,21:58
+user_579,update_date,03-09-2023
+user_580,name,Cliente 580
+user_580,e-mail,cliente580@exemplo.com
+user_580,cpf,28143440142
+user_580,entry_date,04 Jul 2023
+user_580,entry_time,11:29
+user_580,update_date,17 Jan 2023
+user_581,name,cliente_581!
+user_581,e-mail,cliente581@exemplo.com
+user_581,cpf,51437113056
+user_581,entry_date,2023/02/28
+user_581,entry_time,07:46 AM
+user_581,update_date,05 Apr 2023
+user_582,name,Cliente 582
+user_582,e-mail,cliente582exemplo.com
+user_582,cpf,88851960268
+user_582,entry_date,17 Oct 2023
+user_582,entry_time,02:01
+user_582,update_date,04/02/2023
+user_583,name,Cliente 583
+user_583,e-mail,cliente583@exemplo.com
+user_583,cpf,72804682579
+user_583,entry_date,09/05/2023
+user_583,entry_time,00:30
+user_583,update_date,09 Jan 2023
+user_584,name,Cliente 584
+user_584,e-mail,cliente584@exemplo.com
+user_584,cpf,43714722748
+user_584,entry_date,2023/12/22
+user_584,entry_time,03:56 AM
+user_584,update_date,29-07-2023
+user_585,name,Cliente 585
+user_585,e-mail,cliente585@exemplo.com
+user_585,cpf,54912377199
+user_585,entry_date,01/10/2023
+user_585,entry_time,17:06:07
+user_585,update_date,13 Sep 2023
+user_586,name,Cliente 586
+user_586,e-mail,cliente586@exemplo.com
+user_586,cpf,58220748304
+user_586,entry_date,13/12/2023
+user_586,entry_time,10:36 AM
+user_586,update_date,23-04-2023
+user_587,name,Cliente 587
+user_587,e-mail,cliente587@exemplo.com
+user_587,cpf,72923814057
+user_587,entry_date,11/07/2023
+user_587,entry_time,20:20
+user_587,update_date,2023/02/15
+user_588,name,Cliente 588
+user_588,e-mail,cliente588@exemplo.com
+user_588,cpf,69955004053
+user_588,entry_date,2023-05-28
+user_588,entry_time,22:43
+user_588,update_date,15/10/2023
+user_589,name,Cliente 589
+user_589,e-mail,cliente589exemplo.com
+user_589,cpf,44298239242
+user_589,entry_date,2023-12-10
+user_589,entry_time,10:37 AM
+user_589,update_date,18/07/2023
+user_590,name,Cliente 590
+user_590,e-mail,cliente590@exemplo.com
+user_590,cpf,63800599119
+user_590,entry_date,2023-09-24
+user_590,entry_time,23:37:00
+user_590,update_date,30-11-2023
+user_591,name,cliente_591!
+user_591,e-mail,cliente591@exemplo.com
+user_591,cpf,50052926664
+user_591,entry_date,24 Aug 2023
+user_591,entry_time,02:11 PM
+user_591,update_date,19 Sep 2023
+user_592,name,Cliente 592
+user_592,e-mail,cliente592@exemplo.com
+user_592,cpf,27591467782
+user_592,entry_date,27/08/2023
+user_592,entry_time,09:59 PM
+user_592,update_date,06/07/2023
+user_593,name,Cliente 593
+user_593,e-mail,cliente593@exemplo.com
+user_593,cpf,16209254270
+user_593,entry_date,30-08-2023
+user_593,entry_time,12:17 AM
+user_593,update_date,2023/12/29
+user_594,name,Cliente 594
+user_594,e-mail,cliente594@exemplo.com
+user_594,cpf,96521542052
+user_594,entry_date,18/09/2023
+user_594,entry_time,20:45:33
+user_594,update_date,26/10/2023
+user_595,name,Cliente 595
+user_595,e-mail,cliente595@exemplo.com
+user_595,cpf,79557351971
+user_595,entry_date,17 Mar 2023
+user_595,entry_time,19:09
+user_595,update_date,11-09-2023
+user_596,name,Cliente 596
+user_596,e-mail,cliente596exemplo.com
+user_596,cpf,87738972398
+user_596,entry_date,12/05/2023
+user_596,entry_time,08:49 PM
+user_596,update_date,26 Nov 2023
+user_597,name,Cliente 597
+user_597,e-mail,cliente597@exemplo.com
+user_597,cpf,12795681304
+user_597,entry_date,2023/09/30
+user_597,entry_time,22:40
+user_597,update_date,2023/07/19
+user_598,name,Cliente 598
+user_598,e-mail,cliente598@exemplo.com
+user_598,cpf,35132171275
+user_598,entry_date,2023/02/02
+user_598,entry_time,21:40:04
+user_598,update_date,30/11/2023
+user_599,name,Cliente 599
+user_599,e-mail,cliente599@exemplo.com
+user_599,cpf,45059683298
+user_599,entry_date,11 Apr 2023
+user_599,entry_time,21:30
+user_599,update_date,2023/09/14
+user_600,name,Cliente 600
+user_600,e-mail,cliente600@exemplo.com
+user_600,cpf,32248139188
+user_600,entry_date,2023-08-23
+user_600,entry_time,00:30
+user_600,update_date,05/03/2023
+user_601,name,cliente_601!
+user_601,e-mail,cliente601@exemplo.com
+user_601,cpf,82540390644
+user_601,entry_date,03-05-2023
+user_601,entry_time,11:01
+user_601,update_date,21 Jun 2023
+user_602,name,Cliente 602
+user_602,e-mail,cliente602@exemplo.com
+user_602,cpf,62605378255
+user_602,entry_date,2023-06-24
+user_602,entry_time,16:45
+user_602,update_date,24/08/2023
+user_603,name,Cliente 603
+user_603,e-mail,cliente603exemplo.com
+user_603,cpf,15799452976
+user_603,entry_date,23/05/2023
+user_603,entry_time,11:37:49
+user_603,update_date,12 Jul 2023
+user_604,name,Cliente 604
+user_604,e-mail,cliente604@exemplo.com
+user_604,cpf,59229529889
+user_604,entry_date,08 Dec 2023
+user_604,entry_time,15:08:55
+user_604,update_date,2023-04-22
+user_605,name,Cliente 605
+user_605,e-mail,cliente605@exemplo.com
+user_605,cpf,77283625587
+user_605,entry_date,19 Jul 2023
+user_605,entry_time,12:35
+user_605,update_date,15-05-2023
+user_606,name,Cliente 606
+user_606,e-mail,cliente606@exemplo.com
+user_606,cpf,41483051998
+user_606,entry_date,2023/04/13
+user_606,entry_time,02:10
+user_606,update_date,2023/08/24
+user_607,name,Cliente 607
+user_607,e-mail,cliente607@exemplo.com
+user_607,cpf,79282909009
+user_607,entry_date,2023-07-05
+user_607,entry_time,02:47
+user_607,update_date,29 Oct 2023
+user_608,name,Cliente 608
+user_608,e-mail,cliente608@exemplo.com
+user_608,cpf,67969217899
+user_608,entry_date,18 Aug 2023
+user_608,entry_time,10:40:22
+user_608,update_date,13/08/2023
+user_609,name,Cliente 609
+user_609,e-mail,cliente609@exemplo.com
+user_609,cpf,66923265759
+user_609,entry_date,2023-09-10
+user_609,entry_time,01:01 PM
+user_609,update_date,10 Dec 2023
+user_610,name,Cliente 610
+user_610,e-mail,cliente610exemplo.com
+user_610,cpf,30018231310
+user_610,entry_date,2023-09-05
+user_610,entry_time,09:08
+user_610,update_date,08/03/2023
+user_611,name,cliente_611!
+user_611,e-mail,cliente611@exemplo.com
+user_611,cpf,39673406706
+user_611,entry_date,23-05-2023
+user_611,entry_time,06:58 PM
+user_611,update_date,30/09/2023
+user_612,name,Cliente 612
+user_612,e-mail,cliente612@exemplo.com
+user_612,cpf,10029160116
+user_612,entry_date,2023-10-08
+user_612,entry_time,02:02:21
+user_612,update_date,11-08-2023
+user_613,name,Cliente 613
+user_613,e-mail,cliente613@exemplo.com
+user_613,cpf,81782153521
+user_613,entry_date,20/11/2023
+user_613,entry_time,08:21
+user_613,update_date,2023/11/03
+user_614,name,Cliente 614
+user_614,e-mail,cliente614@exemplo.com
+user_614,cpf,10571365948
+user_614,entry_date,2023/07/03
+user_614,entry_time,07:50 PM
+user_614,update_date,2023-01-22
+user_615,name,Cliente 615
+user_615,e-mail,cliente615@exemplo.com
+user_615,cpf,69907512464
+user_615,entry_date,03/12/2023
+user_615,entry_time,04:32 PM
+user_615,update_date,30/12/2023
+user_616,name,Cliente 616
+user_616,e-mail,cliente616@exemplo.com
+user_616,cpf,43448428968
+user_616,entry_date,14-09-2023
+user_616,entry_time,05:27:35
+user_616,update_date,19 May 2023
+user_617,name,Cliente 617
+user_617,e-mail,cliente617exemplo.com
+user_617,cpf,87092068207
+user_617,entry_date,18/12/2023
+user_617,entry_time,08:25 AM
+user_617,update_date,2023-05-11
+user_618,name,Cliente 618
+user_618,e-mail,cliente618@exemplo.com
+user_618,cpf,92508417161
+user_618,entry_date,17/05/2023
+user_618,entry_time,04:01 PM
+user_618,update_date,10 Oct 2023
+user_619,name,Cliente 619
+user_619,e-mail,cliente619@exemplo.com
+user_619,cpf,36074384168
+user_619,entry_date,19/11/2023
+user_619,entry_time,07:13 AM
+user_619,update_date,2023-07-31
+user_620,name,Cliente 620
+user_620,e-mail,cliente620@exemplo.com
+user_620,cpf,51846331823
+user_620,entry_date,29-04-2023
+user_620,entry_time,16:03
+user_620,update_date,28/05/2023
+user_621,name,cliente_621!
+user_621,e-mail,cliente621@exemplo.com
+user_621,cpf,97474384264
+user_621,entry_date,2023/07/28
+user_621,entry_time,09:32 PM
+user_621,update_date,2023-03-25
+user_622,name,Cliente 622
+user_622,e-mail,cliente622@exemplo.com
+user_622,cpf,21970857104
+user_622,entry_date,2023-03-09
+user_622,entry_time,16:38
+user_622,update_date,21/08/2023
+user_623,name,Cliente 623
+user_623,e-mail,cliente623@exemplo.com
+user_623,cpf,89345724334
+user_623,entry_date,09/02/2023
+user_623,entry_time,16:00
+user_623,update_date,15-08-2023
+user_624,name,Cliente 624
+user_624,e-mail,cliente624exemplo.com
+user_624,cpf,45875055644
+user_624,entry_date,24 Feb 2023
+user_624,entry_time,10:50 PM
+user_624,update_date,09/06/2023
+user_625,name,Cliente 625
+user_625,e-mail,cliente625@exemplo.com
+user_625,cpf,85835874590
+user_625,entry_date,18 Aug 2023
+user_625,entry_time,08:09:07
+user_625,update_date,2023/09/22
+user_626,name,Cliente 626
+user_626,e-mail,cliente626@exemplo.com
+user_626,cpf,45528173265
+user_626,entry_date,2023-03-08
+user_626,entry_time,01:43 PM
+user_626,update_date,03-01-2023
+user_627,name,Cliente 627
+user_627,e-mail,cliente627@exemplo.com
+user_627,cpf,86176538947
+user_627,entry_date,2023-09-15
+user_627,entry_time,06:40
+user_627,update_date,23/02/2023
+user_628,name,Cliente 628
+user_628,e-mail,cliente628@exemplo.com
+user_628,cpf,28462984520
+user_628,entry_date,18/06/2023
+user_628,entry_time,12:03
+user_628,update_date,2023-12-04
+user_629,name,Cliente 629
+user_629,e-mail,cliente629@exemplo.com
+user_629,cpf,90590775763
+user_629,entry_date,18-09-2023
+user_629,entry_time,13:08
+user_629,update_date,12 Jun 2023
+user_630,name,Cliente 630
+user_630,e-mail,cliente630@exemplo.com
+user_630,cpf,98801482766
+user_630,entry_date,28-04-2023
+user_630,entry_time,00:25
+user_630,update_date,2023-02-13
+user_631,name,cliente_631!
+user_631,e-mail,cliente631exemplo.com
+user_631,cpf,85359059114
+user_631,entry_date,15 Jun 2023
+user_631,entry_time,12:47 PM
+user_631,update_date,2023-08-01
+user_632,name,Cliente 632
+user_632,e-mail,cliente632@exemplo.com
+user_632,cpf,57208278019
+user_632,entry_date,2023-06-16
+user_632,entry_time,09:10 PM
+user_632,update_date,30/07/2023
+user_633,name,Cliente 633
+user_633,e-mail,cliente633@exemplo.com
+user_633,cpf,88404469266
+user_633,entry_date,2023-12-19
+user_633,entry_time,17:48
+user_633,update_date,2023-09-13
+user_634,name,Cliente 634
+user_634,e-mail,cliente634@exemplo.com
+user_634,cpf,35168062733
+user_634,entry_date,09 Oct 2023
+user_634,entry_time,07:36
+user_634,update_date,18 Aug 2023
+user_635,name,Cliente 635
+user_635,e-mail,cliente635@exemplo.com
+user_635,cpf,70587615017
+user_635,entry_date,15/11/2023
+user_635,entry_time,05:00
+user_635,update_date,22-04-2023
+user_636,name,Cliente 636
+user_636,e-mail,cliente636@exemplo.com
+user_636,cpf,74733037013
+user_636,entry_date,03-07-2023
+user_636,entry_time,07:22 AM
+user_636,update_date,12-07-2023
+user_637,name,Cliente 637
+user_637,e-mail,cliente637@exemplo.com
+user_637,cpf,36615721584
+user_637,entry_date,2023/07/30
+user_637,entry_time,16:39:12
+user_637,update_date,30-03-2023
+user_638,name,Cliente 638
+user_638,e-mail,cliente638exemplo.com
+user_638,cpf,86422704390
+user_638,entry_date,2023/05/21
+user_638,entry_time,06:28:18
+user_638,update_date,22-09-2023
+user_639,name,Cliente 639
+user_639,e-mail,cliente639@exemplo.com
+user_639,cpf,14803821869
+user_639,entry_date,2023/12/08
+user_639,entry_time,15:27
+user_639,update_date,06/09/2023
+user_640,name,Cliente 640
+user_640,e-mail,cliente640@exemplo.com
+user_640,cpf,82672895422
+user_640,entry_date,2023/10/07
+user_640,entry_time,05:44
+user_640,update_date,2023-01-01
+user_641,name,cliente_641!
+user_641,e-mail,cliente641@exemplo.com
+user_641,cpf,42451245429
+user_641,entry_date,2023-07-17
+user_641,entry_time,18:44
+user_641,update_date,12 Nov 2023
+user_642,name,Cliente 642
+user_642,e-mail,cliente642@exemplo.com
+user_642,cpf,94502297581
+user_642,entry_date,22/06/2023
+user_642,entry_time,12:44
+user_642,update_date,19/04/2023
+user_643,name,Cliente 643
+user_643,e-mail,cliente643@exemplo.com
+user_643,cpf,95335622921
+user_643,entry_date,27-06-2023
+user_643,entry_time,10:33 AM
+user_643,update_date,2023/03/17
+user_644,name,Cliente 644
+user_644,e-mail,cliente644@exemplo.com
+user_644,cpf,34102835854
+user_644,entry_date,22/11/2023
+user_644,entry_time,11:14
+user_644,update_date,04-11-2023
+user_645,name,Cliente 645
+user_645,e-mail,cliente645exemplo.com
+user_645,cpf,13799610765
+user_645,entry_date,23-12-2023
+user_645,entry_time,01:51
+user_645,update_date,07/10/2023
+user_646,name,Cliente 646
+user_646,e-mail,cliente646@exemplo.com
+user_646,cpf,53021298671
+user_646,entry_date,12 Dec 2023
+user_646,entry_time,10:53:31
+user_646,update_date,29/05/2023
+user_647,name,Cliente 647
+user_647,e-mail,cliente647@exemplo.com
+user_647,cpf,13331511210
+user_647,entry_date,2023/04/29
+user_647,entry_time,19:08
+user_647,update_date,2023-06-23
+user_648,name,Cliente 648
+user_648,e-mail,cliente648@exemplo.com
+user_648,cpf,98879555034
+user_648,entry_date,02 Jan 2023
+user_648,entry_time,01:28 PM
+user_648,update_date,11 Dec 2023
+user_649,name,Cliente 649
+user_649,e-mail,cliente649@exemplo.com
+user_649,cpf,92925973390
+user_649,entry_date,19 May 2023
+user_649,entry_time,22:30:20
+user_649,update_date,2023/10/13
+user_650,name,Cliente 650
+user_650,e-mail,cliente650@exemplo.com
+user_650,cpf,23095887976
+user_650,entry_date,26/06/2023
+user_650,entry_time,05:38 AM
+user_650,update_date,12/10/2023
+user_651,name,cliente_651!
+user_651,e-mail,cliente651@exemplo.com
+user_651,cpf,11395001202
+user_651,entry_date,2023/09/29
+user_651,entry_time,08:30
+user_651,update_date,2023/05/04
+user_652,name,Cliente 652
+user_652,e-mail,cliente652exemplo.com
+user_652,cpf,34233130757
+user_652,entry_date,31/05/2023
+user_652,entry_time,05:57:57
+user_652,update_date,2023-10-05
+user_653,name,Cliente 653
+user_653,e-mail,cliente653@exemplo.com
+user_653,cpf,86768255532
+user_653,entry_date,11-02-2023
+user_653,entry_time,01:32 PM
+user_653,update_date,2023-01-18
+user_654,name,Cliente 654
+user_654,e-mail,cliente654@exemplo.com
+user_654,cpf,86614050870
+user_654,entry_date,2023-04-22
+user_654,entry_time,19:45:36
+user_654,update_date,2023/06/13
+user_655,name,Cliente 655
+user_655,e-mail,cliente655@exemplo.com
+user_655,cpf,38673242975
+user_655,entry_date,13 Aug 2023
+user_655,entry_time,12:54:24
+user_655,update_date,14/12/2023
+user_656,name,Cliente 656
+user_656,e-mail,cliente656@exemplo.com
+user_656,cpf,24024485317
+user_656,entry_date,01 Sep 2023
+user_656,entry_time,02:54 AM
+user_656,update_date,20/10/2023
+user_657,name,Cliente 657
+user_657,e-mail,cliente657@exemplo.com
+user_657,cpf,75959104432
+user_657,entry_date,2023-04-17
+user_657,entry_time,14:30
+user_657,update_date,2023-11-03
+user_658,name,Cliente 658
+user_658,e-mail,cliente658@exemplo.com
+user_658,cpf,95851661563
+user_658,entry_date,02 Nov 2023
+user_658,entry_time,06:50 PM
+user_658,update_date,28-01-2023
+user_659,name,Cliente 659
+user_659,e-mail,cliente659exemplo.com
+user_659,cpf,85538243921
+user_659,entry_date,2023/12/16
+user_659,entry_time,04:02
+user_659,update_date,2023-12-25
+user_660,name,Cliente 660
+user_660,e-mail,cliente660@exemplo.com
+user_660,cpf,38326665368
+user_660,entry_date,20 Sep 2023
+user_660,entry_time,12:28
+user_660,update_date,2023/01/31
+user_661,name,cliente_661!
+user_661,e-mail,cliente661@exemplo.com
+user_661,cpf,71046430095
+user_661,entry_date,31/08/2023
+user_661,entry_time,11:00 PM
+user_661,update_date,12/02/2023
+user_662,name,Cliente 662
+user_662,e-mail,cliente662@exemplo.com
+user_662,cpf,62511028521
+user_662,entry_date,05/02/2023
+user_662,entry_time,17:02
+user_662,update_date,26/11/2023
+user_663,name,Cliente 663
+user_663,e-mail,cliente663@exemplo.com
+user_663,cpf,74129578844
+user_663,entry_date,2023/09/10
+user_663,entry_time,11:32:12
+user_663,update_date,09-06-2023
+user_664,name,Cliente 664
+user_664,e-mail,cliente664@exemplo.com
+user_664,cpf,21736083740
+user_664,entry_date,2023/03/09
+user_664,entry_time,11:12 AM
+user_664,update_date,2023-01-24
+user_665,name,Cliente 665
+user_665,e-mail,cliente665@exemplo.com
+user_665,cpf,93771769829
+user_665,entry_date,2023-12-13
+user_665,entry_time,05:18 PM
+user_665,update_date,12/03/2023
+user_666,name,Cliente 666
+user_666,e-mail,cliente666exemplo.com
+user_666,cpf,96342543600
+user_666,entry_date,2023/08/12
+user_666,entry_time,01:25 PM
+user_666,update_date,06-08-2023
+user_667,name,Cliente 667
+user_667,e-mail,cliente667@exemplo.com
+user_667,cpf,95930061877
+user_667,entry_date,2023/06/28
+user_667,entry_time,15:11
+user_667,update_date,30-12-2023
+user_668,name,Cliente 668
+user_668,e-mail,cliente668@exemplo.com
+user_668,cpf,58728582151
+user_668,entry_date,12-10-2023
+user_668,entry_time,12:06
+user_668,update_date,2023-04-29
+user_669,name,Cliente 669
+user_669,e-mail,cliente669@exemplo.com
+user_669,cpf,23527558671
+user_669,entry_date,2023/12/06
+user_669,entry_time,16:26:12
+user_669,update_date,10-01-2023
+user_670,name,Cliente 670
+user_670,e-mail,cliente670@exemplo.com
+user_670,cpf,49488696401
+user_670,entry_date,07/12/2023
+user_670,entry_time,06:56
+user_670,update_date,22 Jul 2023
+user_671,name,cliente_671!
+user_671,e-mail,cliente671@exemplo.com
+user_671,cpf,33749209350
+user_671,entry_date,28/03/2023
+user_671,entry_time,09:45 AM
+user_671,update_date,15-07-2023
+user_672,name,Cliente 672
+user_672,e-mail,cliente672@exemplo.com
+user_672,cpf,87268097294
+user_672,entry_date,15 Jul 2023
+user_672,entry_time,10:20:50
+user_672,update_date,2023-08-15
+user_673,name,Cliente 673
+user_673,e-mail,cliente673exemplo.com
+user_673,cpf,50347252848
+user_673,entry_date,2023/07/14
+user_673,entry_time,22:02
+user_673,update_date,02/10/2023
+user_674,name,Cliente 674
+user_674,e-mail,cliente674@exemplo.com
+user_674,cpf,51974164083
+user_674,entry_date,2023-06-28
+user_674,entry_time,14:10:29
+user_674,update_date,2023/01/12
+user_675,name,Cliente 675
+user_675,e-mail,cliente675@exemplo.com
+user_675,cpf,84814414517
+user_675,entry_date,28 Jan 2023
+user_675,entry_time,11:44:21
+user_675,update_date,04/11/2023
+user_676,name,Cliente 676
+user_676,e-mail,cliente676@exemplo.com
+user_676,cpf,89076963104
+user_676,entry_date,31-10-2023
+user_676,entry_time,21:23:32
+user_676,update_date,2024-01-01
+user_677,name,Cliente 677
+user_677,e-mail,cliente677@exemplo.com
+user_677,cpf,37352957643
+user_677,entry_date,2023-05-17
+user_677,entry_time,23:55:06
+user_677,update_date,2023-01-20
+user_678,name,Cliente 678
+user_678,e-mail,cliente678@exemplo.com
+user_678,cpf,23030696429
+user_678,entry_date,2023-02-20
+user_678,entry_time,04:36
+user_678,update_date,2023/03/11
+user_679,name,Cliente 679
+user_679,e-mail,cliente679@exemplo.com
+user_679,cpf,36501602535
+user_679,entry_date,2023/02/09
+user_679,entry_time,09:06 AM
+user_679,update_date,14-03-2023
+user_680,name,Cliente 680
+user_680,e-mail,cliente680exemplo.com
+user_680,cpf,33090938946
+user_680,entry_date,2023/12/17
+user_680,entry_time,15:21
+user_680,update_date,18/11/2023
+user_681,name,cliente_681!
+user_681,e-mail,cliente681@exemplo.com
+user_681,cpf,13463971639
+user_681,entry_date,23-03-2023
+user_681,entry_time,07:02 PM
+user_681,update_date,2023/07/28
+user_682,name,Cliente 682
+user_682,e-mail,cliente682@exemplo.com
+user_682,cpf,45357941071
+user_682,entry_date,22 Nov 2023
+user_682,entry_time,11:32 AM
+user_682,update_date,18 Mar 2023
+user_683,name,Cliente 683
+user_683,e-mail,cliente683@exemplo.com
+user_683,cpf,46858361977
+user_683,entry_date,14 Jan 2023
+user_683,entry_time,06:26
+user_683,update_date,2023-02-01
+user_684,name,Cliente 684
+user_684,e-mail,cliente684@exemplo.com
+user_684,cpf,25530230525
+user_684,entry_date,27/11/2023
+user_684,entry_time,04:57 AM
+user_684,update_date,11-03-2023
+user_685,name,Cliente 685
+user_685,e-mail,cliente685@exemplo.com
+user_685,cpf,31878833727
+user_685,entry_date,2023-04-27
+user_685,entry_time,19:09:22
+user_685,update_date,14 Mar 2023
+user_686,name,Cliente 686
+user_686,e-mail,cliente686@exemplo.com
+user_686,cpf,37037369039
+user_686,entry_date,2023/11/23
+user_686,entry_time,05:08:35
+user_686,update_date,2023/07/24
+user_687,name,Cliente 687
+user_687,e-mail,cliente687exemplo.com
+user_687,cpf,77778154408
+user_687,entry_date,2023/01/05
+user_687,entry_time,12:04 AM
+user_687,update_date,2023/01/21
+user_688,name,Cliente 688
+user_688,e-mail,cliente688@exemplo.com
+user_688,cpf,78632452911
+user_688,entry_date,02 Apr 2023
+user_688,entry_time,12:57:10
+user_688,update_date,21-02-2023
+user_689,name,Cliente 689
+user_689,e-mail,cliente689@exemplo.com
+user_689,cpf,54932534732
+user_689,entry_date,2023-05-28
+user_689,entry_time,11:25
+user_689,update_date,2023-12-28
+user_690,name,Cliente 690
+user_690,e-mail,cliente690@exemplo.com
+user_690,cpf,60225067734
+user_690,entry_date,13/01/2023
+user_690,entry_time,10:54:10
+user_690,update_date,09 Jun 2023
+user_691,name,cliente_691!
+user_691,e-mail,cliente691@exemplo.com
+user_691,cpf,63717715522
+user_691,entry_date,2023-05-23
+user_691,entry_time,03:15 PM
+user_691,update_date,17 Jul 2023
+user_692,name,Cliente 692
+user_692,e-mail,cliente692@exemplo.com
+user_692,cpf,97359052798
+user_692,entry_date,2023-12-09
+user_692,entry_time,21:32:24
+user_692,update_date,27/05/2023
+user_693,name,Cliente 693
+user_693,e-mail,cliente693@exemplo.com
+user_693,cpf,59153761882
+user_693,entry_date,27-12-2023
+user_693,entry_time,11:23
+user_693,update_date,19 May 2023
+user_694,name,Cliente 694
+user_694,e-mail,cliente694exemplo.com
+user_694,cpf,75894739812
+user_694,entry_date,30 May 2023
+user_694,entry_time,12:47
+user_694,update_date,2023/06/08
+user_695,name,Cliente 695
+user_695,e-mail,cliente695@exemplo.com
+user_695,cpf,15401717764
+user_695,entry_date,26 Aug 2023
+user_695,entry_time,23:48
+user_695,update_date,03/12/2023
+user_696,name,Cliente 696
+user_696,e-mail,cliente696@exemplo.com
+user_696,cpf,33809114023
+user_696,entry_date,16-11-2023
+user_696,entry_time,02:14:15
+user_696,update_date,2023/10/03
+user_697,name,Cliente 697
+user_697,e-mail,cliente697@exemplo.com
+user_697,cpf,47038135992
+user_697,entry_date,2023/04/21
+user_697,entry_time,03:44:45
+user_697,update_date,24-08-2023
+user_698,name,Cliente 698
+user_698,e-mail,cliente698@exemplo.com
+user_698,cpf,42086026531
+user_698,entry_date,2023/10/28
+user_698,entry_time,19:49:16
+user_698,update_date,31 Jan 2023
+user_699,name,Cliente 699
+user_699,e-mail,cliente699@exemplo.com
+user_699,cpf,10182481594
+user_699,entry_date,28-05-2023
+user_699,entry_time,06:35:37
+user_699,update_date,21-01-2023
+user_700,name,Cliente 700
+user_700,e-mail,cliente700@exemplo.com
+user_700,cpf,89062642512
+user_700,entry_date,2023/10/30
+user_700,entry_time,08:25 AM
+user_700,update_date,06/10/2023
+user_701,name,cliente_701!
+user_701,e-mail,cliente701exemplo.com
+user_701,cpf,10825472456
+user_701,entry_date,2023-01-28
+user_701,entry_time,20:19
+user_701,update_date,02-07-2023
+user_702,name,Cliente 702
+user_702,e-mail,cliente702@exemplo.com
+user_702,cpf,29991062670
+user_702,entry_date,2023/01/03
+user_702,entry_time,12:38
+user_702,update_date,02/12/2023
+user_703,name,Cliente 703
+user_703,e-mail,cliente703@exemplo.com
+user_703,cpf,16943302812
+user_703,entry_date,25 Sep 2023
+user_703,entry_time,11:44
+user_703,update_date,20/01/2023
+user_704,name,Cliente 704
+user_704,e-mail,cliente704@exemplo.com
+user_704,cpf,70238222945
+user_704,entry_date,2023/05/19
+user_704,entry_time,18:12:37
+user_704,update_date,13/10/2023
+user_705,name,Cliente 705
+user_705,e-mail,cliente705@exemplo.com
+user_705,cpf,33306495319
+user_705,entry_date,30/11/2023
+user_705,entry_time,10:17 PM
+user_705,update_date,2023/05/12
+user_706,name,Cliente 706
+user_706,e-mail,cliente706@exemplo.com
+user_706,cpf,45070359182
+user_706,entry_date,02/10/2023
+user_706,entry_time,01:00 PM
+user_706,update_date,22/08/2023
+user_707,name,Cliente 707
+user_707,e-mail,cliente707@exemplo.com
+user_707,cpf,90859169470
+user_707,entry_date,2023/12/14
+user_707,entry_time,14:36:17
+user_707,update_date,15-10-2023
+user_708,name,Cliente 708
+user_708,e-mail,cliente708exemplo.com
+user_708,cpf,88804254879
+user_708,entry_date,18 Oct 2023
+user_708,entry_time,10:58
+user_708,update_date,2023/02/16
+user_709,name,Cliente 709
+user_709,e-mail,cliente709@exemplo.com
+user_709,cpf,75163838142
+user_709,entry_date,29/03/2023
+user_709,entry_time,01:25:01
+user_709,update_date,04-02-2023
+user_710,name,Cliente 710
+user_710,e-mail,cliente710@exemplo.com
+user_710,cpf,24033899616
+user_710,entry_date,2023/01/02
+user_710,entry_time,23:34
+user_710,update_date,05 Aug 2023
+user_711,name,cliente_711!
+user_711,e-mail,cliente711@exemplo.com
+user_711,cpf,12482192768
+user_711,entry_date,02 Aug 2023
+user_711,entry_time,20:49
+user_711,update_date,2023/08/17
+user_712,name,Cliente 712
+user_712,e-mail,cliente712@exemplo.com
+user_712,cpf,20244861915
+user_712,entry_date,2023-09-23
+user_712,entry_time,12:26 AM
+user_712,update_date,03/08/2023
+user_713,name,Cliente 713
+user_713,e-mail,cliente713@exemplo.com
+user_713,cpf,88465542119
+user_713,entry_date,26/12/2023
+user_713,entry_time,09:17 AM
+user_713,update_date,02 Feb 2023
+user_714,name,Cliente 714
+user_714,e-mail,cliente714@exemplo.com
+user_714,cpf,52623349819
+user_714,entry_date,18 Nov 2023
+user_714,entry_time,03:12 AM
+user_714,update_date,10/08/2023
+user_715,name,Cliente 715
+user_715,e-mail,cliente715exemplo.com
+user_715,cpf,90663637581
+user_715,entry_date,2023/03/08
+user_715,entry_time,12:10:58
+user_715,update_date,23 Jul 2023
+user_716,name,Cliente 716
+user_716,e-mail,cliente716@exemplo.com
+user_716,cpf,89355583527
+user_716,entry_date,07/12/2023
+user_716,entry_time,12:49:28
+user_716,update_date,2023-01-20
+user_717,name,Cliente 717
+user_717,e-mail,cliente717@exemplo.com
+user_717,cpf,38452352642
+user_717,entry_date,22/02/2023
+user_717,entry_time,16:59
+user_717,update_date,2023/06/08
+user_718,name,Cliente 718
+user_718,e-mail,cliente718@exemplo.com
+user_718,cpf,42593660497
+user_718,entry_date,26-11-2023
+user_718,entry_time,02:56
+user_718,update_date,08/04/2023
+user_719,name,Cliente 719
+user_719,e-mail,cliente719@exemplo.com
+user_719,cpf,51640141849
+user_719,entry_date,06-09-2023
+user_719,entry_time,03:23 AM
+user_719,update_date,2023/12/19
+user_720,name,Cliente 720
+user_720,e-mail,cliente720@exemplo.com
+user_720,cpf,86789167504
+user_720,entry_date,2023-08-09
+user_720,entry_time,02:27:39
+user_720,update_date,2023-12-02
+user_721,name,cliente_721!
+user_721,e-mail,cliente721@exemplo.com
+user_721,cpf,80738309789
+user_721,entry_date,30/10/2023
+user_721,entry_time,09:25 AM
+user_721,update_date,05 Sep 2023
+user_722,name,Cliente 722
+user_722,e-mail,cliente722exemplo.com
+user_722,cpf,18005471118
+user_722,entry_date,07 Feb 2023
+user_722,entry_time,01:34 AM
+user_722,update_date,23-11-2023
+user_723,name,Cliente 723
+user_723,e-mail,cliente723@exemplo.com
+user_723,cpf,84712705981
+user_723,entry_date,07/11/2023
+user_723,entry_time,08:04 AM
+user_723,update_date,24 Feb 2023
+user_724,name,Cliente 724
+user_724,e-mail,cliente724@exemplo.com
+user_724,cpf,14443914102
+user_724,entry_date,16/02/2023
+user_724,entry_time,23:54:41
+user_724,update_date,11 Jun 2023
+user_725,name,Cliente 725
+user_725,e-mail,cliente725@exemplo.com
+user_725,cpf,54271991345
+user_725,entry_date,2023-12-10
+user_725,entry_time,10:39 PM
+user_725,update_date,22 Aug 2023
+user_726,name,Cliente 726
+user_726,e-mail,cliente726@exemplo.com
+user_726,cpf,38729074252
+user_726,entry_date,01 Dec 2023
+user_726,entry_time,00:09
+user_726,update_date,05 Nov 2023
+user_727,name,Cliente 727
+user_727,e-mail,cliente727@exemplo.com
+user_727,cpf,51265379468
+user_727,entry_date,09/06/2023
+user_727,entry_time,00:49:47
+user_727,update_date,2023/03/24
+user_728,name,Cliente 728
+user_728,e-mail,cliente728@exemplo.com
+user_728,cpf,72341708925
+user_728,entry_date,02 Jan 2023
+user_728,entry_time,06:06:28
+user_728,update_date,19/01/2023
+user_729,name,Cliente 729
+user_729,e-mail,cliente729exemplo.com
+user_729,cpf,36920271592
+user_729,entry_date,11/05/2023
+user_729,entry_time,10:46
+user_729,update_date,13 Nov 2023
+user_730,name,Cliente 730
+user_730,e-mail,cliente730@exemplo.com
+user_730,cpf,52492630928
+user_730,entry_date,22/05/2023
+user_730,entry_time,04:13:04
+user_730,update_date,2023-05-22
+user_731,name,cliente_731!
+user_731,e-mail,cliente731@exemplo.com
+user_731,cpf,62293303650
+user_731,entry_date,24/09/2023
+user_731,entry_time,04:21
+user_731,update_date,16/02/2023
+user_732,name,Cliente 732
+user_732,e-mail,cliente732@exemplo.com
+user_732,cpf,68774355626
+user_732,entry_date,2023-07-13
+user_732,entry_time,13:39:53
+user_732,update_date,28/06/2023
+user_733,name,Cliente 733
+user_733,e-mail,cliente733@exemplo.com
+user_733,cpf,81842481461
+user_733,entry_date,2023-11-07
+user_733,entry_time,03:06 AM
+user_733,update_date,06-10-2023
+user_734,name,Cliente 734
+user_734,e-mail,cliente734@exemplo.com
+user_734,cpf,38151719326
+user_734,entry_date,2023/06/20
+user_734,entry_time,18:42
+user_734,update_date,2023/06/25
+user_735,name,Cliente 735
+user_735,e-mail,cliente735@exemplo.com
+user_735,cpf,35749725137
+user_735,entry_date,2023-02-17
+user_735,entry_time,02:47 AM
+user_735,update_date,16/07/2023
+user_736,name,Cliente 736
+user_736,e-mail,cliente736exemplo.com
+user_736,cpf,20159254137
+user_736,entry_date,13/07/2023
+user_736,entry_time,12:07 PM
+user_736,update_date,22-06-2023
+user_737,name,Cliente 737
+user_737,e-mail,cliente737@exemplo.com
+user_737,cpf,15594534824
+user_737,entry_date,15/01/2023
+user_737,entry_time,19:55
+user_737,update_date,2023-11-13
+user_738,name,Cliente 738
+user_738,e-mail,cliente738@exemplo.com
+user_738,cpf,45472810785
+user_738,entry_date,10-11-2023
+user_738,entry_time,12:08 PM
+user_738,update_date,26/09/2023
+user_739,name,Cliente 739
+user_739,e-mail,cliente739@exemplo.com
+user_739,cpf,54963337847
+user_739,entry_date,03-03-2023
+user_739,entry_time,12:36 AM
+user_739,update_date,05/09/2023
+user_740,name,Cliente 740
+user_740,e-mail,cliente740@exemplo.com
+user_740,cpf,88245666224
+user_740,entry_date,2023-08-18
+user_740,entry_time,06:43 PM
+user_740,update_date,2023/04/03
+user_741,name,cliente_741!
+user_741,e-mail,cliente741@exemplo.com
+user_741,cpf,52820828481
+user_741,entry_date,2023/07/03
+user_741,entry_time,05:48 PM
+user_741,update_date,22/11/2023
+user_742,name,Cliente 742
+user_742,e-mail,cliente742@exemplo.com
+user_742,cpf,68909046431
+user_742,entry_date,05/01/2023
+user_742,entry_time,04:36 AM
+user_742,update_date,20 May 2023
+user_743,name,Cliente 743
+user_743,e-mail,cliente743exemplo.com
+user_743,cpf,98303913553
+user_743,entry_date,04 Sep 2023
+user_743,entry_time,05:34 AM
+user_743,update_date,26-09-2023
+user_744,name,Cliente 744
+user_744,e-mail,cliente744@exemplo.com
+user_744,cpf,23173866301
+user_744,entry_date,2023/12/17
+user_744,entry_time,02:50 PM
+user_744,update_date,14/11/2023
+user_745,name,Cliente 745
+user_745,e-mail,cliente745@exemplo.com
+user_745,cpf,26120571508
+user_745,entry_date,08-02-2023
+user_745,entry_time,14:53:32
+user_745,update_date,2023/09/29
+user_746,name,Cliente 746
+user_746,e-mail,cliente746@exemplo.com
+user_746,cpf,24118028302
+user_746,entry_date,21-06-2023
+user_746,entry_time,02:40
+user_746,update_date,2023/11/10
+user_747,name,Cliente 747
+user_747,e-mail,cliente747@exemplo.com
+user_747,cpf,69772347893
+user_747,entry_date,2023/12/21
+user_747,entry_time,01:41 PM
+user_747,update_date,21/11/2023
+user_748,name,Cliente 748
+user_748,e-mail,cliente748@exemplo.com
+user_748,cpf,44611214423
+user_748,entry_date,2023-10-20
+user_748,entry_time,08:07
+user_748,update_date,19-06-2023
+user_749,name,Cliente 749
+user_749,e-mail,cliente749@exemplo.com
+user_749,cpf,99671477724
+user_749,entry_date,27-06-2023
+user_749,entry_time,12:54 AM
+user_749,update_date,28 Aug 2023
+user_750,name,Cliente 750
+user_750,e-mail,cliente750exemplo.com
+user_750,cpf,49361891200
+user_750,entry_date,02/01/2023
+user_750,entry_time,11:11
+user_750,update_date,05/06/2023
+user_751,name,cliente_751!
+user_751,e-mail,cliente751@exemplo.com
+user_751,cpf,39628045516
+user_751,entry_date,20 Dec 2023
+user_751,entry_time,12:55 PM
+user_751,update_date,2023/06/16
+user_752,name,Cliente 752
+user_752,e-mail,cliente752@exemplo.com
+user_752,cpf,11897831714
+user_752,entry_date,2023/03/26
+user_752,entry_time,10:52:05
+user_752,update_date,2023-02-22
+user_753,name,Cliente 753
+user_753,e-mail,cliente753@exemplo.com
+user_753,cpf,77071667519
+user_753,entry_date,26 Jul 2023
+user_753,entry_time,12:30
+user_753,update_date,2023/04/30
+user_754,name,Cliente 754
+user_754,e-mail,cliente754@exemplo.com
+user_754,cpf,95877235846
+user_754,entry_date,30/06/2023
+user_754,entry_time,04:11 PM
+user_754,update_date,31 Aug 2023
+user_755,name,Cliente 755
+user_755,e-mail,cliente755@exemplo.com
+user_755,cpf,85662011547
+user_755,entry_date,2023-02-28
+user_755,entry_time,01:54
+user_755,update_date,2023-01-24
+user_756,name,Cliente 756
+user_756,e-mail,cliente756@exemplo.com
+user_756,cpf,58258036684
+user_756,entry_date,25/07/2023
+user_756,entry_time,03:27:10
+user_756,update_date,03/06/2023
+user_757,name,Cliente 757
+user_757,e-mail,cliente757exemplo.com
+user_757,cpf,24738723997
+user_757,entry_date,2023-06-20
+user_757,entry_time,01:46
+user_757,update_date,27-04-2023
+user_758,name,Cliente 758
+user_758,e-mail,cliente758@exemplo.com
+user_758,cpf,57273269938
+user_758,entry_date,24 Aug 2023
+user_758,entry_time,06:00
+user_758,update_date,22/11/2023
+user_759,name,Cliente 759
+user_759,e-mail,cliente759@exemplo.com
+user_759,cpf,93538195137
+user_759,entry_date,20/11/2023
+user_759,entry_time,22:17
+user_759,update_date,2023-03-30
+user_760,name,Cliente 760
+user_760,e-mail,cliente760@exemplo.com
+user_760,cpf,39352258818
+user_760,entry_date,2023/06/27
+user_760,entry_time,08:00:44
+user_760,update_date,2023-02-09
+user_761,name,cliente_761!
+user_761,e-mail,cliente761@exemplo.com
+user_761,cpf,34135595131
+user_761,entry_date,2023-08-06
+user_761,entry_time,04:26 AM
+user_761,update_date,04 Mar 2023
+user_762,name,Cliente 762
+user_762,e-mail,cliente762@exemplo.com
+user_762,cpf,61009339790
+user_762,entry_date,2023/08/25
+user_762,entry_time,05:00:21
+user_762,update_date,20/09/2023
+user_763,name,Cliente 763
+user_763,e-mail,cliente763@exemplo.com
+user_763,cpf,29965493593
+user_763,entry_date,2023-10-23
+user_763,entry_time,11:08 PM
+user_763,update_date,18-12-2023
+user_764,name,Cliente 764
+user_764,e-mail,cliente764exemplo.com
+user_764,cpf,92554564044
+user_764,entry_date,2023-12-09
+user_764,entry_time,00:53:52
+user_764,update_date,18/04/2023
+user_765,name,Cliente 765
+user_765,e-mail,cliente765@exemplo.com
+user_765,cpf,62924803761
+user_765,entry_date,18/07/2023
+user_765,entry_time,08:52:54
+user_765,update_date,16/07/2023
+user_766,name,Cliente 766
+user_766,e-mail,cliente766@exemplo.com
+user_766,cpf,49855930928
+user_766,entry_date,2023-10-09
+user_766,entry_time,07:43 AM
+user_766,update_date,11-10-2023
+user_767,name,Cliente 767
+user_767,e-mail,cliente767@exemplo.com
+user_767,cpf,58899545036
+user_767,entry_date,2023/06/09
+user_767,entry_time,00:47
+user_767,update_date,2023/04/21
+user_768,name,Cliente 768
+user_768,e-mail,cliente768@exemplo.com
+user_768,cpf,16909818895
+user_768,entry_date,2023/11/09
+user_768,entry_time,10:54:19
+user_768,update_date,12/11/2023
+user_769,name,Cliente 769
+user_769,e-mail,cliente769@exemplo.com
+user_769,cpf,57139056935
+user_769,entry_date,2023/07/16
+user_769,entry_time,02:11 AM
+user_769,update_date,2023-09-30
+user_770,name,Cliente 770
+user_770,e-mail,cliente770@exemplo.com
+user_770,cpf,24205153803
+user_770,entry_date,15 Mar 2023
+user_770,entry_time,18:52:17
+user_770,update_date,22 Jan 2023
+user_771,name,cliente_771!
+user_771,e-mail,cliente771exemplo.com
+user_771,cpf,17178858328
+user_771,entry_date,25-02-2023
+user_771,entry_time,06:33:08
+user_771,update_date,19 Feb 2023
+user_772,name,Cliente 772
+user_772,e-mail,cliente772@exemplo.com
+user_772,cpf,30729414281
+user_772,entry_date,07 Sep 2023
+user_772,entry_time,10:46 AM
+user_772,update_date,04-01-2023
+user_773,name,Cliente 773
+user_773,e-mail,cliente773@exemplo.com
+user_773,cpf,51326729634
+user_773,entry_date,31 Oct 2023
+user_773,entry_time,11:33
+user_773,update_date,2023/01/01
+user_774,name,Cliente 774
+user_774,e-mail,cliente774@exemplo.com
+user_774,cpf,19635856977
+user_774,entry_date,05 Jan 2023
+user_774,entry_time,10:46:37
+user_774,update_date,01/10/2023
+user_775,name,Cliente 775
+user_775,e-mail,cliente775@exemplo.com
+user_775,cpf,85758298653
+user_775,entry_date,2023/07/22
+user_775,entry_time,16:48:27
+user_775,update_date,25 Aug 2023
+user_776,name,Cliente 776
+user_776,e-mail,cliente776@exemplo.com
+user_776,cpf,42561673200
+user_776,entry_date,01 Mar 2023
+user_776,entry_time,01:45:20
+user_776,update_date,12 Apr 2023
+user_777,name,Cliente 777
+user_777,e-mail,cliente777@exemplo.com
+user_777,cpf,43869681499
+user_777,entry_date,01 Aug 2023
+user_777,entry_time,16:07
+user_777,update_date,2023/11/22
+user_778,name,Cliente 778
+user_778,e-mail,cliente778exemplo.com
+user_778,cpf,10303096197
+user_778,entry_date,07-07-2023
+user_778,entry_time,12:43 PM
+user_778,update_date,2023/01/03
+user_779,name,Cliente 779
+user_779,e-mail,cliente779@exemplo.com
+user_779,cpf,80216000714
+user_779,entry_date,2023/08/06
+user_779,entry_time,19:57
+user_779,update_date,04-10-2023
+user_780,name,Cliente 780
+user_780,e-mail,cliente780@exemplo.com
+user_780,cpf,27979329498
+user_780,entry_date,2023/06/07
+user_780,entry_time,12:48 PM
+user_780,update_date,12-03-2023
+user_781,name,cliente_781!
+user_781,e-mail,cliente781@exemplo.com
+user_781,cpf,12480947079
+user_781,entry_date,25 Oct 2023
+user_781,entry_time,11:16 PM
+user_781,update_date,23/06/2023
+user_782,name,Cliente 782
+user_782,e-mail,cliente782@exemplo.com
+user_782,cpf,92959549680
+user_782,entry_date,24/11/2023
+user_782,entry_time,05:19
+user_782,update_date,2023-02-19
+user_783,name,Cliente 783
+user_783,e-mail,cliente783@exemplo.com
+user_783,cpf,17361419694
+user_783,entry_date,16/09/2023
+user_783,entry_time,12:45 AM
+user_783,update_date,06-01-2023
+user_784,name,Cliente 784
+user_784,e-mail,cliente784@exemplo.com
+user_784,cpf,78894694146
+user_784,entry_date,2023-10-17
+user_784,entry_time,01:05:21
+user_784,update_date,25/06/2023
+user_785,name,Cliente 785
+user_785,e-mail,cliente785exemplo.com
+user_785,cpf,93932079053
+user_785,entry_date,20-10-2023
+user_785,entry_time,11:34 AM
+user_785,update_date,2023-01-03
+user_786,name,Cliente 786
+user_786,e-mail,cliente786@exemplo.com
+user_786,cpf,92265887660
+user_786,entry_date,2023-02-09
+user_786,entry_time,17:44:06
+user_786,update_date,2023-11-01
+user_787,name,Cliente 787
+user_787,e-mail,cliente787@exemplo.com
+user_787,cpf,14746750935
+user_787,entry_date,24-10-2023
+user_787,entry_time,15:16:36
+user_787,update_date,09-10-2023
+user_788,name,Cliente 788
+user_788,e-mail,cliente788@exemplo.com
+user_788,cpf,29838287472
+user_788,entry_date,29/10/2023
+user_788,entry_time,04:40
+user_788,update_date,2023/11/26
+user_789,name,Cliente 789
+user_789,e-mail,cliente789@exemplo.com
+user_789,cpf,58728470841
+user_789,entry_date,12-11-2023
+user_789,entry_time,12:38
+user_789,update_date,05/04/2023
+user_790,name,Cliente 790
+user_790,e-mail,cliente790@exemplo.com
+user_790,cpf,98331167345
+user_790,entry_date,21-05-2023
+user_790,entry_time,18:51:43
+user_790,update_date,2023/11/30
+user_791,name,cliente_791!
+user_791,e-mail,cliente791@exemplo.com
+user_791,cpf,66748591093
+user_791,entry_date,06 Jan 2023
+user_791,entry_time,03:49 AM
+user_791,update_date,2023/08/05
+user_792,name,Cliente 792
+user_792,e-mail,cliente792exemplo.com
+user_792,cpf,16450452912
+user_792,entry_date,27/10/2023
+user_792,entry_time,13:02:02
+user_792,update_date,13/05/2023
+user_793,name,Cliente 793
+user_793,e-mail,cliente793@exemplo.com
+user_793,cpf,85707635294
+user_793,entry_date,28 Nov 2023
+user_793,entry_time,22:12
+user_793,update_date,25 Jun 2023
+user_794,name,Cliente 794
+user_794,e-mail,cliente794@exemplo.com
+user_794,cpf,35023536004
+user_794,entry_date,01-12-2023
+user_794,entry_time,08:25:51
+user_794,update_date,2023/11/03
+user_795,name,Cliente 795
+user_795,e-mail,cliente795@exemplo.com
+user_795,cpf,89958749938
+user_795,entry_date,2023-05-15
+user_795,entry_time,20:11
+user_795,update_date,20-09-2023
+user_796,name,Cliente 796
+user_796,e-mail,cliente796@exemplo.com
+user_796,cpf,35130818373
+user_796,entry_date,06/05/2023
+user_796,entry_time,13:37:25
+user_796,update_date,15-01-2023
+user_797,name,Cliente 797
+user_797,e-mail,cliente797@exemplo.com
+user_797,cpf,91674384902
+user_797,entry_date,07 May 2023
+user_797,entry_time,14:13
+user_797,update_date,2023/03/30
+user_798,name,Cliente 798
+user_798,e-mail,cliente798@exemplo.com
+user_798,cpf,16968698360
+user_798,entry_date,21-02-2023
+user_798,entry_time,07:29
+user_798,update_date,2023/10/07
+user_799,name,Cliente 799
+user_799,e-mail,cliente799exemplo.com
+user_799,cpf,32107304382
+user_799,entry_date,03/07/2023
+user_799,entry_time,18:11
+user_799,update_date,27/12/2023
+user_800,name,Cliente 800
+user_800,e-mail,cliente800@exemplo.com
+user_800,cpf,75931617725
+user_800,entry_date,2023/07/04
+user_800,entry_time,18:41
+user_800,update_date,2023-10-27
+user_801,name,cliente_801!
+user_801,e-mail,cliente801@exemplo.com
+user_801,cpf,40318646800
+user_801,entry_date,07-01-2023
+user_801,entry_time,06:29 PM
+user_801,update_date,16 Apr 2023
+user_802,name,Cliente 802
+user_802,e-mail,cliente802@exemplo.com
+user_802,cpf,65493779474
+user_802,entry_date,06/11/2023
+user_802,entry_time,03:40
+user_802,update_date,2023/06/17
+user_803,name,Cliente 803
+user_803,e-mail,cliente803@exemplo.com
+user_803,cpf,67702436274
+user_803,entry_date,2023/06/14
+user_803,entry_time,00:03
+user_803,update_date,29/06/2023
+user_804,name,Cliente 804
+user_804,e-mail,cliente804@exemplo.com
+user_804,cpf,45783980931
+user_804,entry_date,2023-04-15
+user_804,entry_time,07:32 PM
+user_804,update_date,29-09-2023
+user_805,name,Cliente 805
+user_805,e-mail,cliente805@exemplo.com
+user_805,cpf,42033472427
+user_805,entry_date,23 Jul 2023
+user_805,entry_time,18:22:49
+user_805,update_date,03-05-2023
+user_806,name,Cliente 806
+user_806,e-mail,cliente806exemplo.com
+user_806,cpf,53871922543
+user_806,entry_date,2023-05-19
+user_806,entry_time,11:38 PM
+user_806,update_date,24-01-2023
+user_807,name,Cliente 807
+user_807,e-mail,cliente807@exemplo.com
+user_807,cpf,20501964448
+user_807,entry_date,22 Aug 2023
+user_807,entry_time,03:43
+user_807,update_date,26/08/2023
+user_808,name,Cliente 808
+user_808,e-mail,cliente808@exemplo.com
+user_808,cpf,92068277013
+user_808,entry_date,2023/09/15
+user_808,entry_time,07:58
+user_808,update_date,2023-09-19
+user_809,name,Cliente 809
+user_809,e-mail,cliente809@exemplo.com
+user_809,cpf,55336319517
+user_809,entry_date,2023/04/28
+user_809,entry_time,04:23 AM
+user_809,update_date,2023-07-18
+user_810,name,Cliente 810
+user_810,e-mail,cliente810@exemplo.com
+user_810,cpf,39089375504
+user_810,entry_date,16/05/2023
+user_810,entry_time,10:26
+user_810,update_date,22-06-2023
+user_811,name,cliente_811!
+user_811,e-mail,cliente811@exemplo.com
+user_811,cpf,56856730305
+user_811,entry_date,2023/06/27
+user_811,entry_time,01:36 AM
+user_811,update_date,03 Jul 2023
+user_812,name,Cliente 812
+user_812,e-mail,cliente812@exemplo.com
+user_812,cpf,60660359612
+user_812,entry_date,2023-10-24
+user_812,entry_time,04:39:59
+user_812,update_date,26-07-2023
+user_813,name,Cliente 813
+user_813,e-mail,cliente813exemplo.com
+user_813,cpf,40574248926
+user_813,entry_date,2023/08/27
+user_813,entry_time,13:36:30
+user_813,update_date,24 Jan 2023
+user_814,name,Cliente 814
+user_814,e-mail,cliente814@exemplo.com
+user_814,cpf,88814521858
+user_814,entry_date,15-12-2023
+user_814,entry_time,01:57:36
+user_814,update_date,19-02-2023
+user_815,name,Cliente 815
+user_815,e-mail,cliente815@exemplo.com
+user_815,cpf,58957284667
+user_815,entry_date,24 Jan 2023
+user_815,entry_time,04:27 PM
+user_815,update_date,2023/06/05
+user_816,name,Cliente 816
+user_816,e-mail,cliente816@exemplo.com
+user_816,cpf,65409097578
+user_816,entry_date,04/03/2023
+user_816,entry_time,06:21 PM
+user_816,update_date,11 Apr 2023
+user_817,name,Cliente 817
+user_817,e-mail,cliente817@exemplo.com
+user_817,cpf,82963635777
+user_817,entry_date,2023/05/14
+user_817,entry_time,19:55
+user_817,update_date,28/12/2023
+user_818,name,Cliente 818
+user_818,e-mail,cliente818@exemplo.com
+user_818,cpf,75981929435
+user_818,entry_date,17-06-2023
+user_818,entry_time,04:20 AM
+user_818,update_date,2023-04-06
+user_819,name,Cliente 819
+user_819,e-mail,cliente819@exemplo.com
+user_819,cpf,44190721150
+user_819,entry_date,03-02-2023
+user_819,entry_time,18:37:10
+user_819,update_date,03-05-2023
+user_820,name,Cliente 820
+user_820,e-mail,cliente820exemplo.com
+user_820,cpf,18605629041
+user_820,entry_date,21/11/2023
+user_820,entry_time,12:39 AM
+user_820,update_date,2023-10-03
+user_821,name,cliente_821!
+user_821,e-mail,cliente821@exemplo.com
+user_821,cpf,58480382763
+user_821,entry_date,2023-02-26
+user_821,entry_time,19:56
+user_821,update_date,02-09-2023
+user_822,name,Cliente 822
+user_822,e-mail,cliente822@exemplo.com
+user_822,cpf,26566700545
+user_822,entry_date,25 Oct 2023
+user_822,entry_time,01:48
+user_822,update_date,2023/08/07
+user_823,name,Cliente 823
+user_823,e-mail,cliente823@exemplo.com
+user_823,cpf,51755797470
+user_823,entry_date,2023-12-17
+user_823,entry_time,11:19:21
+user_823,update_date,2023-10-17
+user_824,name,Cliente 824
+user_824,e-mail,cliente824@exemplo.com
+user_824,cpf,74157533680
+user_824,entry_date,2023-03-02
+user_824,entry_time,16:13:30
+user_824,update_date,09/04/2023
+user_825,name,Cliente 825
+user_825,e-mail,cliente825@exemplo.com
+user_825,cpf,67781483012
+user_825,entry_date,22 Sep 2023
+user_825,entry_time,19:42:06
+user_825,update_date,13/12/2023
+user_826,name,Cliente 826
+user_826,e-mail,cliente826@exemplo.com
+user_826,cpf,40977596459
+user_826,entry_date,17 Jun 2023
+user_826,entry_time,05:12
+user_826,update_date,2023-03-27
+user_827,name,Cliente 827
+user_827,e-mail,cliente827exemplo.com
+user_827,cpf,25338055067
+user_827,entry_date,2023-08-02
+user_827,entry_time,08:48 AM
+user_827,update_date,13/11/2023
+user_828,name,Cliente 828
+user_828,e-mail,cliente828@exemplo.com
+user_828,cpf,49811572498
+user_828,entry_date,02/11/2023
+user_828,entry_time,06:09 PM
+user_828,update_date,17 Dec 2023
+user_829,name,Cliente 829
+user_829,e-mail,cliente829@exemplo.com
+user_829,cpf,85658905921
+user_829,entry_date,2023-04-15
+user_829,entry_time,13:14:22
+user_829,update_date,2023-11-05
+user_830,name,Cliente 830
+user_830,e-mail,cliente830@exemplo.com
+user_830,cpf,60350015784
+user_830,entry_date,25 Jan 2023
+user_830,entry_time,11:56:09
+user_830,update_date,23-02-2023
+user_831,name,cliente_831!
+user_831,e-mail,cliente831@exemplo.com
+user_831,cpf,51588854662
+user_831,entry_date,06/02/2023
+user_831,entry_time,13:04
+user_831,update_date,21 Aug 2023
+user_832,name,Cliente 832
+user_832,e-mail,cliente832@exemplo.com
+user_832,cpf,24629323400
+user_832,entry_date,22-01-2023
+user_832,entry_time,09:28
+user_832,update_date,13-02-2023
+user_833,name,Cliente 833
+user_833,e-mail,cliente833@exemplo.com
+user_833,cpf,17320076862
+user_833,entry_date,05/02/2023
+user_833,entry_time,11:52 PM
+user_833,update_date,02/01/2023
+user_834,name,Cliente 834
+user_834,e-mail,cliente834exemplo.com
+user_834,cpf,70993693189
+user_834,entry_date,27/09/2023
+user_834,entry_time,21:09:20
+user_834,update_date,2023-02-24
+user_835,name,Cliente 835
+user_835,e-mail,cliente835@exemplo.com
+user_835,cpf,63336452046
+user_835,entry_date,05/05/2023
+user_835,entry_time,21:23
+user_835,update_date,22 Oct 2023
+user_836,name,Cliente 836
+user_836,e-mail,cliente836@exemplo.com
+user_836,cpf,91403620543
+user_836,entry_date,04 Mar 2023
+user_836,entry_time,04:13 PM
+user_836,update_date,2023-11-12
+user_837,name,Cliente 837
+user_837,e-mail,cliente837@exemplo.com
+user_837,cpf,71311528606
+user_837,entry_date,2023/04/09
+user_837,entry_time,04:50:12
+user_837,update_date,23/12/2023
+user_838,name,Cliente 838
+user_838,e-mail,cliente838@exemplo.com
+user_838,cpf,48845974288
+user_838,entry_date,23 Mar 2023
+user_838,entry_time,09:55 AM
+user_838,update_date,03-11-2023
+user_839,name,Cliente 839
+user_839,e-mail,cliente839@exemplo.com
+user_839,cpf,72683091635
+user_839,entry_date,07-08-2023
+user_839,entry_time,03:48
+user_839,update_date,27 Jul 2023
+user_840,name,Cliente 840
+user_840,e-mail,cliente840@exemplo.com
+user_840,cpf,61901425981
+user_840,entry_date,2023-07-26
+user_840,entry_time,23:40:48
+user_840,update_date,2023-07-20
+user_841,name,cliente_841!
+user_841,e-mail,cliente841exemplo.com
+user_841,cpf,53793314606
+user_841,entry_date,18/09/2023
+user_841,entry_time,12:56
+user_841,update_date,12/04/2023
+user_842,name,Cliente 842
+user_842,e-mail,cliente842@exemplo.com
+user_842,cpf,38903255972
+user_842,entry_date,20-05-2023
+user_842,entry_time,01:00
+user_842,update_date,2023-01-08
+user_843,name,Cliente 843
+user_843,e-mail,cliente843@exemplo.com
+user_843,cpf,77307487798
+user_843,entry_date,18 Jan 2023
+user_843,entry_time,02:42
+user_843,update_date,30 Nov 2023
+user_844,name,Cliente 844
+user_844,e-mail,cliente844@exemplo.com
+user_844,cpf,47056610958
+user_844,entry_date,2023-05-08
+user_844,entry_time,07:08:33
+user_844,update_date,2023/10/23
+user_845,name,Cliente 845
+user_845,e-mail,cliente845@exemplo.com
+user_845,cpf,18993368574
+user_845,entry_date,2023-04-27
+user_845,entry_time,19:50:22
+user_845,update_date,14/04/2023
+user_846,name,Cliente 846
+user_846,e-mail,cliente846@exemplo.com
+user_846,cpf,26433587428
+user_846,entry_date,07 Sep 2023
+user_846,entry_time,15:34:32
+user_846,update_date,21/07/2023
+user_847,name,Cliente 847
+user_847,e-mail,cliente847@exemplo.com
+user_847,cpf,89692502339
+user_847,entry_date,2023-01-29
+user_847,entry_time,21:58
+user_847,update_date,2023/05/02
+user_848,name,Cliente 848
+user_848,e-mail,cliente848exemplo.com
+user_848,cpf,22014648208
+user_848,entry_date,2023/09/27
+user_848,entry_time,13:14:34
+user_848,update_date,2023-11-19
+user_849,name,Cliente 849
+user_849,e-mail,cliente849@exemplo.com
+user_849,cpf,67520593576
+user_849,entry_date,04 Dec 2023
+user_849,entry_time,10:02 AM
+user_849,update_date,10-06-2023
+user_850,name,Cliente 850
+user_850,e-mail,cliente850@exemplo.com
+user_850,cpf,32676667921
+user_850,entry_date,20/01/2023
+user_850,entry_time,06:23 PM
+user_850,update_date,2023-09-01
+user_851,name,cliente_851!
+user_851,e-mail,cliente851@exemplo.com
+user_851,cpf,31139589560
+user_851,entry_date,2023-12-23
+user_851,entry_time,05:20
+user_851,update_date,14/04/2023
+user_852,name,Cliente 852
+user_852,e-mail,cliente852@exemplo.com
+user_852,cpf,15126273054
+user_852,entry_date,2023-03-16
+user_852,entry_time,08:14 AM
+user_852,update_date,2023-12-05
+user_853,name,Cliente 853
+user_853,e-mail,cliente853@exemplo.com
+user_853,cpf,78661661723
+user_853,entry_date,2023-04-30
+user_853,entry_time,20:14
+user_853,update_date,28-11-2023
+user_854,name,Cliente 854
+user_854,e-mail,cliente854@exemplo.com
+user_854,cpf,87922650277
+user_854,entry_date,2023-06-08
+user_854,entry_time,09:43 PM
+user_854,update_date,29 Sep 2023
+user_855,name,Cliente 855
+user_855,e-mail,cliente855exemplo.com
+user_855,cpf,41965969096
+user_855,entry_date,16 Mar 2023
+user_855,entry_time,19:07:07
+user_855,update_date,20/03/2023
+user_856,name,Cliente 856
+user_856,e-mail,cliente856@exemplo.com
+user_856,cpf,33360063559
+user_856,entry_date,25 Oct 2023
+user_856,entry_time,20:35
+user_856,update_date,2023/11/14
+user_857,name,Cliente 857
+user_857,e-mail,cliente857@exemplo.com
+user_857,cpf,47226612500
+user_857,entry_date,06/02/2023
+user_857,entry_time,05:19 AM
+user_857,update_date,21 May 2023
+user_858,name,Cliente 858
+user_858,e-mail,cliente858@exemplo.com
+user_858,cpf,59439822409
+user_858,entry_date,11/06/2023
+user_858,entry_time,07:39 AM
+user_858,update_date,12-09-2023
+user_859,name,Cliente 859
+user_859,e-mail,cliente859@exemplo.com
+user_859,cpf,76813208865
+user_859,entry_date,2023-04-29
+user_859,entry_time,05:38 PM
+user_859,update_date,17 Mar 2023
+user_860,name,Cliente 860
+user_860,e-mail,cliente860@exemplo.com
+user_860,cpf,94017723914
+user_860,entry_date,23 Apr 2023
+user_860,entry_time,16:10
+user_860,update_date,17/09/2023
+user_861,name,cliente_861!
+user_861,e-mail,cliente861@exemplo.com
+user_861,cpf,42116816074
+user_861,entry_date,26 Oct 2023
+user_861,entry_time,18:30:28
+user_861,update_date,07-04-2023
+user_862,name,Cliente 862
+user_862,e-mail,cliente862exemplo.com
+user_862,cpf,68131270041
+user_862,entry_date,19 Apr 2023
+user_862,entry_time,01:14:59
+user_862,update_date,04/08/2023
+user_863,name,Cliente 863
+user_863,e-mail,cliente863@exemplo.com
+user_863,cpf,47374121307
+user_863,entry_date,19/07/2023
+user_863,entry_time,07:53
+user_863,update_date,09/02/2023
+user_864,name,Cliente 864
+user_864,e-mail,cliente864@exemplo.com
+user_864,cpf,84244423245
+user_864,entry_date,19-03-2023
+user_864,entry_time,12:07 AM
+user_864,update_date,04-09-2023
+user_865,name,Cliente 865
+user_865,e-mail,cliente865@exemplo.com
+user_865,cpf,29506136950
+user_865,entry_date,20/10/2023
+user_865,entry_time,23:38:24
+user_865,update_date,13-01-2023
+user_866,name,Cliente 866
+user_866,e-mail,cliente866@exemplo.com
+user_866,cpf,43585654417
+user_866,entry_date,2023-05-07
+user_866,entry_time,23:21
+user_866,update_date,2023/04/24
+user_867,name,Cliente 867
+user_867,e-mail,cliente867@exemplo.com
+user_867,cpf,47480734837
+user_867,entry_date,16 Oct 2023
+user_867,entry_time,12:23 PM
+user_867,update_date,2023/10/23
+user_868,name,Cliente 868
+user_868,e-mail,cliente868@exemplo.com
+user_868,cpf,69821538154
+user_868,entry_date,19 Jul 2023
+user_868,entry_time,22:05:31
+user_868,update_date,18 Feb 2023
+user_869,name,Cliente 869
+user_869,e-mail,cliente869exemplo.com
+user_869,cpf,97375414598
+user_869,entry_date,2023/11/08
+user_869,entry_time,14:41
+user_869,update_date,24-01-2023
+user_870,name,Cliente 870
+user_870,e-mail,cliente870@exemplo.com
+user_870,cpf,28044845984
+user_870,entry_date,20/11/2023
+user_870,entry_time,00:28
+user_870,update_date,2023/12/07
+user_871,name,cliente_871!
+user_871,e-mail,cliente871@exemplo.com
+user_871,cpf,28923153390
+user_871,entry_date,14/03/2023
+user_871,entry_time,04:06:17
+user_871,update_date,17-11-2023
+user_872,name,Cliente 872
+user_872,e-mail,cliente872@exemplo.com
+user_872,cpf,96445081313
+user_872,entry_date,23-06-2023
+user_872,entry_time,04:43:53
+user_872,update_date,2023-11-07
+user_873,name,Cliente 873
+user_873,e-mail,cliente873@exemplo.com
+user_873,cpf,38473933141
+user_873,entry_date,25-10-2023
+user_873,entry_time,21:02:05
+user_873,update_date,2023-05-28
+user_874,name,Cliente 874
+user_874,e-mail,cliente874@exemplo.com
+user_874,cpf,82584868849
+user_874,entry_date,2023/06/16
+user_874,entry_time,10:05 PM
+user_874,update_date,2023/08/03
+user_875,name,Cliente 875
+user_875,e-mail,cliente875@exemplo.com
+user_875,cpf,91935060668
+user_875,entry_date,11/12/2023
+user_875,entry_time,13:32
+user_875,update_date,2023/11/24
+user_876,name,Cliente 876
+user_876,e-mail,cliente876exemplo.com
+user_876,cpf,60932813729
+user_876,entry_date,11/05/2023
+user_876,entry_time,14:44
+user_876,update_date,2023-08-20
+user_877,name,Cliente 877
+user_877,e-mail,cliente877@exemplo.com
+user_877,cpf,84603525982
+user_877,entry_date,2023-12-19
+user_877,entry_time,09:50
+user_877,update_date,2023/03/21
+user_878,name,Cliente 878
+user_878,e-mail,cliente878@exemplo.com
+user_878,cpf,73440975126
+user_878,entry_date,2023/05/21
+user_878,entry_time,07:03 PM
+user_878,update_date,27/08/2023
+user_879,name,Cliente 879
+user_879,e-mail,cliente879@exemplo.com
+user_879,cpf,93431337935
+user_879,entry_date,02 Jan 2023
+user_879,entry_time,01:39
+user_879,update_date,2023/03/06
+user_880,name,Cliente 880
+user_880,e-mail,cliente880@exemplo.com
+user_880,cpf,50373805489
+user_880,entry_date,10-02-2023
+user_880,entry_time,10:07
+user_880,update_date,2023/08/16
+user_881,name,cliente_881!
+user_881,e-mail,cliente881@exemplo.com
+user_881,cpf,28978907360
+user_881,entry_date,2023-12-24
+user_881,entry_time,13:24:15
+user_881,update_date,12 Aug 2023
+user_882,name,Cliente 882
+user_882,e-mail,cliente882@exemplo.com
+user_882,cpf,36292681451
+user_882,entry_date,25-10-2023
+user_882,entry_time,04:29 AM
+user_882,update_date,29/01/2023
+user_883,name,Cliente 883
+user_883,e-mail,cliente883exemplo.com
+user_883,cpf,18890998053
+user_883,entry_date,20-08-2023
+user_883,entry_time,08:44:51
+user_883,update_date,07-02-2023
+user_884,name,Cliente 884
+user_884,e-mail,cliente884@exemplo.com
+user_884,cpf,90265382519
+user_884,entry_date,02/07/2023
+user_884,entry_time,01:05:32
+user_884,update_date,02 Jun 2023
+user_885,name,Cliente 885
+user_885,e-mail,cliente885@exemplo.com
+user_885,cpf,54891988781
+user_885,entry_date,2023/02/07
+user_885,entry_time,03:30 PM
+user_885,update_date,2023/03/13
+user_886,name,Cliente 886
+user_886,e-mail,cliente886@exemplo.com
+user_886,cpf,27033295237
+user_886,entry_date,06 Mar 2023
+user_886,entry_time,00:58:38
+user_886,update_date,03-12-2023
+user_887,name,Cliente 887
+user_887,e-mail,cliente887@exemplo.com
+user_887,cpf,98685212143
+user_887,entry_date,05-10-2023
+user_887,entry_time,04:15 PM
+user_887,update_date,2023-03-14
+user_888,name,Cliente 888
+user_888,e-mail,cliente888@exemplo.com
+user_888,cpf,70444651274
+user_888,entry_date,2023-05-26
+user_888,entry_time,09:14:52
+user_888,update_date,31-12-2023
+user_889,name,Cliente 889
+user_889,e-mail,cliente889@exemplo.com
+user_889,cpf,44646233517
+user_889,entry_date,03/09/2023
+user_889,entry_time,17:17:22
+user_889,update_date,13/08/2023
+user_890,name,Cliente 890
+user_890,e-mail,cliente890exemplo.com
+user_890,cpf,76631129752
+user_890,entry_date,2023-03-31
+user_890,entry_time,09:37 AM
+user_890,update_date,2023-01-07
+user_891,name,cliente_891!
+user_891,e-mail,cliente891@exemplo.com
+user_891,cpf,52636804149
+user_891,entry_date,25/08/2023
+user_891,entry_time,12:12 AM
+user_891,update_date,10-12-2023
+user_892,name,Cliente 892
+user_892,e-mail,cliente892@exemplo.com
+user_892,cpf,87519475305
+user_892,entry_date,18-11-2023
+user_892,entry_time,14:47
+user_892,update_date,05/03/2023
+user_893,name,Cliente 893
+user_893,e-mail,cliente893@exemplo.com
+user_893,cpf,44271804722
+user_893,entry_date,27-01-2023
+user_893,entry_time,03:23:37
+user_893,update_date,21-09-2023
+user_894,name,Cliente 894
+user_894,e-mail,cliente894@exemplo.com
+user_894,cpf,91404963005
+user_894,entry_date,2023-07-18
+user_894,entry_time,20:18
+user_894,update_date,17-04-2023
+user_895,name,Cliente 895
+user_895,e-mail,cliente895@exemplo.com
+user_895,cpf,70159188231
+user_895,entry_date,19/01/2023
+user_895,entry_time,11:49:10
+user_895,update_date,08 Jun 2023
+user_896,name,Cliente 896
+user_896,e-mail,cliente896@exemplo.com
+user_896,cpf,38282390324
+user_896,entry_date,27-08-2023
+user_896,entry_time,10:10:14
+user_896,update_date,03/08/2023
+user_897,name,Cliente 897
+user_897,e-mail,cliente897exemplo.com
+user_897,cpf,15665434678
+user_897,entry_date,2023/07/15
+user_897,entry_time,21:18
+user_897,update_date,05 May 2023
+user_898,name,Cliente 898
+user_898,e-mail,cliente898@exemplo.com
+user_898,cpf,28947484579
+user_898,entry_date,23-09-2023
+user_898,entry_time,01:56 AM
+user_898,update_date,16 Jul 2023
+user_899,name,Cliente 899
+user_899,e-mail,cliente899@exemplo.com
+user_899,cpf,22222987159
+user_899,entry_date,16/09/2023
+user_899,entry_time,22:04:24
+user_899,update_date,28/09/2023
+user_900,name,Cliente 900
+user_900,e-mail,cliente900@exemplo.com
+user_900,cpf,59335457911
+user_900,entry_date,10 Jun 2023
+user_900,entry_time,13:52
+user_900,update_date,2023/05/21
+user_901,name,cliente_901!
+user_901,e-mail,cliente901@exemplo.com
+user_901,cpf,12526591379
+user_901,entry_date,05 Jan 2023
+user_901,entry_time,02:01 PM
+user_901,update_date,10 Sep 2023
+user_902,name,Cliente 902
+user_902,e-mail,cliente902@exemplo.com
+user_902,cpf,88853854897
+user_902,entry_date,2023/06/17
+user_902,entry_time,14:06
+user_902,update_date,2023/09/18
+user_903,name,Cliente 903
+user_903,e-mail,cliente903@exemplo.com
+user_903,cpf,85106806351
+user_903,entry_date,30-04-2023
+user_903,entry_time,02:51 AM
+user_903,update_date,23/03/2023
+user_904,name,Cliente 904
+user_904,e-mail,cliente904exemplo.com
+user_904,cpf,26378446958
+user_904,entry_date,05-11-2023
+user_904,entry_time,01:25
+user_904,update_date,2023/11/11
+user_905,name,Cliente 905
+user_905,e-mail,cliente905@exemplo.com
+user_905,cpf,21761838725
+user_905,entry_date,17 Nov 2023
+user_905,entry_time,10:47
+user_905,update_date,05/05/2023
+user_906,name,Cliente 906
+user_906,e-mail,cliente906@exemplo.com
+user_906,cpf,10399978402
+user_906,entry_date,06-03-2023
+user_906,entry_time,17:36
+user_906,update_date,11 Apr 2023
+user_907,name,Cliente 907
+user_907,e-mail,cliente907@exemplo.com
+user_907,cpf,67276535815
+user_907,entry_date,10/01/2023
+user_907,entry_time,05:30 AM
+user_907,update_date,26/01/2023
+user_908,name,Cliente 908
+user_908,e-mail,cliente908@exemplo.com
+user_908,cpf,27953496446
+user_908,entry_date,05/06/2023
+user_908,entry_time,06:34
+user_908,update_date,18/11/2023
+user_909,name,Cliente 909
+user_909,e-mail,cliente909@exemplo.com
+user_909,cpf,70832449136
+user_909,entry_date,30/07/2023
+user_909,entry_time,08:56
+user_909,update_date,2023/06/11
+user_910,name,Cliente 910
+user_910,e-mail,cliente910@exemplo.com
+user_910,cpf,72549996510
+user_910,entry_date,21/04/2023
+user_910,entry_time,08:14
+user_910,update_date,2024-01-01
+user_911,name,cliente_911!
+user_911,e-mail,cliente911exemplo.com
+user_911,cpf,98396577928
+user_911,entry_date,20/02/2023
+user_911,entry_time,13:39:46
+user_911,update_date,2023-05-27
+user_912,name,Cliente 912
+user_912,e-mail,cliente912@exemplo.com
+user_912,cpf,69160858369
+user_912,entry_date,11 Nov 2023
+user_912,entry_time,01:02:28
+user_912,update_date,07 Jan 2023
+user_913,name,Cliente 913
+user_913,e-mail,cliente913@exemplo.com
+user_913,cpf,26794453143
+user_913,entry_date,04/03/2023
+user_913,entry_time,08:26 PM
+user_913,update_date,2023/11/04
+user_914,name,Cliente 914
+user_914,e-mail,cliente914@exemplo.com
+user_914,cpf,45753915113
+user_914,entry_date,30/10/2023
+user_914,entry_time,02:12:49
+user_914,update_date,02-12-2023
+user_915,name,Cliente 915
+user_915,e-mail,cliente915@exemplo.com
+user_915,cpf,73392047683
+user_915,entry_date,04 Dec 2023
+user_915,entry_time,23:22:52
+user_915,update_date,2023/08/15
+user_916,name,Cliente 916
+user_916,e-mail,cliente916@exemplo.com
+user_916,cpf,75493330267
+user_916,entry_date,2023/01/22
+user_916,entry_time,02:40:21
+user_916,update_date,2023/12/29
+user_917,name,Cliente 917
+user_917,e-mail,cliente917@exemplo.com
+user_917,cpf,50969455239
+user_917,entry_date,14-07-2023
+user_917,entry_time,07:17 AM
+user_917,update_date,21 May 2023
+user_918,name,Cliente 918
+user_918,e-mail,cliente918exemplo.com
+user_918,cpf,85717923046
+user_918,entry_date,2023/07/23
+user_918,entry_time,06:06 PM
+user_918,update_date,2023-12-05
+user_919,name,Cliente 919
+user_919,e-mail,cliente919@exemplo.com
+user_919,cpf,91413233553
+user_919,entry_date,14 May 2023
+user_919,entry_time,14:55
+user_919,update_date,2023/04/08
+user_920,name,Cliente 920
+user_920,e-mail,cliente920@exemplo.com
+user_920,cpf,71877135082
+user_920,entry_date,2023/07/12
+user_920,entry_time,05:25 PM
+user_920,update_date,12/11/2023
+user_921,name,cliente_921!
+user_921,e-mail,cliente921@exemplo.com
+user_921,cpf,61759623879
+user_921,entry_date,27-05-2023
+user_921,entry_time,21:45:07
+user_921,update_date,04 Apr 2023
+user_922,name,Cliente 922
+user_922,e-mail,cliente922@exemplo.com
+user_922,cpf,60513643185
+user_922,entry_date,14-07-2023
+user_922,entry_time,07:31 AM
+user_922,update_date,29/07/2023
+user_923,name,Cliente 923
+user_923,e-mail,cliente923@exemplo.com
+user_923,cpf,92129916420
+user_923,entry_date,2023-01-15
+user_923,entry_time,10:59:47
+user_923,update_date,31/12/2023
+user_924,name,Cliente 924
+user_924,e-mail,cliente924@exemplo.com
+user_924,cpf,37982459163
+user_924,entry_date,28 Nov 2023
+user_924,entry_time,16:05:58
+user_924,update_date,16-12-2023
+user_925,name,Cliente 925
+user_925,e-mail,cliente925exemplo.com
+user_925,cpf,26767549212
+user_925,entry_date,2023/11/08
+user_925,entry_time,05:04:42
+user_925,update_date,2023-08-24
+user_926,name,Cliente 926
+user_926,e-mail,cliente926@exemplo.com
+user_926,cpf,76793831537
+user_926,entry_date,2023-09-02
+user_926,entry_time,01:54
+user_926,update_date,09/03/2023
+user_927,name,Cliente 927
+user_927,e-mail,cliente927@exemplo.com
+user_927,cpf,39334377509
+user_927,entry_date,2023-05-06
+user_927,entry_time,15:37
+user_927,update_date,25 May 2023
+user_928,name,Cliente 928
+user_928,e-mail,cliente928@exemplo.com
+user_928,cpf,28235387928
+user_928,entry_date,2023/09/09
+user_928,entry_time,07:39
+user_928,update_date,07 Mar 2023
+user_929,name,Cliente 929
+user_929,e-mail,cliente929@exemplo.com
+user_929,cpf,19227211776
+user_929,entry_date,2023/03/10
+user_929,entry_time,07:34
+user_929,update_date,2023/02/11
+user_930,name,Cliente 930
+user_930,e-mail,cliente930@exemplo.com
+user_930,cpf,46922410157
+user_930,entry_date,2023-07-19
+user_930,entry_time,16:23:11
+user_930,update_date,24/12/2023
+user_931,name,cliente_931!
+user_931,e-mail,cliente931@exemplo.com
+user_931,cpf,65138654612
+user_931,entry_date,2023-10-31
+user_931,entry_time,06:46:50
+user_931,update_date,2023/07/12
+user_932,name,Cliente 932
+user_932,e-mail,cliente932exemplo.com
+user_932,cpf,89658353751
+user_932,entry_date,2023/01/19
+user_932,entry_time,11:46
+user_932,update_date,2023-11-05
+user_933,name,Cliente 933
+user_933,e-mail,cliente933@exemplo.com
+user_933,cpf,43898500431
+user_933,entry_date,25-02-2023
+user_933,entry_time,09:35
+user_933,update_date,21 Jul 2023
+user_934,name,Cliente 934
+user_934,e-mail,cliente934@exemplo.com
+user_934,cpf,96987814450
+user_934,entry_date,10/10/2023
+user_934,entry_time,06:57
+user_934,update_date,14/10/2023
+user_935,name,Cliente 935
+user_935,e-mail,cliente935@exemplo.com
+user_935,cpf,64121599935
+user_935,entry_date,03/11/2023
+user_935,entry_time,05:01
+user_935,update_date,27 Dec 2023
+user_936,name,Cliente 936
+user_936,e-mail,cliente936@exemplo.com
+user_936,cpf,93211927113
+user_936,entry_date,18-04-2023
+user_936,entry_time,12:15
+user_936,update_date,2023/10/05
+user_937,name,Cliente 937
+user_937,e-mail,cliente937@exemplo.com
+user_937,cpf,95780598835
+user_937,entry_date,2023/09/08
+user_937,entry_time,22:31
+user_937,update_date,19-01-2023
+user_938,name,Cliente 938
+user_938,e-mail,cliente938@exemplo.com
+user_938,cpf,63955658271
+user_938,entry_date,2023-01-09
+user_938,entry_time,09:10:51
+user_938,update_date,30/07/2023
+user_939,name,Cliente 939
+user_939,e-mail,cliente939exemplo.com
+user_939,cpf,50997480414
+user_939,entry_date,18-07-2023
+user_939,entry_time,00:46:47
+user_939,update_date,2023-01-16
+user_940,name,Cliente 940
+user_940,e-mail,cliente940@exemplo.com
+user_940,cpf,12374290814
+user_940,entry_date,2023/10/24
+user_940,entry_time,06:53
+user_940,update_date,13/03/2023
+user_941,name,cliente_941!
+user_941,e-mail,cliente941@exemplo.com
+user_941,cpf,83320050949
+user_941,entry_date,19-05-2023
+user_941,entry_time,15:44:55
+user_941,update_date,2023/04/16
+user_942,name,Cliente 942
+user_942,e-mail,cliente942@exemplo.com
+user_942,cpf,57781534249
+user_942,entry_date,03 Dec 2023
+user_942,entry_time,11:42:04
+user_942,update_date,07 Apr 2023
+user_943,name,Cliente 943
+user_943,e-mail,cliente943@exemplo.com
+user_943,cpf,98723697411
+user_943,entry_date,15/09/2023
+user_943,entry_time,05:03 PM
+user_943,update_date,2023-10-28
+user_944,name,Cliente 944
+user_944,e-mail,cliente944@exemplo.com
+user_944,cpf,43807991381
+user_944,entry_date,13-07-2023
+user_944,entry_time,05:34 PM
+user_944,update_date,13/08/2023
+user_945,name,Cliente 945
+user_945,e-mail,cliente945@exemplo.com
+user_945,cpf,61940652995
+user_945,entry_date,26/11/2023
+user_945,entry_time,10:23 AM
+user_945,update_date,19-12-2023
+user_946,name,Cliente 946
+user_946,e-mail,cliente946exemplo.com
+user_946,cpf,55313314696
+user_946,entry_date,2023/10/23
+user_946,entry_time,07:30 PM
+user_946,update_date,2023-09-06
+user_947,name,Cliente 947
+user_947,e-mail,cliente947@exemplo.com
+user_947,cpf,52650739081
+user_947,entry_date,20 Oct 2023
+user_947,entry_time,11:39:27
+user_947,update_date,2023-08-20
+user_948,name,Cliente 948
+user_948,e-mail,cliente948@exemplo.com
+user_948,cpf,86778068505
+user_948,entry_date,2023-12-22
+user_948,entry_time,04:47:52
+user_948,update_date,29-11-2023
+user_949,name,Cliente 949
+user_949,e-mail,cliente949@exemplo.com
+user_949,cpf,94708776303
+user_949,entry_date,01/06/2023
+user_949,entry_time,18:29:47
+user_949,update_date,21 Mar 2023
+user_950,name,Cliente 950
+user_950,e-mail,cliente950@exemplo.com
+user_950,cpf,26686447243
+user_950,entry_date,2023/05/30
+user_950,entry_time,18:21
+user_950,update_date,2023/05/14
+user_951,name,cliente_951!
+user_951,e-mail,cliente951@exemplo.com
+user_951,cpf,59073944933
+user_951,entry_date,06-12-2023
+user_951,entry_time,14:10:45
+user_951,update_date,2023/08/01
+user_952,name,Cliente 952
+user_952,e-mail,cliente952@exemplo.com
+user_952,cpf,95309192920
+user_952,entry_date,19-12-2023
+user_952,entry_time,09:31 PM
+user_952,update_date,27-11-2023
+user_953,name,Cliente 953
+user_953,e-mail,cliente953exemplo.com
+user_953,cpf,47361208591
+user_953,entry_date,04-11-2023
+user_953,entry_time,09:19 PM
+user_953,update_date,06/11/2023
+user_954,name,Cliente 954
+user_954,e-mail,cliente954@exemplo.com
+user_954,cpf,93613894380
+user_954,entry_date,2023/12/22
+user_954,entry_time,08:37 PM
+user_954,update_date,2023/02/28
+user_955,name,Cliente 955
+user_955,e-mail,cliente955@exemplo.com
+user_955,cpf,88621300670
+user_955,entry_date,26 Apr 2023
+user_955,entry_time,03:51 PM
+user_955,update_date,18 Apr 2023
+user_956,name,Cliente 956
+user_956,e-mail,cliente956@exemplo.com
+user_956,cpf,55846339929
+user_956,entry_date,2023-02-06
+user_956,entry_time,21:51
+user_956,update_date,2023/06/29
+user_957,name,Cliente 957
+user_957,e-mail,cliente957@exemplo.com
+user_957,cpf,75387054114
+user_957,entry_date,2023/01/03
+user_957,entry_time,06:59
+user_957,update_date,29 Dec 2023
+user_958,name,Cliente 958
+user_958,e-mail,cliente958@exemplo.com
+user_958,cpf,77314760067
+user_958,entry_date,2023/12/25
+user_958,entry_time,17:28
+user_958,update_date,2023/03/07
+user_959,name,Cliente 959
+user_959,e-mail,cliente959@exemplo.com
+user_959,cpf,80694497360
+user_959,entry_date,06-01-2023
+user_959,entry_time,03:48
+user_959,update_date,2023/03/28
+user_960,name,Cliente 960
+user_960,e-mail,cliente960exemplo.com
+user_960,cpf,50649829128
+user_960,entry_date,2023-11-20
+user_960,entry_time,21:23
+user_960,update_date,27 May 2023
+user_961,name,cliente_961!
+user_961,e-mail,cliente961@exemplo.com
+user_961,cpf,31762109651
+user_961,entry_date,09 Jul 2023
+user_961,entry_time,05:25:34
+user_961,update_date,2023-03-11
+user_962,name,Cliente 962
+user_962,e-mail,cliente962@exemplo.com
+user_962,cpf,76770413261
+user_962,entry_date,05/02/2023
+user_962,entry_time,10:59
+user_962,update_date,2023/10/29
+user_963,name,Cliente 963
+user_963,e-mail,cliente963@exemplo.com
+user_963,cpf,55456796587
+user_963,entry_date,2023-09-28
+user_963,entry_time,06:36 PM
+user_963,update_date,2023-07-21
+user_964,name,Cliente 964
+user_964,e-mail,cliente964@exemplo.com
+user_964,cpf,64883982397
+user_964,entry_date,27-10-2023
+user_964,entry_time,08:20:43
+user_964,update_date,30/05/2023
+user_965,name,Cliente 965
+user_965,e-mail,cliente965@exemplo.com
+user_965,cpf,34164113081
+user_965,entry_date,2023-03-02
+user_965,entry_time,08:56:18
+user_965,update_date,2023-07-19
+user_966,name,Cliente 966
+user_966,e-mail,cliente966@exemplo.com
+user_966,cpf,99486977287
+user_966,entry_date,02 Jan 2023
+user_966,entry_time,23:37
+user_966,update_date,06/08/2023
+user_967,name,Cliente 967
+user_967,e-mail,cliente967exemplo.com
+user_967,cpf,71778130363
+user_967,entry_date,2023-06-07
+user_967,entry_time,11:55 AM
+user_967,update_date,16/12/2023
+user_968,name,Cliente 968
+user_968,e-mail,cliente968@exemplo.com
+user_968,cpf,68969967393
+user_968,entry_date,01/06/2023
+user_968,entry_time,04:58 AM
+user_968,update_date,2023-12-29
+user_969,name,Cliente 969
+user_969,e-mail,cliente969@exemplo.com
+user_969,cpf,32989778947
+user_969,entry_date,21 Jun 2023
+user_969,entry_time,19:05
+user_969,update_date,17 Sep 2023
+user_970,name,Cliente 970
+user_970,e-mail,cliente970@exemplo.com
+user_970,cpf,25314062934
+user_970,entry_date,27-10-2023
+user_970,entry_time,20:02:56
+user_970,update_date,11-08-2023
+user_971,name,cliente_971!
+user_971,e-mail,cliente971@exemplo.com
+user_971,cpf,16914038805
+user_971,entry_date,2023/07/17
+user_971,entry_time,10:33 PM
+user_971,update_date,23/11/2023
+user_972,name,Cliente 972
+user_972,e-mail,cliente972@exemplo.com
+user_972,cpf,88528495605
+user_972,entry_date,19-02-2023
+user_972,entry_time,14:45
+user_972,update_date,2023/09/18
+user_973,name,Cliente 973
+user_973,e-mail,cliente973@exemplo.com
+user_973,cpf,12250677468
+user_973,entry_date,03 Mar 2023
+user_973,entry_time,07:50 PM
+user_973,update_date,25/05/2023
+user_974,name,Cliente 974
+user_974,e-mail,cliente974exemplo.com
+user_974,cpf,20783250439
+user_974,entry_date,18-08-2023
+user_974,entry_time,03:00
+user_974,update_date,2023-04-12
+user_975,name,Cliente 975
+user_975,e-mail,cliente975@exemplo.com
+user_975,cpf,17887385762
+user_975,entry_date,2023/05/01
+user_975,entry_time,20:59:27
+user_975,update_date,14 Jun 2023
+user_976,name,Cliente 976
+user_976,e-mail,cliente976@exemplo.com
+user_976,cpf,62075107884
+user_976,entry_date,12-08-2023
+user_976,entry_time,22:34:07
+user_976,update_date,14/02/2023
+user_977,name,Cliente 977
+user_977,e-mail,cliente977@exemplo.com
+user_977,cpf,25886443934
+user_977,entry_date,02-01-2023
+user_977,entry_time,07:48
+user_977,update_date,25/09/2023
+user_978,name,Cliente 978
+user_978,e-mail,cliente978@exemplo.com
+user_978,cpf,34517678891
+user_978,entry_date,2023/04/25
+user_978,entry_time,02:02
+user_978,update_date,13-10-2023
+user_979,name,Cliente 979
+user_979,e-mail,cliente979@exemplo.com
+user_979,cpf,24872089785
+user_979,entry_date,2023-02-08
+user_979,entry_time,05:42:25
+user_979,update_date,2023/10/08
+user_980,name,Cliente 980
+user_980,e-mail,cliente980@exemplo.com
+user_980,cpf,44561749490
+user_980,entry_date,10 Jun 2023
+user_980,entry_time,23:24
+user_980,update_date,27-10-2023
+user_981,name,cliente_981!
+user_981,e-mail,cliente981exemplo.com
+user_981,cpf,20588143992
+user_981,entry_date,06/07/2023
+user_981,entry_time,10:29
+user_981,update_date,06/03/2023
+user_982,name,Cliente 982
+user_982,e-mail,cliente982@exemplo.com
+user_982,cpf,74745651917
+user_982,entry_date,26 Aug 2023
+user_982,entry_time,01:16
+user_982,update_date,2023-09-04
+user_983,name,Cliente 983
+user_983,e-mail,cliente983@exemplo.com
+user_983,cpf,40889077255
+user_983,entry_date,2023-03-15
+user_983,entry_time,16:05
+user_983,update_date,10-12-2023
+user_984,name,Cliente 984
+user_984,e-mail,cliente984@exemplo.com
+user_984,cpf,63824918619
+user_984,entry_date,2023-11-23
+user_984,entry_time,11:23 AM
+user_984,update_date,2023-04-22
+user_985,name,Cliente 985
+user_985,e-mail,cliente985@exemplo.com
+user_985,cpf,55628828143
+user_985,entry_date,04/03/2023
+user_985,entry_time,09:11:16
+user_985,update_date,2023/01/05
+user_986,name,Cliente 986
+user_986,e-mail,cliente986@exemplo.com
+user_986,cpf,30702898273
+user_986,entry_date,26/09/2023
+user_986,entry_time,08:48:34
+user_986,update_date,01 Feb 2023
+user_987,name,Cliente 987
+user_987,e-mail,cliente987@exemplo.com
+user_987,cpf,52776710383
+user_987,entry_date,28-03-2023
+user_987,entry_time,01:26 AM
+user_987,update_date,01 Aug 2023
+user_988,name,Cliente 988
+user_988,e-mail,cliente988exemplo.com
+user_988,cpf,61855683252
+user_988,entry_date,2023-02-12
+user_988,entry_time,12:24
+user_988,update_date,2023/06/10
+user_989,name,Cliente 989
+user_989,e-mail,cliente989@exemplo.com
+user_989,cpf,51353618839
+user_989,entry_date,2023-04-26
+user_989,entry_time,07:34 AM
+user_989,update_date,30-06-2023
+user_990,name,Cliente 990
+user_990,e-mail,cliente990@exemplo.com
+user_990,cpf,74873491636
+user_990,entry_date,2023/05/02
+user_990,entry_time,11:53:21
+user_990,update_date,13 May 2023
+user_991,name,cliente_991!
+user_991,e-mail,cliente991@exemplo.com
+user_991,cpf,16472796161
+user_991,entry_date,19-09-2023
+user_991,entry_time,15:06:17
+user_991,update_date,2023/03/27
+user_992,name,Cliente 992
+user_992,e-mail,cliente992@exemplo.com
+user_992,cpf,98589178338
+user_992,entry_date,08 Mar 2023
+user_992,entry_time,22:32:18
+user_992,update_date,2023-05-12
+user_993,name,Cliente 993
+user_993,e-mail,cliente993@exemplo.com
+user_993,cpf,57685176418
+user_993,entry_date,2023/09/19
+user_993,entry_time,03:23 PM
+user_993,update_date,2023-04-06
+user_994,name,Cliente 994
+user_994,e-mail,cliente994@exemplo.com
+user_994,cpf,95669995667
+user_994,entry_date,2023-05-27
+user_994,entry_time,04:06 AM
+user_994,update_date,2023-06-16
+user_995,name,Cliente 995
+user_995,e-mail,cliente995exemplo.com
+user_995,cpf,18290851274
+user_995,entry_date,16 Jan 2023
+user_995,entry_time,03:18
+user_995,update_date,01/11/2023
+user_996,name,Cliente 996
+user_996,e-mail,cliente996@exemplo.com
+user_996,cpf,50926546827
+user_996,entry_date,18 Nov 2023
+user_996,entry_time,00:02
+user_996,update_date,25/03/2023
+user_997,name,Cliente 997
+user_997,e-mail,cliente997@exemplo.com
+user_997,cpf,32000789036
+user_997,entry_date,03-12-2023
+user_997,entry_time,19:34
+user_997,update_date,2023-09-13
+user_998,name,Cliente 998
+user_998,e-mail,cliente998@exemplo.com
+user_998,cpf,11155906290
+user_998,entry_date,2023/03/10
+user_998,entry_time,04:48:55
+user_998,update_date,25-03-2023
+user_999,name,Cliente 999
+user_999,e-mail,cliente999@exemplo.com
+user_999,cpf,92303900565
+user_999,entry_date,15 Sep 2023
+user_999,entry_time,12:03 AM
+user_999,update_date,21 Jun 2023
+user_1000,name,Cliente 1000
+user_1000,e-mail,cliente1000@exemplo.com
+user_1000,cpf,25178732742
+user_1000,entry_date,2023/07/31
+user_1000,entry_time,22:16:47
+user_1000,update_date,2023-05-24
